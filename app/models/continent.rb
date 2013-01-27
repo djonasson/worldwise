@@ -3,8 +3,8 @@ class Continent < ActiveRecord::Base
 
   translates :name, :alternative_names, fallbacks_for_empty_translations: true
 
-  validates :code, presence: true
-  validates :name, presence: true
+  validates :code, presence: true, uniqueness: true
+  validates :name, presence: true, uniqueness: true
 
   has_and_belongs_to_many :continent_models
 
