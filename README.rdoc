@@ -1,5 +1,7 @@
 = Worldwise
 
+*STATUS: In development - not ready to be used.*
+
 Worldwise is a Rails gem that provides your application with a series of
 ActiveRecord models representing various aspects of our world, such as
 geographic/political divisions, languages, currencies and more. Globalize3 is
