@@ -31,6 +31,32 @@ These continent models are all handled by Worldwise.
   ]
 
 
+== Continents
+
+Since you'll probably only want to work with one continent model in your
+application it doesn't make much sense to have to pass through it in order to
+get to the continents. For this reason there is a default scope on the
+Continent model, giving you only the continents for the currently selected
+continent model (this defaults to the 7 continents model).
+
+  irb(main)> Continent.all.count
+  => 7
+
+To change the default continent model:
+
+  Worldwise.default_continent_model = :CM4
+  # Available options: [:CM4, :CM5, :CM6A, :CM6E, :CM7]
+
+If, for whatever reason, you need to explicitly get the continents of a
+particular continent model you need to use unscope:
+
+  irb(main)> Continent.count
+  => 7
+
+  irb(main)> Continent.unscoped.count
+  => 10
+
+
 == Roadmap
 
 === Planned
@@ -50,5 +76,5 @@ These continent models are all handled by Worldwise.
 
 === Implemented
 
-* <no>Add Continent model and data</no>
-* <no>Add ContinentModel model and data</no>
+* Add Continent model and data
+* Add ContinentModel model and data<
