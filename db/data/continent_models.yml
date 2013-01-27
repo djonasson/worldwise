@@ -1,0 +1,42 @@
+# encoding: UTF-8
+---
+-
+  id: 1
+  code: CM4
+  translations_attributes:
+    -
+      locale: en
+      name: "4 Continents"
+      description: "The four-continent model consists of: Afro-Eurasia, America, Antarctica and Australia."
+-
+  id: 2
+  code: CM5
+  translations_attributes:
+    -
+      locale: en
+      name: "5 Continents"
+      description: "The five-continent model consists of: Africa, Eurasia, America, Antarctica and Australia."
+-
+  id: 3
+  code: CM6A
+  translations_attributes:
+    -
+      locale: en
+      name: "6 Continents (America)"
+      description: "The six-continent America-model consists of: Africa, Europe, Asia, America, Antarctica and Australia."
+-
+  id: 4
+  code: CM6E
+  translations_attributes:
+    -
+      locale: en
+      name: "6 Continents (Eurasia)"
+      description: "The six-continent Eurasia-model consists of: Africa, Eurasia, North America, South America, Antarctica and Australia."
+-
+  id: 5
+  code: CM7
+  translations_attributes:
+    -
+      locale: en
+      name: "7 Continents"
+      description: "The seven-continent model consists of: Africa, Europe, Asia, North America, South America, Antarctica and Australia."

@@ -1,0 +1,17 @@
+# This migration comes from worldwise_engine (originally 20130126102623)
+class CreateContinentModels < ActiveRecord::Migration
+  def up
+    create_table :continent_models do |t|
+      t.string :code
+    end
+    ContinentModel.create_translation_table!(
+      name: :string,
+      description: :text
+    )
+  end
+
+  def down
+    drop_table :continent_models
+    ContinentModel.drop_translation_table!
+  end
+end

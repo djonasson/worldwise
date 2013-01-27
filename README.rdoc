@@ -1,3 +1,14 @@
 = Worldwise
 
-This project rocks and uses MIT-LICENSE.
+== Continent Models
+
+There are several ways of dividing the planet into continents. The most common
+of these continent models are:
+
+4 continents | Afro-Eurasia                           | America                       | Antarctica | Australia
+5 continents | Africa       | Eurasia                 | America                       | Antarctica | Australia
+6 continents | Africa       | Europe  | Asia          | America                       | Antarctica | Australia
+6 continents | Africa       | Eurasia                 | North America | South America | Antarctica | Australia
+7 continents | Africa       | Europe  | Asia          | North America | South America | Antarctica | Australia
+
+The continent models are all handled by Worldwise.

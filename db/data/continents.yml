@@ -1,0 +1,1286 @@
+# encoding: UTF-8
+---
+-
+  id: 1
+  code: AF
+  land_mass_percentage: 20.4
+  continent_model_ids: [2, 3, 4, 5]
+  translations_attributes:
+    -
+      locale: ar
+      name: "أفريقيا"
+      alternative_names:
+    -
+      locale: bg
+      name: "Африка"
+      alternative_names:
+    -
+      locale: bs
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: ca
+      name: "Àfrica"
+      alternative_names:
+    -
+      locale: cs
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: cy
+      name: "Affrica"
+      alternative_names:
+    -
+      locale: da
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: de
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: el
+      name: "Αφρική"
+      alternative_names:
+    -
+      locale: en
+      name: "Africa"
+      alternative_names:
+    -
+      locale: eo
+      name: "Afriko"
+      alternative_names:
+    -
+      locale: es
+      name: "África"
+      alternative_names:
+    -
+      locale: eu
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: fa
+      name: "افریقا"
+      alternative_names:
+    -
+      locale: fi
+      name: "Afrikka"
+      alternative_names:
+    -
+      locale: fr
+      name: "Afrique"
+      alternative_names:
+    -
+      locale: ga
+      name: "an Afraic"
+      alternative_names:
+    -
+      locale: he
+      name: "אפריקה"
+      alternative_names:
+    -
+      locale: hi
+      name: "अफ़्रीका"
+      alternative_names:
+    -
+      locale: hu
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: id
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: is
+      name: "Afríka"
+      alternative_names:
+    -
+      locale: ja
+      name: "アフリカ"
+      alternative_names:
+    -
+      locale: ko
+      name: "아프리카"
+      alternative_names:
+    -
+      locale: la
+      name: "Africa"
+      alternative_names:
+    -
+      locale: lt
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: lv
+      name: "Āfrika"
+      alternative_names:
+    -
+      locale: nb
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: nl
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: no
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: pl
+      name: "Afryka"
+      alternative_names:
+    -
+      locale: pt
+      name: "África"
+      alternative_names:
+    -
+      locale: ru
+      name: "Африка"
+      alternative_names:
+    -
+      locale: se
+      name: "Afrihkká"
+      alternative_names:
+    -
+      locale: sv
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: th
+      name: "แอฟริกา"
+      alternative_names:
+    -
+      locale: tr
+      name: "Afrika"
+      alternative_names:
+    -
+      locale: uk
+      name: "Африка"
+      alternative_names:
+    -
+      locale: vi
+      name: "Châu Phi"
+      alternative_names:
+    -
+      locale: zh
+      name: "非洲"
+      alternative_names:
+-
+  id: 2
+  code: AF-EU-AS
+  land_mass_percentage: 56.7
+  continent_model_ids: [1]
+  translations_attributes:
+    -
+      locale: en
+      name: "Afro-Eurasia"
+      alternative_names:
+    -
+      locale: it
+      name: "Afro-Eurasia"
+      alternative_names:
+    -
+      locale: sv
+      name: "Afrika-Eurasien"
+      alternative_names:
+-
+  id: 3
+  code: AM
+  land_mass_percentage: 28.5
+  continent_model_ids: [1, 2, 3]
+  translations_attributes:
+    -
+      locale: en
+      name: "America"
+      alternative_names:
+    -
+      locale: it
+      name: "America"
+      alternative_names:
+    -
+      locale: sv
+      name: "Amerika"
+      alternative_names:
+-
+  id: 4
+  code: AN
+  land_mass_percentage: 9.2
+  continent_model_ids: [1, 2, 3, 4, 5]
+  translations_attributes:
+    -
+      locale: af
+      name: "Antarktika"
+      alternative_names:
+    -
+      locale: am
+      name: "አንታርክቲካ"
+      alternative_names:
+    -
+      locale: ar
+      name: "القطب الجنوبي"
+      alternative_names:
+    -
+      locale: be
+      name: "Антарктыка"
+      alternative_names:
+    -
+      locale: bg
+      name: "Антарктика"
+      alternative_names:
+    -
+      locale: bn
+      name: "আন্টার্কটিকা"
+      alternative_names:
+    -
+      locale: bo
+      name: "ལྷོ་རྩེའི་མཐའ་གླིང་།"
+      alternative_names:
+    -
+      locale: bs
+      name: "Antarktik"
+      alternative_names:
+    -
+      locale: ca
+      name: "Antàrtida"
+      alternative_names:
+    -
+      locale: cs
+      name: "Antarktida"
+      alternative_names:
+    -
+      locale: cy
+      name: "Antarctica"
+      alternative_names:
+    -
+      locale: da
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: de
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: dz
+      name: "ཨེན་ཊཱག་ཊི་ཀ"
+      alternative_names:
+    -
+      locale: el
+      name: "Ανταρκτική"
+      alternative_names:
+    -
+      locale: en
+      name: "Antarctica"
+      alternative_names:
+    -
+      locale: eo
+      name: "Antarkto"
+      alternative_names:
+    -
+      locale: es
+      name: "Antártida"
+      alternative_names:
+    -
+      locale: et
+      name: "Antarktika"
+      alternative_names:
+    -
+      locale: eu
+      name: "Antartika"
+      alternative_names:
+    -
+      locale: fa
+      name: "قطب جنوب"
+      alternative_names:
+    -
+      locale: fi
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: fo
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: fr
+      name: "Antarctique"
+      alternative_names:
+    -
+      locale: ga
+      name: "an Antartaice"
+      alternative_names:
+    -
+      locale: gl
+      name: "Antártida"
+      alternative_names:
+    -
+      locale: he
+      name: "אנטרקטיקה"
+      alternative_names:
+    -
+      locale: hi
+      name: "अंटार्कटिका"
+      alternative_names:
+    -
+      locale: hr
+      name: "Antarktika"
+      alternative_names:
+    -
+      locale: hu
+      name: "Antarktisz"
+      alternative_names:
+    -
+      locale: ia
+      name: "Antarctica"
+      alternative_names:
+    -
+      locale: id
+      name: "Antartika"
+      alternative_names:
+    -
+      locale: is
+      name: "Suðurheimskautslandið"
+      alternative_names:
+    -
+      locale: it
+      name: "Antartide"
+      alternative_names:
+    -
+      locale: ja
+      name: "南極大陸"
+      alternative_names:
+    -
+      locale: ka
+      name: "ანტარქტიკა"
+      alternative_names:
+    -
+      locale: ko
+      name: "안타티카"
+      alternative_names:
+    -
+      locale: lt
+      name: "Antarktida"
+      alternative_names:
+    -
+      locale: lv
+      name: "Antarktika"
+      alternative_names:
+    -
+      locale: mk
+      name: "Антарктик"
+      alternative_names:
+    -
+      locale: ml
+      name: "അന്‍റാര്‍ട്ടിക്ക"
+      alternative_names:
+    -
+      locale: ms
+      name: "Antarctica"
+      alternative_names:
+    -
+      locale: mt
+      name: "Antartika"
+      alternative_names:
+    -
+      locale: nb
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: nl
+      name: "Antarctica"
+      alternative_names:
+    -
+      locale: nn
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: pl
+      name: "Antarktyka"
+      alternative_names:
+    -
+      locale: ps
+      name: "انتارکتیکا"
+      alternative_names:
+    -
+      locale: pt
+      name: "Antártica"
+      alternative_names:
+    -
+      locale: ro
+      name: "Antarctica"
+      alternative_names:
+    -
+      locale: ru
+      name: "Антарктика"
+      alternative_names:
+    -
+      locale: se
+      name: "Antárktis"
+      alternative_names:
+    -
+      locale: sk
+      name: "Antarktída"
+      alternative_names:
+    -
+      locale: sl
+      name: "Antarktika"
+      alternative_names:
+    -
+      locale: sr
+      name: "Антарктик"
+      alternative_names:
+    -
+      locale: sv
+      name: "Antarktis"
+      alternative_names:
+    -
+      locale: th
+      name: "แอนตาร์กติกา"
+      alternative_names:
+    -
+      locale: to
+      name: "ʻAnetātika"
+      alternative_names:
+    -
+      locale: tr
+      name: "Antarktika"
+      alternative_names:
+    -
+      locale: uk
+      name: "Антарктида"
+      alternative_names:
+    -
+      locale: ur
+      name: "انٹار ٹکا"
+      alternative_names:
+    -
+      locale: vi
+      name: "Nam Cực"
+      alternative_names:
+    -
+      locale: zh
+      name: "南极洲"
+      alternative_names:
+-
+  id: 5
+  code: AS
+  land_mass_percentage: 29.5
+  continent_model_ids: [3, 5]
+  translations_attributes:
+    -
+      locale: ar
+      name: "آسيا"
+      alternative_names:
+    -
+      locale: bg
+      name: "Азия"
+      alternative_names:
+    -
+      locale: bs
+      name: "Azija"
+      alternative_names:
+    -
+      locale: ca
+      name: "Àsia"
+      alternative_names:
+    -
+      locale: cs
+      name: "Asie"
+      alternative_names:
+    -
+      locale: cy
+      name: "Asia"
+      alternative_names:
+    -
+      locale: da
+      name: "Asien"
+      alternative_names:
+    -
+      locale: de
+      name: "Asien"
+      alternative_names:
+    -
+      locale: el
+      name: "Ασία"
+      alternative_names:
+    -
+      locale: en
+      name: "Asia"
+      alternative_names:
+    -
+      locale: eo
+      name: "Azio"
+      alternative_names:
+    -
+      locale: es
+      name: "Asia"
+      alternative_names:
+    -
+      locale: eu
+      name: "Asia"
+      alternative_names:
+    -
+      locale: fi
+      name: "Aasia"
+      alternative_names:
+    -
+      locale: fr
+      name: "Asie"
+      alternative_names:
+    -
+      locale: ga
+      name: "an Áise"
+      alternative_names:
+    -
+      locale: he
+      name: "אסיה"
+      alternative_names:
+    -
+      locale: hi
+      name: "एशिया महाद्वीप"
+      alternative_names:
+    -
+      locale: hu
+      name: "Ázsia"
+      alternative_names:
+    -
+      locale: id
+      name: "Asia"
+      alternative_names:
+    -
+      locale: is
+      name: "Asía"
+      alternative_names:
+    -
+      locale: it
+      name: "Asia"
+      alternative_names:
+    -
+      locale: ja
+      name: "アジア"
+      alternative_names:
+    -
+      locale: la
+      name: "Asia"
+      alternative_names:
+    -
+      locale: lt
+      name: "Azija"
+      alternative_names:
+    -
+      locale: lv
+      name: "Āzija"
+      alternative_names:
+    -
+      locale: nb
+      name: "Asia"
+      alternative_names:
+    -
+      locale: nl
+      name: "Azië"
+      alternative_names:
+    -
+      locale: no
+      name: "Asia"
+      alternative_names:
+    -
+      locale: pl
+      name: "Azja"
+      alternative_names:
+    -
+      locale: pt
+      name: "Ásia"
+      alternative_names:
+    -
+      locale: ru
+      name: "Азия"
+      alternative_names:
+    -
+      locale: se
+      name: "Ásia"
+      alternative_names:
+    -
+      locale: sv
+      name: "Asien"
+      alternative_names:
+    -
+      locale: th
+      name: "เอเชีย"
+      alternative_names:
+    -
+      locale: tr
+      name: "Asya"
+      alternative_names:
+    -
+      locale: uk
+      name: "Азія"
+      alternative_names:
+    -
+      locale: vi
+      name: "Châu Á"
+      alternative_names:
+    -
+      locale: zh
+      name: "亚洲"
+      alternative_names:
+-
+  id: 6
+  code: OC
+  land_mass_percentage: 5.9
+  continent_model_ids: [1, 2, 3, 4, 5]
+  translations_attributes:
+    -
+      locale: ar
+      name: "أوقيانوسيا"
+      alternative_names:
+    -
+      locale: bg
+      name: "Океания"
+      alternative_names:
+    -
+      locale: ca
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: cs
+      name: "Oceánie"
+      alternative_names:
+    -
+      locale: cy
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: da
+      name: "Oceanien"
+      alternative_names:
+    -
+      locale: de
+      name: "Ozeanien"
+      alternative_names:
+    -
+      locale: el
+      name: "Ωκεανία"
+      alternative_names:
+    -
+      locale: en
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: eo
+      name: "Oceanio"
+      alternative_names:
+    -
+      locale: es
+      name: "Oceanía"
+      alternative_names:
+    -
+      locale: fi
+      name: "Oseania"
+      alternative_names:
+    -
+      locale: fr
+      name: "Océanie"
+      alternative_names:
+    -
+      locale: ga
+      name: "an Aigéine"
+      alternative_names:
+    -
+      locale: he
+      name: "אוקיאניה"
+      alternative_names:
+    -
+      locale: hi
+      name: "ओशीनिया"
+      alternative_names:
+    -
+      locale: hu
+      name: "Óceánia"
+      alternative_names:
+    -
+      locale: id
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: is
+      name: "Eyjaálfa"
+      alternative_names:
+    -
+      locale: it
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: ja
+      name: "オセアニア"
+      alternative_names:
+    -
+      locale: lt
+      name: "Okeanija"
+      alternative_names:
+    -
+      locale: lv
+      name: "Okeānija"
+      alternative_names:
+    -
+      locale: nb
+      name: "Oseania"
+      alternative_names:
+    -
+      locale: nl
+      name: "Oceanië"
+      alternative_names:
+    -
+      locale: no
+      name: "Oseania"
+      alternative_names:
+    -
+      locale: pl
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: pt
+      name: "Oceania"
+      alternative_names:
+    -
+      locale: ru
+      name: "Океания"
+      alternative_names:
+    -
+      locale: se
+      name: "Oseania"
+      alternative_names:
+    -
+      locale: sv
+      name: "Oceanien"
+      alternative_names:
+    -
+      locale: th
+      name: "โอเชียเนีย"
+      alternative_names:
+    -
+      locale: tr
+      name: "Okyanusya"
+      alternative_names:
+    -
+      locale: uk
+      name: "Океанія"
+      alternative_names:
+    -
+      locale: vi
+      name: "Châu Đại Dương"
+      alternative_names:
+    -
+      locale: zh
+      name: "大洋洲"
+      alternative_names:
+-
+  id: 7
+  code: EU-AS
+  land_mass_percentage: 36.3
+  continent_model_ids: [2, 4]
+  translations_attributes:
+    -
+      locale: en
+      name: "Eurasia"
+      alternative_names:
+    -
+      locale: it
+      name: "Eurasia"
+      alternative_names:
+    -
+      locale: sv
+      name: "Eurasien"
+      alternative_names:
+-
+  id: 8
+  code: EU
+  land_mass_percentage: 6.8
+  continent_model_ids: [3, 5]
+  translations_attributes:
+    -
+      locale: ar
+      name: "أوروبا"
+      alternative_names:
+    -
+      locale: bg
+      name: "Европа"
+      alternative_names:
+    -
+      locale: bs
+      name: "Evropa"
+      alternative_names:
+    -
+      locale: ca
+      name: "Europa"
+      alternative_names:
+    -
+      locale: cs
+      name: "Evropa"
+      alternative_names:
+    -
+      locale: cy
+      name: "Ewrop"
+      alternative_names:
+    -
+      locale: da
+      name: "Europa"
+      alternative_names:
+    -
+      locale: de
+      name: "Europa"
+      alternative_names:
+    -
+      locale: el
+      name: "Ευρώπη"
+      alternative_names:
+    -
+      locale: en
+      name: "Europe"
+      alternative_names:
+    -
+      locale: eo
+      name: "Eŭropo"
+      alternative_names:
+    -
+      locale: es
+      name: "Europa"
+      alternative_names:
+    -
+      locale: eu
+      name: "Europa"
+      alternative_names:
+    -
+      locale: fi
+      name: "Eurooppa"
+      alternative_names:
+    -
+      locale: fr
+      name: "Europe"
+      alternative_names:
+    -
+      locale: ga
+      name: "an Eoraip"
+      alternative_names:
+    -
+      locale: he
+      name: "אירופה"
+      alternative_names:
+    -
+      locale: hi
+      name: "यूरोप"
+      alternative_names:
+    -
+      locale: hu
+      name: "Európa"
+      alternative_names:
+    -
+      locale: id
+      name: "Eropa"
+      alternative_names:
+    -
+      locale: is
+      name: "Evrópa"
+      alternative_names:
+    -
+      locale: it
+      name: "Europa"
+      alternative_names:
+    -
+      locale: ja
+      name: "ヨーロッパ"
+      alternative_names:
+    -
+      locale: la
+      name: "Europa"
+      alternative_names:
+    -
+      locale: lt
+      name: "Europa"
+      alternative_names:
+    -
+      locale: lv
+      name: "Eiropa"
+      alternative_names:
+    -
+      locale: nb
+      name: "Europa"
+      alternative_names:
+    -
+      locale: nl
+      name: "Europa"
+      alternative_names:
+    -
+      locale: no
+      name: "Europa"
+      alternative_names:
+    -
+      locale: pl
+      name: "Europa"
+      alternative_names:
+    -
+      locale: pt
+      name: "Europa"
+      alternative_names:
+    -
+      locale: ro
+      name: "Europa"
+      alternative_names:
+    -
+      locale: ru
+      name: "Европа"
+      alternative_names:
+    -
+      locale: se
+      name: "Eurohpá"
+      alternative_names:
+    -
+      locale: sv
+      name: "Europa"
+      alternative_names:
+    -
+      locale: th
+      name: "ยุโรป"
+      alternative_names:
+    -
+      locale: tr
+      name: "Avrupa"
+      alternative_names:
+    -
+      locale: uk
+      name: "Європа"
+      alternative_names:
+    -
+      locale: vi
+      name: "Châu Âu"
+      alternative_names:
+    -
+      locale: zh
+      name: "欧洲"
+      alternative_names:
+-
+  id: 9
+  code: NA
+  land_mass_percentage: 16.5
+  continent_model_ids: [4, 5]
+  translations_attributes:
+    -
+      locale: ar
+      name: "أمريكا الشمالية"
+      alternative_names:
+    -
+      locale: bg
+      name: "Северна Америка"
+      alternative_names:
+    -
+      locale: bs
+      name: "Sjeverna Amerika"
+      alternative_names:
+    -
+      locale: ca
+      name: "Amèrica del Nord"
+      alternative_names:
+    -
+      locale: cai
+      name: "Abya Yala"
+      alternative_names:
+    -
+      locale: cs
+      name: "Severní Amerika"
+      alternative_names:
+    -
+      locale: cy
+      name: "Gogledd America"
+      alternative_names:
+    -
+      locale: da
+      name: "Nordamerika"
+      alternative_names:
+    -
+      locale: de
+      name: "Nordamerika"
+      alternative_names:
+    -
+      locale: el
+      name: "Βόρεια Αμερική"
+      alternative_names:
+    -
+      locale: en
+      name: "North America"
+      alternative_names:
+    -
+      locale: eo
+      name: "Nordameriko"
+      alternative_names:
+    -
+      locale: es
+      name: "Norteamérica"
+      alternative_names:
+    -
+      locale: fi
+      name: "Pohjois-Amerikka"
+      alternative_names:
+    -
+      locale: fr
+      name: "Amérique du Nord"
+      alternative_names:
+    -
+      locale: ga
+      name: "Meiriceá Thuaidh"
+      alternative_names:
+    -
+      locale: he
+      name: "אמריקה הצפונית"
+      alternative_names:
+    -
+      locale: hi
+      name: "उत्तरी अमरीका"
+      alternative_names:
+    -
+      locale: hu
+      name: "Észak-Amerika"
+      alternative_names:
+    -
+      locale: id
+      name: "Amerika Utara"
+      alternative_names:
+    -
+      locale: is
+      name: "Norður-Ameríka"
+      alternative_names:
+    -
+      locale: it
+      name: "America settentrionale"
+      alternative_names:
+    -
+      locale: ja
+      name: "北アメリカ"
+      alternative_names:
+    -
+      locale: lt
+      name: "Šiaurės Amerika"
+      alternative_names:
+    -
+      locale: lv
+      name: "Ziemeļamerika"
+      alternative_names:
+    -
+      locale: nb
+      name: "Nord-Amerika"
+      alternative_names:
+    -
+      locale: nl
+      name: "Noord-Amerika"
+      alternative_names:
+    -
+      locale: no
+      name: "Nord-Amerika"
+      alternative_names:
+    -
+      locale: pl
+      name: "Ameryka Północna"
+      alternative_names:
+    -
+      locale: pt
+      name: "América do Norte"
+      alternative_names:
+    -
+      locale: ru
+      name: "Северная Америка"
+      alternative_names:
+    -
+      locale: se
+      name: "Davvi-Amerihkká"
+      alternative_names:
+    -
+      locale: sv
+      name: "Nordamerika"
+      alternative_names:
+    -
+      locale: th
+      name: "อเมริกาเหนือ"
+      alternative_names:
+    -
+      locale: tr
+      name: "Kuzey Amerika"
+      alternative_names:
+    -
+      locale: uk
+      name: "Північна Америка"
+      alternative_names:
+    -
+      locale: ur
+      name: "شمالی امریکہ"
+      alternative_names:
+    -
+      locale: vi
+      name: "Bắc Mỹ"
+      alternative_names:
+    -
+      locale: zh
+      name: "北美洲"
+      alternative_names:
+-
+  id: 10
+  code: SA
+  land_mass_percentage: 12.0
+  continent_model_ids: [4, 5]
+  translations_attributes:
+    -
+      locale: ar
+      name: "أمريكا الجنوبية"
+      alternative_names:
+    -
+      locale: bg
+      name: "Южна Америка"
+      alternative_names:
+    -
+      locale: bs
+      name: "Južna Amerika"
+      alternative_names:
+    -
+      locale: ca
+      name: "Amèrica del Sud"
+      alternative_names:
+    -
+      locale: cai
+      name: "Abya Yala"
+      alternative_names:
+    -
+      locale: cs
+      name: "Jižní Amerika"
+      alternative_names:
+    -
+      locale: cy
+      name: "De America"
+      alternative_names:
+    -
+      locale: da
+      name: "Sydamerika"
+      alternative_names:
+    -
+      locale: de
+      name: "Südamerika"
+      alternative_names:
+    -
+      locale: el
+      name: "Νότια Αμερική"
+      alternative_names:
+    -
+      locale: en
+      name: "South America"
+      alternative_names:
+    -
+      locale: eo
+      name: "Sudameriko"
+      alternative_names:
+    -
+      locale: es
+      name: "Sudamérica"
+      alternative_names:
+    -
+      locale: eu
+      name: "Hegoamerika"
+      alternative_names:
+    -
+      locale: fi
+      name: "Etelä-Amerikka"
+      alternative_names:
+    -
+      locale: fr
+      name: "Amérique du Sud"
+      alternative_names:
+    -
+      locale: ga
+      name: "Meiriceá Theas"
+      alternative_names:
+    -
+      locale: he
+      name: "אמריקה הדרומית"
+      alternative_names:
+    -
+      locale: hi
+      name: "दक्षिणी अमरीका"
+      alternative_names:
+    -
+      locale: hu
+      name: "Dél-Amerika"
+      alternative_names:
+    -
+      locale: id
+      name: "Amerika Selatan"
+      alternative_names:
+    -
+      locale: is
+      name: "Suður-Ameríka"
+      alternative_names:
+    -
+      locale: it
+      name: "America meridionale"
+      alternative_names:
+    -
+      locale: ja
+      name: "南アメリカ"
+      alternative_names:
+    -
+      locale: lt
+      name: "Pietų Amerika"
+      alternative_names:
+    -
+      locale: lv
+      name: "Dienvidamerika"
+      alternative_names:
+    -
+      locale: nb
+      name: "Sør-Amerika"
+      alternative_names:
+    -
+      locale: nl
+      name: "Zuid-Amerika"
+      alternative_names:
+    -
+      locale: no
+      name: "Sør-Amerika"
+      alternative_names:
+    -
+      locale: pl
+      name: "Ameryka Południowa"
+      alternative_names:
+    -
+      locale: pt
+      name: "América do Sul"
+      alternative_names:
+    -
+      locale: ru
+      name: "Южная Америка"
+      alternative_names:
+    -
+      locale: se
+      name: "Lulli-Amerihkká"
+      alternative_names:
+    -
+      locale: sv
+      name: "Sydamerika"
+      alternative_names:
+    -
+      locale: th
+      name: "อเมริกาใต้"
+      alternative_names:
+    -
+      locale: tr
+      name: "Güney Amerika"
+      alternative_names:
+    -
+      locale: uk
+      name: "Південна Америка"
+      alternative_names:
+    -
+      locale: vi
+      name: "Nam Mỹ"
+      alternative_names:
+    -
+      locale: zh
+      name: "南美洲"
+      alternative_names:
+
+
+
+
