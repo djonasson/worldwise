@@ -26,4 +26,3 @@ These continent models are all handled by Worldwise.
       [3] "6 Continents (Eurasia)",
       [4] "7 Continents"
   ]
-
