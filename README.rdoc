@@ -7,6 +7,7 @@ ActiveRecord models representing various aspects of our world, such as
 geographic/political divisions, languages, currencies and more. Globalize3 is
 used to provide translations for each model.
 
+
 == Continent Models
 
 There are several ways of dividing the planet into continents. The most common
@@ -28,3 +29,26 @@ These continent models are all handled by Worldwise.
       [3] "6 Continents (Eurasia)",
       [4] "7 Continents"
   ]
+
+
+== Roadmap
+
+=== Planned
+
+* Add Country model and data
+* Add SubdivisionGroup/Type model and data
+* Add Subdivision model and data
+* Add Language model and data
+* Add Locale model and data
+
+=== Ideas
+
+* Add City model and data
+* Add Currency model and data
+* Add ExchangeRate model and data service
+* Add Airport model
+
+=== Finished
+
+* Add Continent model and data
+* Add ContinentModel model and data
