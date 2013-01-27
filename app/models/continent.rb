@@ -9,4 +9,7 @@ class Continent < ActiveRecord::Base
   has_and_belongs_to_many :continent_models
 
   accepts_nested_attributes_for :translations
+
+  #default_scope proc { ContinentModel.find_by_code(Worldwise.default_continent_model).continents }
+  default_scope joins(:continent_models).where("continent_models_continents.continent_model_id = ?", ContinentModel.find_by_code(Worldwise.default_continent_model).id)
 end

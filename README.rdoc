@@ -48,7 +48,7 @@ These continent models are all handled by Worldwise.
 * Add ExchangeRate model and data service
 * Add Airport model
 
-=== Finished
+=== Implemented
 
-* Add Continent model and data
-* Add ContinentModel model and data
+* <no>Add Continent model and data</no>
+* <no>Add ContinentModel model and data</no>
