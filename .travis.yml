@@ -1,0 +1,10 @@
+script: bundle exec rspec
+rvm:
+  - ree
+  - 1.9.2
+  - 1.9.3
+before_install:
+  - gem update --system
+  - gem --version
+env:
+  - RAILS=3.2.11

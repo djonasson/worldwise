@@ -1,0 +1,7878 @@
+# encoding: UTF-8
+---
+-
+  id: 1
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: AD
+  iso_3166_alpha3: AND
+  iso_3166_numeric3: "020"
+  e164_country_code: "376"
+  e164_international_prefix: "00"
+  e164_national_prefix:
+  ioc_country_code: AND
+  latitude: "42 30 N"
+  longitude: "1 30 E"
+  #currency: EUR
+  #un_locode: AD
+  translations_attributes:
+    -
+      locale: en
+      name: Andorra
+      alternative_names:
+  #names:
+  #  - Andorre
+  #  - Andorra
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #  - 8
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - ca
+-
+  id: 2
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: AE
+  iso_3166_alpha3: ARE
+  iso_3166_numeric3: "784"
+  e164_country_code: "971"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: UAE
+  latitude: "24 00 N"
+  longitude: "54 00 E"
+  #currency: AED
+  #un_locode: AE
+  translations_attributes:
+    -
+      locale: en
+      name: "United Arab Emirates"
+      alternative_names:
+  #names:
+  #  - "United Arab Emirates"
+  #  - "Vereinigte Arabische Emirate"
+  #  - "Émirats Arabes Unis"
+  #  - "Emiratos Árabes Unidos"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 3
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: AF
+  iso_3166_alpha3: AFG
+  iso_3166_numeric3: "004"
+  e164_country_code: "93"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: AFG
+  latitude: "33 00 N"
+  longitude: "65 00 E"
+  #currency: AFN
+  #un_locode: AF
+  translations_attributes:
+    -
+      locale: en
+      name: Afghanistan
+      alternative_names:
+  #names:
+  #  - Afghanistan
+  #  - Afganistán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Southern Asia"
+  #languages:
+  #  - ps
+  #  - uz
+  #  - tk
+-
+  id: 4
+  continent_ids: [3, 9]
+  iso_3166_alpha2: AG
+  iso_3166_alpha3: ATG
+  iso_3166_numeric3: 028
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: ANT
+  latitude: "17 03 N"
+  longitude: "61 48 W"
+  #currency: XCD
+  #un_locode: AG
+  translations_attributes:
+    -
+      locale: en
+      name: "Antigua and Barbuda"
+      alternative_names:
+  #names:
+  #  - "Antigua and Barbuda"
+  #  - "Antigua und Barbuda"
+  #  - "Antigua et Barbuda"
+  #  - "Antigua y Barbuda"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 5
+  continent_ids: [3, 9]
+  iso_3166_alpha2: AI
+  iso_3166_alpha3: AIA
+  iso_3166_numeric3: "660"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code:
+  latitude: "18 15 N"
+  longitude: "63 10 W"
+  #currency: XCD
+  #un_locode: AI
+  translations_attributes:
+    -
+      locale: en
+      name: Anguilla
+      alternative_names:
+  #names:
+  #  - Anguilla
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 6
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: AL
+  iso_3166_alpha3: ALB
+  iso_3166_numeric3: 008
+  e164_country_code: "355"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ALB
+  latitude: "41 00 N"
+  longitude: "20 00 E"
+  #currency: ALL
+  #un_locode: AL
+  translations_attributes:
+    -
+      locale: en
+      name: Albania
+      alternative_names:
+  #names:
+  #  - Albania
+  #  - Albanien
+  #  - Albanie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - sq
+-
+  id: 7
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: AM
+  iso_3166_alpha3: ARM
+  iso_3166_numeric3: "051"
+  e164_country_code: "374"
+  e164_international_prefix: "00"
+  e164_national_prefix: "8"
+  ioc_country_code: ARM
+  latitude: "40 00 N"
+  longitude: "45 00 E"
+  #currency: AMD
+  #un_locode: AM
+  translations_attributes:
+    -
+      locale: en
+      name: Armenia
+      alternative_names:
+  #names:
+  #  - Armenia
+  #  - Armenien
+  #  - Arménie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - hy
+  #  - ru
+-
+  id: 8
+  continent_ids: [3, 9]
+  iso_3166_alpha2: AN
+  iso_3166_alpha3: ANT
+  iso_3166_numeric3: "530"
+  e164_country_code: "599"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: AHO
+  latitude: ""
+  longitude: ""
+  #currency: ANG
+  #un_locode: AN
+  translations_attributes:
+    -
+      locale: en
+      name: "Netherlands Antilles"
+      alternative_names:
+  #names:
+  #  - "Netherlands Antilles"
+  #  - "Niederländische Antillen"
+  #  - "Antilles néerlandaises"
+  #  - "Antillas Holandesas"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Caribbean
+  #languages:
+  #  - nl
+  #  - en
+-
+  id: 9
+  continent_ids: [1, 2]
+  iso_3166_alpha2: AO
+  iso_3166_alpha3: AGO
+  iso_3166_numeric3: "024"
+  e164_country_code: "244"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ANG
+  latitude: "12 30 S"
+  longitude: "18 30 E"
+  #currency: AOA
+  #un_locode: AO
+  translations_attributes:
+    -
+      locale: en
+      name: Angola
+      alternative_names:
+  #names:
+  #  - Angola
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Middle Africa"
+  #languages:
+  #  - pt
+-
+  id: 10
+  continent_ids: [4]
+  iso_3166_alpha2: AQ
+  iso_3166_alpha3: ATA
+  iso_3166_numeric3: "010"
+  e164_country_code: "672"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "90 00 S"
+  longitude: "0 00 E"
+  #currency: ~
+  #un_locode: AQ
+  translations_attributes:
+    -
+      locale: en
+      name: Antarctica
+      alternative_names:
+  #names:
+  #  - Antarctica
+  #  - Antarktis
+  #  - Antarctique
+  #  - Antártida
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: ""
+  #languages: []
+-
+  id: 11
+  continent_ids: [3, 10]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{region}}
+      {{country}}
+  iso_3166_alpha2: AR
+  iso_3166_alpha3: ARG
+  iso_3166_numeric3: "032"
+  e164_country_code: "54"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ARG
+  latitude: "34 00 S"
+  longitude: "64 00 W"
+  #currency: ARS
+  #un_locode: AR
+  translations_attributes:
+    -
+      locale: en
+      name: Argentina
+      alternative_names:
+  #names:
+  #  - Argentina
+  #  - Argentinien
+  #  - Argentine
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "South America"
+  #languages:
+  #  - es
+  #  - gn
+-
+  id: 12
+  continent_ids: [6]
+  iso_3166_alpha2: AS
+  iso_3166_alpha3: ASM
+  iso_3166_numeric3: "016"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: ASA
+  latitude: "14 20 S"
+  longitude: "170 00 W"
+  #currency: USD
+  #un_locode: AS
+  translations_attributes:
+    -
+      locale: en
+      name: "American Samoa"
+      alternative_names:
+  #names:
+  #  - "American Samoa"
+  #  - Amerikanisch-Samoa
+  #  - "Samoa américaines"
+  #  - "Samoa Americana"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Polynesia
+  #languages:
+  #  - en
+  #  - sm
+-
+  id: 13
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: AT
+  iso_3166_alpha3: AUT
+  iso_3166_numeric3: "040"
+  e164_country_code: "43"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: AUT
+  latitude: "47 20 N"
+  longitude: "13 20 E"
+  #currency: EUR
+  #un_locode: AT
+  translations_attributes:
+    -
+      locale: en
+      name: Austria
+      alternative_names:
+  #names:
+  #  - Österreich
+  #  - Autriche
+  #  - Austria
+  #national_destination_code_lengths:
+  #  - 1
+  #  - 2
+  #  - 3
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #  - 10
+  #  - 11
+  #  - 12
+  #  - 13
+  #subregion: "Western Europe"
+  #languages:
+  #  - de
+-
+  id: 14
+  continent_ids: [6]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: AU
+  iso_3166_alpha3: AUS
+  iso_3166_numeric3: "036"
+  e164_country_code: "61"
+  e164_international_prefix: "0011"
+  e164_national_prefix: "0"
+  ioc_country_code: AUS
+  latitude: "27 00 S"
+  longitude: "133 00 E"
+  #currency: AUD
+  #un_locode: AU
+  translations_attributes:
+    -
+      locale: en
+      name: Australia
+      alternative_names:
+  #names:
+  #  - Australien
+  #  - Australie
+  #  - Australia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Australia and New Zealand"
+  #languages:
+  #  - en
+-
+  id: 15
+  continent_ids: [3, 9]
+  iso_3166_alpha2: AW
+  iso_3166_alpha3: ABW
+  iso_3166_numeric3: "533"
+  e164_country_code: "297"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: ARU
+  latitude: "12 30 N"
+  longitude: "69 58 W"
+  #currency: AWG
+  #un_locode: AW
+  translations_attributes:
+    -
+      locale: en
+      name: Aruba
+      alternative_names:
+  #names:
+  #  - Aruba
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Caribbean
+  #languages:
+  #  - nl
+-
+  id: 16
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: AX
+  iso_3166_alpha3: ALA
+  iso_3166_numeric3: "248"
+  e164_country_code: "358"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: ""
+  longitude: ""
+  #currency: ~
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "Åland Islands"
+      alternative_names:
+  #names:
+  #  - "Åland Islands"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Northern Europe"
+  #languages:
+  #  - sv
+-
+  id: 17
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: AZ
+  iso_3166_alpha3: AZE
+  iso_3166_numeric3: "031"
+  e164_country_code: "994"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: AZE
+  latitude: "40 30 N"
+  longitude: "47 30 E"
+  #currency: AZN
+  #un_locode: AZ
+  translations_attributes:
+    -
+      locale: en
+      name: Azerbaijan
+      alternative_names:
+  #names:
+  #  - Azerbaijan
+  #  - Aserbaidschan
+  #  - Azerbaïdjan
+  #  - Azerbaiyán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - az
+  #  - hy
+-
+  id: 18
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: BA
+  iso_3166_alpha3: BIH
+  iso_3166_numeric3: "070"
+  e164_country_code: "387"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: BIH
+  latitude: "44 00 N"
+  longitude: "18 00 E"
+  #currency: BAM
+  #un_locode: BA
+  translations_attributes:
+    -
+      locale: en
+      name: "Bosnia and Herzegovina"
+      alternative_names:
+  #names:
+  #  - "Bosnia and Herzegovina"
+  #  - "Bosnien und Herzegowina"
+  #  - "Bosnie et Herzégovine"
+  #  - "Bosnia y Herzegovina"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - bs
+  #  - hr
+  #  - sr
+-
+  id: 19
+  continent_ids: [3, 9]
+  iso_3166_alpha2: BB
+  iso_3166_alpha3: BRB
+  iso_3166_numeric3: "052"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: BAR
+  latitude: "13 10 N"
+  longitude: "59 32 W"
+  #currency: BBD
+  #un_locode: BB
+  translations_attributes:
+    -
+      locale: en
+      name: Barbados
+      alternative_names:
+  #names:
+  #  - Barbade
+  #  - Barbados
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 20
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: BD
+  iso_3166_alpha3: BGD
+  iso_3166_numeric3: "050"
+  e164_country_code: "880"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: BAN
+  latitude: "24 00 N"
+  longitude: "90 00 E"
+  #currency: BTD
+  #un_locode: BD
+  translations_attributes:
+    -
+      locale: en
+      name: Bangladesh
+      alternative_names:
+  #names:
+  #  - Bangladesh
+  #  - Bangladesch
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Southern Asia"
+  #languages:
+  #  - bn
+-
+  id: 21
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: BE
+  iso_3166_alpha3: BEL
+  iso_3166_numeric3: "056"
+  e164_country_code: "32"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: BEL
+  latitude: "50 50 N"
+  longitude: "4 00 E"
+  #currency: EUR
+  #un_locode: BE
+  translations_attributes:
+    -
+      locale: en
+      name: Belgium
+      alternative_names:
+  #names:
+  #  - Belgium
+  #  - Belgien
+  #  - Belgique
+  #  - Bélgica
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Western Europe"
+  #languages:
+  #  - nl
+  #  - fr
+  #  - de
+-
+  id: 22
+  continent_ids: [1, 2]
+  iso_3166_alpha2: BF
+  iso_3166_alpha3: BFA
+  iso_3166_numeric3: "854"
+  e164_country_code: "226"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: BUR
+  latitude: "13 00 N"
+  longitude: "2 00 W"
+  #currency: XOF
+  #un_locode: BF
+  translations_attributes:
+    -
+      locale: en
+      name: "Burkina Faso"
+      alternative_names:
+  #names:
+  #  - "Burkina Faso"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+  #  - ff
+-
+  id: 23
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: BG
+  iso_3166_alpha3: BGR
+  iso_3166_numeric3: "100"
+  e164_country_code: "359"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: BUL
+  latitude: "43 00 N"
+  longitude: "25 00 E"
+  #currency: BGN
+  #un_locode: BG
+  translations_attributes:
+    -
+      locale: en
+      name: Bulgaria
+      alternative_names:
+  #names:
+  #  - Bulgaria
+  #  - Bulgarien
+  #  - Bulgarie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #  - 10
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - bg
+-
+  id: 24
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: BH
+  iso_3166_alpha3: BHR
+  iso_3166_numeric3: 048
+  e164_country_code: "973"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: BRN
+  latitude: "26 00 N"
+  longitude: "50 33 E"
+  #currency: BHD
+  #un_locode: BH
+  translations_attributes:
+    -
+      locale: en
+      name: Bahrain
+      alternative_names:
+  #names:
+  #  - Bahrain
+  #  - Bahreïn
+  #  - Bahrein
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 25
+  continent_ids: [1, 2]
+  iso_3166_alpha2: BI
+  iso_3166_alpha3: BDI
+  iso_3166_numeric3: "108"
+  e164_country_code: "257"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: BDI
+  latitude: "3 30 S"
+  longitude: "30 00 E"
+  #currency: BIF
+  #un_locode: BI
+  translations_attributes:
+    -
+      locale: en
+      name: Burundi
+      alternative_names:
+  #names:
+  #  - Burundi
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - fr
+  #  - rn
+-
+  id: 26
+  continent_ids: [1, 2]
+  iso_3166_alpha2: BJ
+  iso_3166_alpha3: BEN
+  iso_3166_numeric3: "204"
+  e164_country_code: "229"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: BEN
+  latitude: "9 30 N"
+  longitude: "2 15 E"
+  #currency: XOF
+  #un_locode: BJ
+  translations_attributes:
+    -
+      locale: en
+      name: Benin
+      alternative_names:
+  #names:
+  #  - Benin
+  #  - Bénin
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+-
+  id: 27
+  continent_ids: [3, 9]
+  iso_3166_alpha2: BL
+  iso_3166_alpha3: BLM
+  iso_3166_numeric3: "652"
+  e164_country_code: "590"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "17 90 N"
+  longitude: "62 85 W"
+  #currency: ~
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Barthélemy"
+      alternative_names:
+  #names:
+  #  - "Saint Barthélemy"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: Caribbean
+  #languages:
+  #  - fr
+-
+  id: 28
+  continent_ids: [3, 9]
+  iso_3166_alpha2: BM
+  iso_3166_alpha3: BMU
+  iso_3166_numeric3: "060"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: BER
+  latitude: "32 20 N"
+  longitude: "64 45 W"
+  #currency: BMD
+  #un_locode: BM
+  translations_attributes:
+    -
+      locale: en
+      name: Bermuda
+      alternative_names:
+  #names:
+  #  - Bermuda
+  #  - Bermudes
+  #  - Bermudas
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Northern America"
+  #languages:
+  #  - en
+-
+  id: 29
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: BN
+  iso_3166_alpha3: BRN
+  iso_3166_numeric3: 096
+  e164_country_code: "673"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: BRU
+  latitude: "4 30 N"
+  longitude: "114 40 E"
+  #currency: BND
+  #un_locode: BN
+  translations_attributes:
+    -
+      locale: en
+      name: "Brunei Darussalam"
+      alternative_names:
+  #names:
+  #  - Brunei
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - ms
+-
+  id: 30
+  continent_ids: [3, 10]
+  iso_3166_alpha2: BO
+  iso_3166_alpha3: BOL
+  iso_3166_numeric3: 068
+  e164_country_code: "591"
+  e164_international_prefix: "0010"
+  e164_national_prefix: "010"
+  ioc_country_code: BOL
+  latitude: "17 00 S"
+  longitude: "65 00 W"
+  #currency: BOB
+  #un_locode: BO
+  translations_attributes:
+    -
+      locale: en
+      name: Bolivia
+      alternative_names:
+  #names:
+  #  - Bolivia
+  #  - Bolivien
+  #  - Bolivie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "South America"
+  #languages:
+  #  - es
+  #  - ay
+  #  - qu
+-
+  id: 31
+  continent_ids: [3, 10]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: BR
+  iso_3166_alpha3: BRA
+  iso_3166_numeric3: "076"
+  e164_country_code: "55"
+  e164_international_prefix: "0014"
+  e164_national_prefix: "014"
+  ioc_country_code: BRA
+  latitude: "10 00 S"
+  longitude: "55 00 W"
+  #currency: BRL
+  #un_locode: BR
+  translations_attributes:
+    -
+      locale: en
+      name: Brazil
+      alternative_names:
+  #names:
+  #  - Brazil
+  #  - Brasilien
+  #  - Brésil
+  #  - Brasil
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "South America"
+  #languages:
+  #  - pt
+-
+  id: 32
+  continent_ids: [3, 9]
+  iso_3166_alpha2: BS
+  iso_3166_alpha3: BHS
+  iso_3166_numeric3: "044"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: BAH
+  latitude: "24 15 N"
+  longitude: "76 00 W"
+  #currency: BSD
+  #un_locode: BS
+  translations_attributes:
+    -
+      locale: en
+      name: Bahamas
+      alternative_names:
+  #names:
+  #  - Bahamas
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 33
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: BT
+  iso_3166_alpha3: BTN
+  iso_3166_numeric3: "064"
+  e164_country_code: "975"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: BHU
+  latitude: "27 30 N"
+  longitude: "90 30 E"
+  #currency: BTN
+  #un_locode: BT
+  translations_attributes:
+    -
+      locale: en
+      name: Bhutan
+      alternative_names:
+  #names:
+  #  - Bhutan
+  #  - Bhoutan
+  #  - Bután
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Southern Asia"
+  #languages:
+  #  - dz
+-
+  id: 34
+  continent_ids: [4]
+  iso_3166_alpha2: BV
+  iso_3166_alpha3: BVT
+  iso_3166_numeric3: "074"
+  e164_country_code: ""
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "54 26 S"
+  longitude: "3 24 E"
+  #currency: NOK
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "Bouvet Island"
+      alternative_names:
+  #names:
+  #  - "Bouvet Island"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: ""
+  #languages: []
+-
+  id: 35
+  continent_ids: [1, 2]
+  iso_3166_alpha2: BW
+  iso_3166_alpha3: BWA
+  iso_3166_numeric3: "072"
+  e164_country_code: "267"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: BOT
+  latitude: "22 00 S"
+  longitude: "24 00 E"
+  #currency: BWP
+  #un_locode: BW
+  translations_attributes:
+    -
+      locale: en
+      name: Botswana
+      alternative_names:
+  #names:
+  #  - Botswana
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Southern Africa"
+  #languages:
+  #  - en
+  #  - tn
+-
+  id: 36
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: BY
+  iso_3166_alpha3: BLR
+  iso_3166_numeric3: "112"
+  e164_country_code: "375"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: BLR
+  latitude: "53 00 N"
+  longitude: "28 00 E"
+  #currency: BYR
+  #un_locode: BY
+  translations_attributes:
+    -
+      locale: en
+      name: Belarus
+      alternative_names:
+  #names:
+  #  - Belarus
+  #  - Weißrussland
+  #  - Biélorussie
+  #  - Bielorrusia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - be
+  #  - ru
+-
+  id: 37
+  continent_ids: [3, 9]
+  iso_3166_alpha2: BZ
+  iso_3166_alpha3: BLZ
+  iso_3166_numeric3: 084
+  e164_country_code: "501"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: BIZ
+  latitude: "17 15 N"
+  longitude: "88 45 W"
+  #currency: BZD
+  #un_locode: BZ
+  translations_attributes:
+    -
+      locale: en
+      name: Belize
+      alternative_names:
+  #names:
+  #  - Belize
+  #  - Belice
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Central America"
+  #languages:
+  #  - en
+  #  - es
+-
+  id: 38
+  continent_ids: [3, 9]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: CA
+  iso_3166_alpha3: CAN
+  iso_3166_numeric3: "124"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: CAN
+  latitude: "60 00 N"
+  longitude: "95 00 W"
+  #currency: CAD
+  #un_locode: CA
+  translations_attributes:
+    -
+      locale: en
+      name: Canada
+      alternative_names:
+  #names:
+  #  - Canada
+  #  - Kanada
+  #  - Canadá
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Northern America"
+  #languages:
+  #  - en
+  #  - fr
+-
+  id: 39
+  continent_ids: [6]
+  iso_3166_alpha2: CC
+  iso_3166_alpha3: CCK
+  iso_3166_numeric3: "166"
+  e164_country_code: "61"
+  e164_international_prefix: "0011"
+  e164_national_prefix: "0"
+  ioc_country_code:
+  latitude: "12 30 S"
+  longitude: "96 50 E"
+  #currency: AUD
+  #un_locode: CC
+  translations_attributes:
+    -
+      locale: en
+      name: "Cocos (Keeling) Islands"
+      alternative_names:
+  #names:
+  #  - "Cocos (Keeling) Islands"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Australia and New Zealand"
+  #languages:
+  #  - en
+-
+  id: 40
+  continent_ids: [1, 2]
+  iso_3166_alpha2: CD
+  iso_3166_alpha3: COD
+  iso_3166_numeric3: "180"
+  e164_country_code: "243"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: COD
+  latitude: "0 00 N"
+  longitude: "25 00 E"
+  #currency: ~
+  #un_locode: CD
+  translations_attributes:
+    -
+      locale: en
+      name: "Congo, The Democratic Republic Of The"
+      alternative_names:
+  #names:
+  #  - "Congo (Dem. Rep.)"
+  #  - "Kongo (Dem. Rep.)"
+  #  - "Congo (Rep. Dem.)"
+  #  - "Congo (Rep. Dem.)"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Middle Africa"
+  #languages:
+  #  - fr
+  #  - ln
+  #  - kg
+  #  - sw
+  #  - lu
+-
+  id: 41
+  continent_ids: [1, 2]
+  iso_3166_alpha2: CF
+  iso_3166_alpha3: CAF
+  iso_3166_numeric3: "140"
+  e164_country_code: "236"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CAF
+  latitude: "7 00 N"
+  longitude: "21 00 E"
+  #currency: XAF
+  #un_locode: CF
+  translations_attributes:
+    -
+      locale: en
+      name: "Central African Republic"
+      alternative_names:
+  #names:
+  #  - "Central African Republic"
+  #  - "Zentralafrikanische Republik"
+  #  - "République Centrafricaine"
+  #  - "República Centroafricana"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Middle Africa"
+  #languages:
+  #  - fr
+  #  - sg
+-
+  id: 42
+  continent_ids: [1, 2]
+  iso_3166_alpha2: CG
+  iso_3166_alpha3: COG
+  iso_3166_numeric3: "178"
+  e164_country_code: "242"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CGO
+  latitude: "1 00 S"
+  longitude: "15 00 E"
+  #currency: ~
+  #un_locode: CG
+  translations_attributes:
+    -
+      locale: en
+      name: Congo
+      alternative_names:
+  #names:
+  #  - Congo
+  #  - Kongo
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Middle Africa"
+  #languages:
+  #  - fr
+  #  - ln
+-
+  id: 43
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: CH
+  iso_3166_alpha3: CHE
+  iso_3166_numeric3: "756"
+  e164_country_code: "41"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SUI
+  latitude: "47 00 N"
+  longitude: "8 00 E"
+  #currency: CHF
+  #un_locode: CH
+  translations_attributes:
+    -
+      locale: en
+      name: Switzerland
+      alternative_names:
+  #names:
+  #  - Switzerland
+  #  - Schweiz
+  #  - Suisse
+  #  - Suiza
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "Western Europe"
+  #languages:
+  #  - de
+  #  - fr
+  #  - it
+-
+  id: 44
+  continent_ids: [1, 2]
+  iso_3166_alpha2: CI
+  iso_3166_alpha3: CIV
+  iso_3166_numeric3: "384"
+  e164_country_code: "225"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: CIV
+  latitude: "8 00 N"
+  longitude: "5 00 W"
+  #currency: XOF
+  #un_locode: CI
+  translations_attributes:
+    -
+      locale: en
+      name: "Côte D'Ivoire"
+      alternative_names:
+  #names:
+  #  - "Côte D'Ivoire"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+-
+  id: 45
+  continent_ids: [6]
+  iso_3166_alpha2: CK
+  iso_3166_alpha3: COK
+  iso_3166_numeric3: "184"
+  e164_country_code: "682"
+  e164_international_prefix: "00"
+  e164_national_prefix: "00"
+  ioc_country_code: COK
+  latitude: "21 14 S"
+  longitude: "159 46 W"
+  #currency: NZD
+  #un_locode: CK
+  translations_attributes:
+    -
+      locale: en
+      name: "Cook Islands"
+      alternative_names:
+  #names:
+  #  - "Cook Islands"
+  #  - Cookinseln
+  #  - "Îles Cook"
+  #  - "Islas Cook"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #subregion: Polynesia
+  #languages:
+  #  - en
+-
+  id: 46
+  continent_ids: [3, 10]
+  iso_3166_alpha2: CL
+  iso_3166_alpha3: CHL
+  iso_3166_numeric3: "152"
+  e164_country_code: "56"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: CHI
+  latitude: "30 00 S"
+  longitude: "71 00 W"
+  #currency: CLP
+  #un_locode: CL
+  translations_attributes:
+    -
+      locale: en
+      name: Chile
+      alternative_names:
+  #names:
+  #  - Chile
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "South America"
+  #languages:
+  #  - es
+-
+  id: 47
+  continent_ids: [1, 2]
+  iso_3166_alpha2: CM
+  iso_3166_alpha3: CMR
+  iso_3166_numeric3: "120"
+  e164_country_code: "237"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CMR
+  latitude: "6 00 N"
+  longitude: "12 00 E"
+  #currency: XAF
+  #un_locode: CM
+  translations_attributes:
+    -
+      locale: en
+      name: Cameroon
+      alternative_names:
+  #names:
+  #  - Cameroon
+  #  - Kamerun
+  #  - Cameroun
+  #  - Camerún
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Middle Africa"
+  #languages:
+  #  - en
+  #  - fr
+-
+  id: 48
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: CN
+  iso_3166_alpha3: CHN
+  iso_3166_numeric3: "156"
+  e164_country_code: "86"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: CHN
+  latitude: "35 00 N"
+  longitude: "105 00 E"
+  #currency: CNY
+  #un_locode: CN
+  translations_attributes:
+    -
+      locale: en
+      name: China
+      alternative_names:
+  #names:
+  #  - China
+  #  - Chine
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #  - 10
+  #  - 11
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - zh
+-
+  id: 49
+  continent_ids: [3, 10]
+  iso_3166_alpha2: CO
+  iso_3166_alpha3: COL
+  iso_3166_numeric3: "170"
+  e164_country_code: "57"
+  e164_international_prefix: "005"
+  e164_national_prefix: "05"
+  ioc_country_code: COL
+  latitude: "4 00 N"
+  longitude: "72 00 W"
+  #currency: COP
+  #un_locode: CO
+  translations_attributes:
+    -
+      locale: en
+      name: Colombia
+      alternative_names:
+  #names:
+  #  - Colombia
+  #  - Kolumbien
+  #  - Colombie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "South America"
+  #languages:
+  #  - es
+-
+  id: 50
+  continent_ids: [3, 9]
+  iso_3166_alpha2: CR
+  iso_3166_alpha3: CRI
+  iso_3166_numeric3: "188"
+  e164_country_code: "506"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CRC
+  latitude: "10 00 N"
+  longitude: "84 00 W"
+  #currency: CRC
+  #un_locode: CR
+  translations_attributes:
+    -
+      locale: en
+      name: "Costa Rica"
+      alternative_names:
+  #names:
+  #  - "Costa Rica"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 51
+  continent_ids: [3, 9]
+  iso_3166_alpha2: CU
+  iso_3166_alpha3: CUB
+  iso_3166_numeric3: "192"
+  e164_country_code: "53"
+  e164_international_prefix: "119"
+  e164_national_prefix: "0"
+  ioc_country_code: CUB
+  latitude: "21 30 N"
+  longitude: "80 00 W"
+  #currency: CUP
+  #un_locode: CU
+  translations_attributes:
+    -
+      locale: en
+      name: Cuba
+      alternative_names:
+  #names:
+  #  - Cuba
+  #  - Kuba
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: Caribbean
+  #languages:
+  #  - es
+-
+  id: 52
+  continent_ids: [1, 2]
+  iso_3166_alpha2: CV
+  iso_3166_alpha3: CPV
+  iso_3166_numeric3: "132"
+  e164_country_code: "238"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CPV
+  latitude: "16 00 N"
+  longitude: "24 00 W"
+  #currency: CVE
+  #un_locode: CV
+  translations_attributes:
+    -
+      locale: en
+      name: "Cape Verde"
+      alternative_names:
+  #names:
+  #  - "Cape Verde"
+  #  - "Kap Verde"
+  #  - "Cap Vert"
+  #  - "Cabo Verde"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Africa"
+  #languages:
+  #  - pt
+-
+  id: 53
+  continent_ids: [6]
+  iso_3166_alpha2: CX
+  iso_3166_alpha3: CXR
+  iso_3166_numeric3: "162"
+  e164_country_code: "61"
+  e164_international_prefix: "0011"
+  e164_national_prefix: "0"
+  ioc_country_code:
+  latitude: "10 30 S"
+  longitude: "105 40 E"
+  #currency: AUD
+  #un_locode: CX
+  translations_attributes:
+    -
+      locale: en
+      name: "Christmas Island"
+      alternative_names:
+  #names:
+  #  - "Christmas Island"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Australia and New Zealand"
+  #languages:
+  #  - en
+  #  - zh
+  #  - ms
+-
+  id: 54
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: CY
+  iso_3166_alpha3: CYP
+  iso_3166_numeric3: "196"
+  e164_country_code: "357"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CYP
+  latitude: "35 00 N"
+  longitude: "33 00 E"
+  #currency: EUR
+  #un_locode: CY
+  translations_attributes:
+    -
+      locale: en
+      name: Cyprus
+      alternative_names:
+  #names:
+  #  - Cyprus
+  #  - Zypern
+  #  - Chypre
+  #  - Chipre
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - el
+  #  - tr
+  #  - hy
+-
+  id: 55
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: CZ
+  iso_3166_alpha3: CZE
+  iso_3166_numeric3: "203"
+  e164_country_code: "420"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: CZE
+  latitude: "49 45 N"
+  longitude: "15 30 E"
+  #currency: CZK
+  #un_locode: CZ
+  translations_attributes:
+    -
+      locale: en
+      name: "Czech Republic"
+      alternative_names:
+  #names:
+  #  - "Czech Republic"
+  #  - "Tschechische Republik"
+  #  - "République Tchèque"
+  #  - "República Checa"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - cs
+  #  - sk
+-
+  id: 56
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: DE
+  iso_3166_alpha3: DEU
+  iso_3166_numeric3: "276"
+  e164_country_code: "49"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: GER
+  latitude: "51 00 N"
+  longitude: "9 00 E"
+  #currency: EUR
+  #un_locode: DE
+  translations_attributes:
+    -
+      locale: en
+      name: Germany
+      alternative_names:
+  #names:
+  #  - Germany
+  #  - Deutschland
+  #  - Allemagne
+  #  - Alemania
+  #national_destination_code_lengths:
+  #  - 2
+  #  - 3
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #  - 10
+  #  - 11
+  #subregion: "Western Europe"
+  #languages:
+  #  - de
+-
+  id: 57
+  continent_ids: [1, 2]
+  iso_3166_alpha2: DJ
+  iso_3166_alpha3: DJI
+  iso_3166_numeric3: "262"
+  e164_country_code: "253"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: DJI
+  latitude: "11 30 N"
+  longitude: "43 00 E"
+  #currency: DJF
+  #un_locode: DJ
+  translations_attributes:
+    -
+      locale: en
+      name: Djibouti
+      alternative_names:
+  #names:
+  #  - Djibouti
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - ar
+  #  - fr
+-
+  id: 58
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{region}}
+      {{country}}
+  iso_3166_alpha2: DK
+  iso_3166_alpha3: DNK
+  iso_3166_numeric3: "208"
+  e164_country_code: "45"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: DEN
+  latitude: "56 00 N"
+  longitude: "10 00 E"
+  #currency: DKK
+  #un_locode: DK
+  translations_attributes:
+    -
+      locale: en
+      name: Denmark
+      alternative_names:
+  #names:
+  #  - Denmark
+  #  - Dänemark
+  #  - Danemark
+  #  - Dinamarca
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Europe"
+  #languages:
+  #  - da
+-
+  id: 59
+  continent_ids: [3, 9]
+  iso_3166_alpha2: DM
+  iso_3166_alpha3: DMA
+  iso_3166_numeric3: "212"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: DMA
+  latitude: "15 25 N"
+  longitude: "61 20 W"
+  #currency: XCD
+  #un_locode: DM
+  translations_attributes:
+    -
+      locale: en
+      name: Dominica
+      alternative_names:
+  #names:
+  #  - Dominica
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 60
+  continent_ids: [3, 9]
+  iso_3166_alpha2: DO
+  iso_3166_alpha3: DOM
+  iso_3166_numeric3: "214"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: DOM
+  latitude: "19 00 N"
+  longitude: "70 40 W"
+  #currency: DOP
+  #un_locode: DO
+  translations_attributes:
+    -
+      locale: en
+      name: "Dominican Republic"
+      alternative_names:
+  #names:
+  #  - "Dominican Republic"
+  #  - "Dominikanische Republik"
+  #  - "République Dominicaine"
+  #  - "República Dominicana"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - es
+-
+  id: 61
+  continent_ids: [1, 2]
+  iso_3166_alpha2: DZ
+  iso_3166_alpha3: DZA
+  iso_3166_numeric3: "012"
+  e164_country_code: "213"
+  e164_international_prefix: "00"
+  e164_national_prefix: "7"
+  ioc_country_code: ALG
+  latitude: "28 00 N"
+  longitude: "3 00 E"
+  #currency: DZD
+  #un_locode: DZ
+  translations_attributes:
+    -
+      locale: en
+      name: Algeria
+      alternative_names:
+  #names:
+  #  - Algeria
+  #  - Algerien
+  #  - Algérie
+  #  - Argelia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Africa"
+  #languages:
+  #  - ar
+-
+  id: 62
+  continent_ids: [3, 10]
+  iso_3166_alpha2: EC
+  iso_3166_alpha3: ECU
+  iso_3166_numeric3: "218"
+  e164_country_code: "593"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ECU
+  latitude: "2 00 S"
+  longitude: "77 30 W"
+  #currency: USD
+  #un_locode: EC
+  translations_attributes:
+    -
+      locale: en
+      name: Ecuador
+      alternative_names:
+  #names:
+  #  - Équateur
+  #  - Ecuador
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "South America"
+  #languages:
+  #  - es
+-
+  id: 63
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: EE
+  iso_3166_alpha3: EST
+  iso_3166_numeric3: "233"
+  e164_country_code: "372"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: EST
+  latitude: "59 00 N"
+  longitude: "26 00 E"
+  #currency: EUR
+  #un_locode: EE
+  translations_attributes:
+    -
+      locale: en
+      name: Estonia
+      alternative_names:
+  #names:
+  #  - Estland
+  #  - Estonie
+  #  - Estonia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Northern Europe"
+  #languages:
+  #  - et
+-
+  id: 64
+  continent_ids: [1, 2]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: EG
+  iso_3166_alpha3: EGY
+  iso_3166_numeric3: "818"
+  e164_country_code: "20"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: EGY
+  latitude: "27 00 N"
+  longitude: "30 00 E"
+  #currency: EGP
+  #un_locode: EG
+  translations_attributes:
+    -
+      locale: en
+      name: Egypt
+      alternative_names:
+  #names:
+  #  - Egypt
+  #  - Ägypten
+  #  - Égypte
+  #  - Egipto
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Northern Africa"
+  #languages:
+  #  - ar
+-
+  id: 65
+  continent_ids: [1, 2]
+  iso_3166_alpha2: EH
+  iso_3166_alpha3: ESH
+  iso_3166_numeric3: "732"
+  e164_country_code: "212"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "24 30 N"
+  longitude: "13 00 W"
+  #currency: MAD
+  #un_locode: EH
+  translations_attributes:
+    -
+      locale: en
+      name: "Western Sahara"
+      alternative_names:
+  #names:
+  #  - "Western Sahara"
+  #  - Westsahara
+  #  - "Sahara Occidental"
+  #  - "Sahara Occidental"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Northern Africa"
+  #languages:
+  #  - es
+  #  - fr
+-
+  id: 66
+  continent_ids: [1, 2]
+  iso_3166_alpha2: ER
+  iso_3166_alpha3: ERI
+  iso_3166_numeric3: "232"
+  e164_country_code: "291"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ERI
+  latitude: "15 00 N"
+  longitude: "39 00 E"
+  #currency: ETB
+  #un_locode: ER
+  translations_attributes:
+    -
+      locale: en
+      name: Eritrea
+      alternative_names:
+  #names:
+  #  - Érythrée
+  #  - Eritrea
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+  #  - ar
+  #  - ti
+-
+  id: 67
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: ES
+  iso_3166_alpha3: ESP
+  iso_3166_numeric3: "724"
+  e164_country_code: "34"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: ESP
+  latitude: "40 00 N"
+  longitude: "4 00 W"
+  #currency: EUR
+  #un_locode: ES
+  translations_attributes:
+    -
+      locale: en
+      name: Spain
+      alternative_names:
+  #names:
+  #  - Spain
+  #  - Spanien
+  #  - Espagne
+  #  - España
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - es
+-
+  id: 68
+  continent_ids: [1, 2]
+  iso_3166_alpha2: ET
+  iso_3166_alpha3: ETH
+  iso_3166_numeric3: "231"
+  e164_country_code: "251"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ETH
+  latitude: "8 00 N"
+  longitude: "38 00 E"
+  #currency: ETB
+  #un_locode: ET
+  translations_attributes:
+    -
+      locale: en
+      name: Ethiopia
+      alternative_names:
+  #names:
+  #  - Ethiopia
+  #  - Äthiopien
+  #  - Éthiopie
+  #  - Etiopía
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - am
+-
+  id: 69
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: FI
+  iso_3166_alpha3: FIN
+  iso_3166_numeric3: "246"
+  e164_country_code: "358"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: FIN
+  latitude: "64 00 N"
+  longitude: "26 00 E"
+  #currency: EUR
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: Finland
+      alternative_names:
+  #names:
+  #  - Finland
+  #  - Finnland
+  #  - Finlande
+  #  - Finlandia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Northern Europe"
+  #languages:
+  #  - fi
+  #  - sv
+-
+  id: 70
+  continent_ids: [6]
+  iso_3166_alpha2: FJ
+  iso_3166_alpha3: FJI
+  iso_3166_numeric3: "242"
+  e164_country_code: "679"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: FIJ
+  latitude: "18 00 S"
+  longitude: "175 00 E"
+  #currency: USD
+  #un_locode: FJ
+  translations_attributes:
+    -
+      locale: en
+      name: Fiji
+      alternative_names:
+  #names:
+  #  - Fiji
+  #  - Fidschi
+  #  - Fidji
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Melanesia
+  #languages:
+  #  - en
+  #  - fj
+  #  - hi
+  #  - ur
+-
+  id: 71
+  continent_ids: [3, 10]
+  iso_3166_alpha2: FK
+  iso_3166_alpha3: FLK
+  iso_3166_numeric3: "238"
+  e164_country_code: "500"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "51 45 S"
+  longitude: "59 00 W"
+  #currency: FKP
+  #un_locode: FK
+  translations_attributes:
+    -
+      locale: en
+      name: "Falkland Islands (Malvinas)"
+      alternative_names:
+  #names:
+  #  - "Falkland Islands"
+  #  - Falklandinseln
+  #  - "Îles Malouines"
+  #  - "Islas Malvinas"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #subregion: "South America"
+  #languages:
+  #  - en
+-
+  id: 72
+  continent_ids: [6]
+  iso_3166_alpha2: FM
+  iso_3166_alpha3: FSM
+  iso_3166_numeric3: "583"
+  e164_country_code: "691"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: FSM
+  latitude: "6 55 N"
+  longitude: "158 15 E"
+  #currency: USD
+  #un_locode: FM
+  translations_attributes:
+    -
+      locale: en
+      name: "Micronesia, Federated States Of"
+      alternative_names:
+  #names:
+  #  - Micronesia
+  #  - Mikronesien
+  #  - Micronésie
+  #  - Micronesia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Micronesia
+  #languages:
+  #  - en
+-
+  id: 73
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: FO
+  iso_3166_alpha3: FRO
+  iso_3166_numeric3: "234"
+  e164_country_code: "298"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: FRO
+  latitude: "62 00 N"
+  longitude: "7 00 W"
+  #currency: DKK
+  #un_locode: FO
+  translations_attributes:
+    -
+      locale: en
+      name: "Faroe Islands"
+      alternative_names:
+  #names:
+  #  - "Faroe Islands"
+  #  - Färöer-Inseln
+  #  - "Îles Féroé"
+  #  - "Islas Faroe"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Northern Europe"
+  #languages:
+  #  - fo
+-
+  id: 74
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: FR
+  iso_3166_alpha3: FRA
+  iso_3166_numeric3: "250"
+  e164_country_code: "33"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: FRA
+  latitude: "46 00 N"
+  longitude: "2 00 E "
+  #currency: EUR
+  #un_locode: FR
+  translations_attributes:
+    -
+      locale: en
+      name: France
+      alternative_names:
+  #names:
+  #  - France
+  #  - Frankreich
+  #  - Francia
+  #  - "the French Republic"
+  #national_destination_code_lengths:
+  #  - 1
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "Western Europe"
+  #languages:
+  #  - fr
+-
+  id: 75
+  continent_ids: [1, 2]
+  iso_3166_alpha2: GA
+  iso_3166_alpha3: GAB
+  iso_3166_numeric3: "266"
+  e164_country_code: "241"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GAB
+  latitude: "1 00 S"
+  longitude: "11 45 E"
+  #currency: XAF
+  #un_locode: GA
+  translations_attributes:
+    -
+      locale: en
+      name: Gabon
+      alternative_names:
+  #names:
+  #  - Gabon
+  #  - Gabun
+  #  - Gabón
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #  - 8
+  #subregion: "Middle Africa"
+  #languages:
+  #  - fr
+-
+  id: 76
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}}
+      {{region}}
+      {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: GB
+  iso_3166_alpha3: GBR
+  iso_3166_numeric3: "826"
+  e164_country_code: "44"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: GBR
+  latitude: "54 00 N"
+  longitude: "2 00 W"
+  #currency: GBP
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "United Kingdom"
+      alternative_names:
+  #names:
+  #  - "United Kingdom"
+  #  - "GroÃ\u0083Â\u009fbritannien"
+  #  - Royaume-Uni
+  #  - "Reino Unido"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #  - 11
+  #subregion: "Northern Europe"
+  #languages:
+  #  - en
+-
+  id: 77
+  continent_ids: [3, 9]
+  iso_3166_alpha2: GD
+  iso_3166_alpha3: GRD
+  iso_3166_numeric3: "308"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: GRN
+  latitude: "12 07 N"
+  longitude: "61 40 W"
+  #currency: XCD
+  #un_locode: GD
+  translations_attributes:
+    -
+      locale: en
+      name: Grenada
+      alternative_names:
+  #names:
+  #  - Grenada
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 78
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: GE
+  iso_3166_alpha3: GEO
+  iso_3166_numeric3: "268"
+  e164_country_code: "995"
+  e164_international_prefix: "810"
+  e164_national_prefix: 8*
+  ioc_country_code: GEO
+  latitude: "42 00 N"
+  longitude: "43 30 E"
+  #currency: GEL
+  #un_locode: GE
+  translations_attributes:
+    -
+      locale: en
+      name: Georgia
+      alternative_names:
+  #names:
+  #  - Georgien
+  #  - Géorgie
+  #  - Georgia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - ka
+-
+  id: 79
+  continent_ids: [3, 10]
+  iso_3166_alpha2: GF
+  iso_3166_alpha3: GUF
+  iso_3166_numeric3: "254"
+  e164_country_code: "594"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "4 00 N"
+  longitude: "53 00 W "
+  #currency: EUR
+  #un_locode: GF
+  translations_attributes:
+    -
+      locale: en
+      name: "French Guiana"
+      alternative_names:
+  #names:
+  #  - "French Guiana"
+  #  - "Französisch Guyana"
+  #  - "Guyane française"
+  #  - "Guayana Francesa"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: "South America"
+  #languages:
+  #  - fr
+-
+  id: 80
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: GG
+  iso_3166_alpha3: GGY
+  iso_3166_numeric3: "831"
+  e164_country_code: "44"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "49 28 N"
+  longitude: "2 35 W"
+  #currency: GGP
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: Guernsey
+      alternative_names:
+  #names:
+  #  - "Guernsey and Alderney"
+  #  - "Guernsey und Alderney"
+  #  - "Guernsey et Alderney"
+  #  - "Guernsey y Alderney"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Northern Europe"
+  #languages:
+  #  - en
+  #  - fr
+-
+  id: 81
+  continent_ids: [1, 2]
+  iso_3166_alpha2: GH
+  iso_3166_alpha3: GHA
+  iso_3166_numeric3: "288"
+  e164_country_code: "233"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GHA
+  latitude: "8 00 N"
+  longitude: "2 00 W"
+  #currency: GHS
+  #un_locode: GH
+  translations_attributes:
+    -
+      locale: en
+      name: Ghana
+      alternative_names:
+  #names:
+  #  - Ghana
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #  - 6
+  #  - 7
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - en
+-
+  id: 82
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: GI
+  iso_3166_alpha3: GIB
+  iso_3166_numeric3: "292"
+  e164_country_code: "350"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "36 08 N"
+  longitude: "5 21 W"
+  #currency: GIP
+  #un_locode: GI
+  translations_attributes:
+    -
+      locale: en
+      name: Gibraltar
+      alternative_names:
+  #names:
+  #  - Gibraltar
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - en
+-
+  id: 83
+  continent_ids: [3, 9]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: GL
+  iso_3166_alpha3: GRL
+  iso_3166_numeric3: "304"
+  e164_country_code: "299"
+  e164_international_prefix: 009
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "72 00 N"
+  longitude: "40 00 W"
+  #currency: DKK
+  #un_locode: GL
+  translations_attributes:
+    -
+      locale: en
+      name: Greenland
+      alternative_names:
+  #names:
+  #  - Greenland
+  #  - Grönland
+  #  - Groenland
+  #  - Groenlandia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Northern America"
+  #languages:
+  #  - kl
+-
+  id: 84
+  continent_ids: [1, 2]
+  iso_3166_alpha2: GM
+  iso_3166_alpha3: GMB
+  iso_3166_numeric3: "270"
+  e164_country_code: "220"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GAM
+  latitude: "13 28 N"
+  longitude: "16 34 W"
+  #currency: GMD
+  #un_locode: GM
+  translations_attributes:
+    -
+      locale: en
+      name: Gambia
+      alternative_names:
+  #names:
+  #  - Gambia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Africa"
+  #languages:
+  #  - en
+-
+  id: 85
+  continent_ids: [1, 2]
+  iso_3166_alpha2: GN
+  iso_3166_alpha3: GIN
+  iso_3166_numeric3: "324"
+  e164_country_code: "224"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GUI
+  latitude: "11 00 N"
+  longitude: "10 00 W"
+  #currency: GNF
+  #un_locode: GN
+  translations_attributes:
+    -
+      locale: en
+      name: Guinea
+      alternative_names:
+  #names:
+  #  - Guinea
+  #  - Guinea
+  #  - Guinée
+  #  - Guinea
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+  #  - ff
+-
+  id: 86
+  continent_ids: [3, 9]
+  iso_3166_alpha2: GP
+  iso_3166_alpha3: GLP
+  iso_3166_numeric3: "312"
+  e164_country_code: "590"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: ""
+  longitude: ""
+  #currency: EUR
+  #un_locode: GP
+  translations_attributes:
+    -
+      locale: en
+      name: Guadeloupe
+      alternative_names:
+  #names:
+  #  - Guadeloupe
+  #  - Guadalupe
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - fr
+-
+  id: 87
+  continent_ids: [1, 2]
+  iso_3166_alpha2: GQ
+  iso_3166_alpha3: GNQ
+  iso_3166_numeric3: "226"
+  e164_country_code: "240"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GEQ
+  latitude: "2 00 N"
+  longitude: "10 00 E"
+  #currency: ~
+  #un_locode: GQ
+  translations_attributes:
+    -
+      locale: en
+      name: "Equatorial Guinea"
+      alternative_names:
+  #names:
+  #  - "Equatorial Guinea"
+  #  - Äquatorial-Guinea
+  #  - "Guinée Équatoriale"
+  #  - "Guinea Ecuatorial"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Middle Africa"
+  #languages:
+  #  - es
+  #  - fr
+-
+  id: 88
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: GR
+  iso_3166_alpha3: GRC
+  iso_3166_numeric3: "300"
+  e164_country_code: "30"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GRE
+  latitude: "39 00 N"
+  longitude: "22 00 E"
+  #currency: EUR
+  #un_locode: GR
+  translations_attributes:
+    -
+      locale: en
+      name: Greece
+      alternative_names:
+  #names:
+  #  - Greece
+  #  - Griechenland
+  #  - Grèce
+  #  - Grecia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Southern Europe"
+  #languages:
+  #  - el
+-
+  id: 89
+  continent_ids: [3, 10]
+  iso_3166_alpha2: GS
+  iso_3166_alpha3: SGS
+  iso_3166_numeric3: "239"
+  e164_country_code: "500"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "54 30 S"
+  longitude: "37 00 W"
+  #currency: ~
+  #un_locode: GS
+  translations_attributes:
+    -
+      locale: en
+      name: "South Georgia and the South Sandwich Islands"
+      alternative_names:
+  #names:
+  #  - "South Georgia and the South Sandwich Islands"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "South America"
+  #languages:
+  #  - en
+-
+  id: 90
+  continent_ids: [3, 9]
+  iso_3166_alpha2: GT
+  iso_3166_alpha3: GTM
+  iso_3166_numeric3: "320"
+  e164_country_code: "502"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GUA
+  latitude: "15 30 N"
+  longitude: "90 15 W"
+  #currency: GTQ
+  #un_locode: GT
+  translations_attributes:
+    -
+      locale: en
+      name: Guatemala
+      alternative_names:
+  #names:
+  #  - Guatemala
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 91
+  continent_ids: [6]
+  iso_3166_alpha2: GU
+  iso_3166_alpha3: GUM
+  iso_3166_numeric3: "316"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: GUM
+  latitude: "13 28 N"
+  longitude: "144 47 E"
+  #currency: USD
+  #un_locode: GU
+  translations_attributes:
+    -
+      locale: en
+      name: Guam
+      alternative_names:
+  #names:
+  #  - Guam
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Micronesia
+  #languages:
+  #  - en
+  #  - ch
+  #  - es
+-
+  id: 92
+  continent_ids: [1, 2]
+  iso_3166_alpha2: GW
+  iso_3166_alpha3: GNB
+  iso_3166_numeric3: "624"
+  e164_country_code: "245"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GBS
+  latitude: "12 00 N"
+  longitude: "15 00 W"
+  #currency: XOF
+  #un_locode: GW
+  translations_attributes:
+    -
+      locale: en
+      name: Guinea-Bissau
+      alternative_names:
+  #names:
+  #  - Guinea-Bissau
+  #  - Guinée-Bissau
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Africa"
+  #languages:
+  #  - pt
+-
+  id: 93
+  continent_ids: [3, 10]
+  iso_3166_alpha2: GY
+  iso_3166_alpha3: GUY
+  iso_3166_numeric3: "328"
+  e164_country_code: "592"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: GUY
+  latitude: "5 00 N"
+  longitude: "59 00 W"
+  #currency: GYD
+  #un_locode: GY
+  translations_attributes:
+    -
+      locale: en
+      name: Guyana
+      alternative_names:
+  #names:
+  #  - Guyana
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #subregion: "South America"
+  #languages:
+  #  - en
+-
+  id: 94
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: HK
+  iso_3166_alpha3: HKG
+  iso_3166_numeric3: "344"
+  e164_country_code: "852"
+  e164_international_prefix: "001"
+  e164_national_prefix: None
+  ioc_country_code: HKG
+  latitude: "22 15 N"
+  longitude: "114 10 E"
+  #currency: HKD
+  #un_locode: HK
+  translations_attributes:
+    -
+      locale: en
+      name: "Hong Kong"
+      alternative_names:
+  #names:
+  #  - "Hong Kong"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - en
+  #  - zh
+-
+  id: 95
+  continent_ids: [4]
+  iso_3166_alpha2: HM
+  iso_3166_alpha3: HMD
+  iso_3166_numeric3: "334"
+  e164_country_code: ""
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "53 06 S"
+  longitude: "72 31 E"
+  #currency: AUD
+  #un_locode: HM
+  translations_attributes:
+    -
+      locale: en
+      name: "Heard and McDonald Islands"
+      alternative_names:
+  #names:
+  #  - "Heard and McDonald Islands"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: ""
+  #languages:
+  #  - en
+-
+  id: 96
+  continent_ids: [3, 9]
+  iso_3166_alpha2: HN
+  iso_3166_alpha3: HND
+  iso_3166_numeric3: "340"
+  e164_country_code: "504"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: HON
+  latitude: "15 00 N"
+  longitude: "86 30 W"
+  #currency: HNL
+  #un_locode: HN
+  translations_attributes:
+    -
+      locale: en
+      name: Honduras
+      alternative_names:
+  #names:
+  #  - Honduras
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 97
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: HR
+  iso_3166_alpha3: HRV
+  iso_3166_numeric3: "191"
+  e164_country_code: "385"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: CRO
+  latitude: "45 10 N"
+  longitude: "15 30 E"
+  #currency: HRK
+  #un_locode: HR
+  translations_attributes:
+    -
+      locale: en
+      name: Croatia
+      alternative_names:
+  #names:
+  #  - Croatia
+  #  - Kroatien
+  #  - Croatie
+  #  - Croacia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - hr
+-
+  id: 98
+  continent_ids: [3, 9]
+  iso_3166_alpha2: HT
+  iso_3166_alpha3: HTI
+  iso_3166_numeric3: "332"
+  e164_country_code: "509"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: HAI
+  latitude: "19 00 N"
+  longitude: "72 25 W"
+  #currency: USD
+  #un_locode: HT
+  translations_attributes:
+    -
+      locale: en
+      name: Haiti
+      alternative_names:
+  #names:
+  #  - Haiti
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: Caribbean
+  #languages:
+  #  - fr
+  #  - ht
+-
+  id: 99
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{city}}
+      {{street}}
+      {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: HU
+  iso_3166_alpha3: HUN
+  iso_3166_numeric3: "348"
+  e164_country_code: "36"
+  e164_international_prefix: "00"
+  e164_national_prefix: "06"
+  ioc_country_code: HUN
+  latitude: "47 00 N"
+  longitude: "20 00 E"
+  #currency: HUF
+  #un_locode: HU
+  translations_attributes:
+    -
+      locale: en
+      name: Hungary
+      alternative_names:
+  #names:
+  #  - Hungary
+  #  - Ungarn
+  #  - Hongrie
+  #  - Hungría
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - hu
+-
+  id: 100
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}}
+      {{region}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: ID
+  iso_3166_alpha3: IDN
+  iso_3166_numeric3: "360"
+  e164_country_code: "62"
+  e164_international_prefix: "001"
+  e164_national_prefix: "0"
+  ioc_country_code: INA
+  latitude: "5 00 S"
+  longitude: "120 00 E"
+  #currency: IDR
+  #un_locode: ID
+  translations_attributes:
+    -
+      locale: en
+      name: Indonesia
+      alternative_names:
+  #names:
+  #  - Indonesia
+  #  - Indonesien
+  #  - Indonésie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #  - 10
+  #  - 11
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - id
+-
+  id: 101
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: IE
+  iso_3166_alpha3: IRL
+  iso_3166_numeric3: "372"
+  e164_country_code: "353"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: IRL
+  latitude: "53 00 N"
+  longitude: "8 00 W"
+  #currency: EUR
+  #un_locode: IE
+  translations_attributes:
+    -
+      locale: en
+      name: Ireland
+      alternative_names:
+  #names:
+  #  - Ireland
+  #  - Irland
+  #  - Irlande
+  #  - Irlanda
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Northern Europe"
+  #languages:
+  #  - en
+  #  - ga
+-
+  id: 102
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: IL
+  iso_3166_alpha3: ISR
+  iso_3166_numeric3: "376"
+  e164_country_code: "972"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ISR
+  latitude: "31 30 N"
+  longitude: "34 45 E"
+  #currency: ILS
+  #un_locode: IL
+  translations_attributes:
+    -
+      locale: en
+      name: Israel
+      alternative_names:
+  #names:
+  #  - Israël
+  #  - Israel
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - he
+  #  - ar
+-
+  id: 103
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: IM
+  iso_3166_alpha3: IMN
+  iso_3166_numeric3: "833"
+  e164_country_code: "44"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "54 15 N"
+  longitude: "4 30 W"
+  #currency: IMP
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "Isle of Man"
+      alternative_names:
+  #names:
+  #  - "Isle of Man"
+  #  - Man
+  #  - "Île de Man"
+  #  - "Isla de Man"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Northern Europe"
+  #languages:
+  #  - en
+  #  - gv
+-
+  id: 104
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{region}}
+      {{city}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: IN
+  iso_3166_alpha3: IND
+  iso_3166_numeric3: "356"
+  e164_country_code: "91"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: IND
+  latitude: "20 00 N"
+  longitude: "77 00 E"
+  #currency: INR
+  #un_locode: IN
+  translations_attributes:
+    -
+      locale: en
+      name: India
+      alternative_names:
+  #names:
+  #  - India
+  #  - Indien
+  #  - Inde
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Southern Asia"
+  #languages:
+  #  - hi
+  #  - en
+-
+  id: 105
+  continent_ids: [1, 2]
+  iso_3166_alpha2: IO
+  iso_3166_alpha3: IOT
+  iso_3166_numeric3: 086
+  e164_country_code: "246"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "6 00 S"
+  longitude: "71 30 E"
+  #currency: USD
+  #un_locode: IO
+  translations_attributes:
+    -
+      locale: en
+      name: "British Indian Ocean Territory"
+      alternative_names:
+  #names:
+  #  - "British Indian Ocean Territory"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+-
+  id: 106
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: IQ
+  iso_3166_alpha3: IRQ
+  iso_3166_numeric3: "368"
+  e164_country_code: "964"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: IRQ
+  latitude: "33 00 N"
+  longitude: "44 00 E"
+  #currency: IQD
+  #un_locode: IQ
+  translations_attributes:
+    -
+      locale: en
+      name: Iraq
+      alternative_names:
+  #names:
+  #  - Iraq
+  #  - Irak
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #  - 10
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 107
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: IR
+  iso_3166_alpha3: IRN
+  iso_3166_numeric3: "364"
+  e164_country_code: "98"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: IRI
+  latitude: "32 00 N"
+  longitude: "53 00 E"
+  #currency: IRR
+  #un_locode: IR
+  translations_attributes:
+    -
+      locale: en
+      name: "Iran, Islamic Republic Of"
+      alternative_names:
+  #names:
+  #  - Iran
+  #  - Irán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Southern Asia"
+  #languages:
+  #  - fa
+-
+  id: 108
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: IS
+  iso_3166_alpha3: ISL
+  iso_3166_numeric3: "352"
+  e164_country_code: "354"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ISL
+  latitude: "65 00 N"
+  longitude: "18 00 W"
+  #currency: ISK
+  #un_locode: IS
+  translations_attributes:
+    -
+      locale: en
+      name: Iceland
+      alternative_names:
+  #names:
+  #  - Iceland
+  #  - Island
+  #  - Islande
+  #  - Islandia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #subregion: "Northern Europe"
+  #languages:
+  #  - is
+-
+  id: 109
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: IT
+  iso_3166_alpha3: ITA
+  iso_3166_numeric3: "380"
+  e164_country_code: "39"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: ITA
+  latitude: "42 50 N"
+  longitude: "12 50 E"
+  #currency: EUR
+  #un_locode: IT
+  translations_attributes:
+    -
+      locale: en
+      name: Italy
+      alternative_names:
+  #names:
+  #  - Italy
+  #  - Italien
+  #  - Italie
+  #  - Italia
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - it
+-
+  id: 110
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: JE
+  iso_3166_alpha3: JEY
+  iso_3166_numeric3: "832"
+  e164_country_code: "44"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "49 15 N"
+  longitude: "2 10 W"
+  #currency: JEP
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: Jersey
+      alternative_names:
+  #names:
+  #  - Jersey
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Northern Europe"
+  #languages:
+  #  - en
+  #  - fr
+-
+  id: 111
+  continent_ids: [3, 9]
+  iso_3166_alpha2: JM
+  iso_3166_alpha3: JAM
+  iso_3166_numeric3: "388"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: JAM
+  latitude: "18 15 N"
+  longitude: "77 30 W"
+  #currency: JMD
+  #un_locode: JM
+  translations_attributes:
+    -
+      locale: en
+      name: Jamaica
+      alternative_names:
+  #names:
+  #  - Jamaica
+  #  - Jamaika
+  #  - Jamaïque
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 112
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: JO
+  iso_3166_alpha3: JOR
+  iso_3166_numeric3: "400"
+  e164_country_code: "962"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: JOR
+  latitude: "31 00 N"
+  longitude: "36 00 E"
+  #currency: JOD
+  #un_locode: JO
+  translations_attributes:
+    -
+      locale: en
+      name: Jordan
+      alternative_names:
+  #names:
+  #  - Jordan
+  #  - Jordanien
+  #  - Jordanie
+  #  - Jordania
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 113
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      〒{{postalcode}}
+      {{region}}{{city}}{{street}}
+      {{recipient}}
+      {{country}}
+  iso_3166_alpha2: JP
+  iso_3166_alpha3: JPN
+  iso_3166_numeric3: "392"
+  e164_country_code: "81"
+  e164_international_prefix: "010"
+  e164_national_prefix: "0"
+  ioc_country_code: JPN
+  latitude: "36 00 N"
+  longitude: "138 00 E"
+  #currency: JPY
+  #un_locode: JP
+  translations_attributes:
+    -
+      locale: en
+      name: Japan
+      alternative_names:
+  #names:
+  #  - Japan
+  #  - Japan
+  #  - Japon
+  #  - Japón
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - ja
+-
+  id: 114
+  continent_ids: [1, 2]
+  iso_3166_alpha2: KE
+  iso_3166_alpha3: KEN
+  iso_3166_numeric3: "404"
+  e164_country_code: "254"
+  e164_international_prefix: "000"
+  e164_national_prefix: "0"
+  ioc_country_code: KEN
+  latitude: "1 00 N"
+  longitude: "38 00 E"
+  #currency: KES
+  #un_locode: KE
+  translations_attributes:
+    -
+      locale: en
+      name: Kenya
+      alternative_names:
+  #names:
+  #  - Kenya
+  #  - Kenia
+  #  - Kenya
+  #  - Kenia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+  #  - sw
+-
+  id: 115
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: KG
+  iso_3166_alpha3: KGZ
+  iso_3166_numeric3: "417"
+  e164_country_code: "996"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: KGZ
+  latitude: "41 00 N"
+  longitude: "75 00 E"
+  #currency: KGS
+  #un_locode: KG
+  translations_attributes:
+    -
+      locale: en
+      name: Kyrgyzstan
+      alternative_names:
+  #names:
+  #  - Kyrgyzstan
+  #  - Kirgisistan
+  #  - Kirghizistan
+  #  - Kirguizistán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Central Asia"
+  #languages:
+  #  - ky
+  #  - ru
+-
+  id: 116
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: KH
+  iso_3166_alpha3: KHM
+  iso_3166_numeric3: "116"
+  e164_country_code: "855"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: CAM
+  latitude: "13 00 N"
+  longitude: "105 00 E"
+  #currency: KHR
+  #un_locode: KH
+  translations_attributes:
+    -
+      locale: en
+      name: Cambodia
+      alternative_names:
+  #names:
+  #  - Cambodia
+  #  - Kambodscha
+  #  - Cambodge
+  #  - Camboya
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - km
+-
+  id: 117
+  continent_ids: [6]
+  iso_3166_alpha2: KI
+  iso_3166_alpha3: KIR
+  iso_3166_numeric3: "296"
+  e164_country_code: "686"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: KIR
+  latitude: "1 25 N"
+  longitude: "173 00 E"
+  #currency: AUD
+  #un_locode: KI
+  translations_attributes:
+    -
+      locale: en
+      name: Kiribati
+      alternative_names:
+  #names:
+  #  - Kiribati
+  #  - Kiribati
+  #  - Kiribati
+  #  - Kiribati
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #subregion: Micronesia
+  #languages:
+  #  - en
+-
+  id: 118
+  continent_ids: [1, 2]
+  iso_3166_alpha2: KM
+  iso_3166_alpha3: COM
+  iso_3166_numeric3: "174"
+  e164_country_code: "269"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: COM
+  latitude: "12 10 S"
+  longitude: "44 15 E"
+  #currency: KMF
+  #un_locode: KM
+  translations_attributes:
+    -
+      locale: en
+      name: Comoros
+      alternative_names:
+  #names:
+  #  - Comoros
+  #  - Komoren
+  #  - Comores
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - ar
+  #  - fr
+-
+  id: 119
+  continent_ids: [3, 9]
+  iso_3166_alpha2: KN
+  iso_3166_alpha3: KNA
+  iso_3166_numeric3: "659"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: SKN
+  latitude: "17 20 N"
+  longitude: "62 45 W"
+  #currency: XCD
+  #un_locode: KN
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Kitts And Nevis"
+      alternative_names:
+  #names:
+  #  - "Saint Kitts and Nevis"
+  #  - "Saint Kitts et Nevis"
+  #  - "Saint Kitts y Nevis"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 120
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: KP
+  iso_3166_alpha3: PRK
+  iso_3166_numeric3: "408"
+  e164_country_code: "850"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: PRK
+  latitude: "40 00 N"
+  longitude: "127 00 E"
+  #currency: KPW
+  #un_locode: KP
+  translations_attributes:
+    -
+      locale: en
+      name: "Korea, Democratic People's Republic Of"
+      alternative_names:
+  #names:
+  #  - "Korea (North)"
+  #  - Nordkorea
+  #  - "Corée du Nord"
+  #  - "Corea del Norte"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - ko
+-
+  id: 121
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}}
+      {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: KR
+  iso_3166_alpha3: KOR
+  iso_3166_numeric3: "410"
+  e164_country_code: "82"
+  e164_international_prefix: "001"
+  e164_national_prefix: "0"
+  ioc_country_code: KOR
+  latitude: "37 00 N"
+  longitude: "127 30 E"
+  #currency: KRW
+  #un_locode: KR
+  translations_attributes:
+    -
+      locale: en
+      name: "Korea, Republic of"
+      alternative_names:
+  #names:
+  #  - "Korea (South)"
+  #  - Südkorea
+  #  - "Corée du Sud"
+  #  - "Corea del Sur"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - ko
+-
+  id: 122
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{region}}
+      {{country}}
+  iso_3166_alpha2: KW
+  iso_3166_alpha3: KWT
+  iso_3166_numeric3: "414"
+  e164_country_code: "965"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: KUW
+  latitude: "29 30 N"
+  longitude: "45 45 E"
+  #currency: KWD
+  #un_locode: KW
+  translations_attributes:
+    -
+      locale: en
+      name: Kuwait
+      alternative_names:
+  #names:
+  #  - Koweït
+  #  - Kuwait
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 123
+  continent_ids: [3, 9]
+  iso_3166_alpha2: KY
+  iso_3166_alpha3: CYM
+  iso_3166_numeric3: "136"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: CAY
+  latitude: "19 30 N"
+  longitude: "80 30 W"
+  #currency: KYD
+  #un_locode: KY
+  translations_attributes:
+    -
+      locale: en
+      name: "Cayman Islands"
+      alternative_names:
+  #names:
+  #  - "Cayman Islands"
+  #  - Cayman-Inseln
+  #  - "Îles Caïmans"
+  #  - "Islas Caimán"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 124
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: KZ
+  iso_3166_alpha3: KAZ
+  iso_3166_numeric3: "398"
+  e164_country_code: "7"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: KAZ
+  latitude: "48 00 N"
+  longitude: "68 00 E"
+  #currency: KZT
+  #un_locode: KZ
+  translations_attributes:
+    -
+      locale: en
+      name: Kazakhstan
+      alternative_names:
+  #names:
+  #  - Kazakhstan
+  #  - Kasachstan
+  #  - Kazakhstan
+  #  - Kazajistán
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Central Asia"
+  #languages:
+  #  - kk
+  #  - ru
+-
+  id: 125
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: LA
+  iso_3166_alpha3: LAO
+  iso_3166_numeric3: "418"
+  e164_country_code: "856"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: LAO
+  latitude: "18 00 N"
+  longitude: "105 00 E"
+  #currency: LAK
+  #un_locode: LA
+  translations_attributes:
+    -
+      locale: en
+      name: "Lao People's Democratic Republic"
+      alternative_names:
+  #names:
+  #  - Laos
+  #  - Laos
+  #  - Laos
+  #  - Laos
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - lo
+-
+  id: 126
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: LB
+  iso_3166_alpha3: LBN
+  iso_3166_numeric3: "422"
+  e164_country_code: "961"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: LIB
+  latitude: "33 50 N"
+  longitude: "35 50 E"
+  #currency: LBP
+  #un_locode: LB
+  translations_attributes:
+    -
+      locale: en
+      name: Lebanon
+      alternative_names:
+  #names:
+  #  - Lebanon
+  #  - Libanon
+  #  - Liban
+  #  - Líbano
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+  #  - fr
+-
+  id: 127
+  continent_ids: [3, 9]
+  iso_3166_alpha2: LC
+  iso_3166_alpha3: LCA
+  iso_3166_numeric3: "662"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: LCA
+  latitude: "13 53 N"
+  longitude: "60 58 W"
+  #currency: XCD
+  #un_locode: LC
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Lucia"
+      alternative_names:
+  #names:
+  #  - "Saint Lucia"
+  #  - Saint-Lucie
+  #  - "Santa Lucía"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 128
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: LI
+  iso_3166_alpha3: LIE
+  iso_3166_numeric3: "438"
+  e164_country_code: "423"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: LIE
+  latitude: "47 16 N"
+  longitude: "9 32 E"
+  #currency: CHF
+  #un_locode: LI
+  translations_attributes:
+    -
+      locale: en
+      name: Liechtenstein
+      alternative_names:
+  #names:
+  #  - Liechtenstein
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Europe"
+  #languages:
+  #  - de
+-
+  id: 129
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: LK
+  iso_3166_alpha3: LKA
+  iso_3166_numeric3: "144"
+  e164_country_code: "94"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SRI
+  latitude: "7 00 N"
+  longitude: "81 00 E"
+  #currency: LKR
+  #un_locode: LK
+  translations_attributes:
+    -
+      locale: en
+      name: "Sri Lanka"
+      alternative_names:
+  #names:
+  #  - "Sri Lanka"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Southern Asia"
+  #languages:
+  #  - si
+  #  - ta
+-
+  id: 130
+  continent_ids: [1, 2]
+  iso_3166_alpha2: LR
+  iso_3166_alpha3: LBR
+  iso_3166_numeric3: "430"
+  e164_country_code: "231"
+  e164_international_prefix: "00"
+  e164_national_prefix: "22"
+  ioc_country_code: LBR
+  latitude: "6 30 N"
+  longitude: "9 30 W"
+  #currency: LRD
+  #un_locode: LR
+  translations_attributes:
+    -
+      locale: en
+      name: Liberia
+      alternative_names:
+  #names:
+  #  - Liberia
+  #  - Liberia
+  #  - Liberia
+  #  - Liberia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - en
+-
+  id: 131
+  continent_ids: [1, 2]
+  iso_3166_alpha2: LS
+  iso_3166_alpha3: LSO
+  iso_3166_numeric3: "426"
+  e164_country_code: "266"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: LES
+  latitude: "29 30 S"
+  longitude: "28 30 E"
+  #currency: LSL
+  #un_locode: LS
+  translations_attributes:
+    -
+      locale: en
+      name: Lesotho
+      alternative_names:
+  #names:
+  #  - Lesotho
+  #  - Lesotho
+  #  - Lesotho
+  #  - Lesotho
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Africa"
+  #languages:
+  #  - en
+  #  - st
+-
+  id: 132
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: LT
+  iso_3166_alpha3: LTU
+  iso_3166_numeric3: "440"
+  e164_country_code: "370"
+  e164_international_prefix: "00"
+  e164_national_prefix: "8"
+  ioc_country_code: LTU
+  latitude: "56 00 N"
+  longitude: "24 00 E"
+  #currency: LTL
+  #un_locode: LT
+  translations_attributes:
+    -
+      locale: en
+      name: Lithuania
+      alternative_names:
+  #names:
+  #  - Lithuania
+  #  - Litauen
+  #  - Lituanie
+  #  - Lituania
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Europe"
+  #languages:
+  #  - lt
+-
+  id: 133
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: LU
+  iso_3166_alpha3: LUX
+  iso_3166_numeric3: "442"
+  e164_country_code: "352"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: LUX
+  latitude: "49 45 N"
+  longitude: "6 10 E"
+  #currency: EUR
+  #un_locode: LU
+  translations_attributes:
+    -
+      locale: en
+      name: Luxembourg
+      alternative_names:
+  #names:
+  #  - Luxembourg
+  #  - Luxemburg
+  #  - Luxembourg
+  #  - Luxemburgo
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Western Europe"
+  #languages:
+  #  - fr
+  #  - de
+  #  - lb
+-
+  id: 134
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: LV
+  iso_3166_alpha3: LVA
+  iso_3166_numeric3: "428"
+  e164_country_code: "371"
+  e164_international_prefix: "00"
+  e164_national_prefix: "8"
+  ioc_country_code: LAT
+  latitude: "57 00 N"
+  longitude: "25 00 E"
+  #currency: LVL
+  #un_locode: LV
+  translations_attributes:
+    -
+      locale: en
+      name: Latvia
+      alternative_names:
+  #names:
+  #  - Latvia
+  #  - Lettland
+  #  - Lettonie
+  #  - Letonia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Europe"
+  #languages:
+  #  - lv
+-
+  id: 135
+  continent_ids: [1, 2]
+  iso_3166_alpha2: LY
+  iso_3166_alpha3: LBY
+  iso_3166_numeric3: "434"
+  e164_country_code: "218"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: LBA
+  latitude: "25 00 N"
+  longitude: "17 00 E"
+  #currency: LYD
+  #un_locode: LY
+  translations_attributes:
+    -
+      locale: en
+      name: "Libya"
+      alternative_names:
+  #names:
+  #  - Libya
+  #  - Libyen
+  #  - Libye
+  #  - Libia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Northern Africa"
+  #languages:
+  #  - ar
+-
+  id: 136
+  continent_ids: [1, 2]
+  iso_3166_alpha2: MA
+  iso_3166_alpha3: MAR
+  iso_3166_numeric3: "504"
+  e164_country_code: "212"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MAR
+  latitude: "32 00 N"
+  longitude: "5 00 W"
+  #currency: MAD
+  #un_locode: MA
+  translations_attributes:
+    -
+      locale: en
+      name: Morocco
+      alternative_names:
+  #names:
+  #  - Morocco
+  #  - Marokko
+  #  - Maroc
+  #  - Marruecos
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Africa"
+  #languages:
+  #  - ar
+-
+  id: 137
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: MC
+  iso_3166_alpha3: MCO
+  iso_3166_numeric3: "492"
+  e164_country_code: "377"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MON
+  latitude: "43 44 N"
+  longitude: "7 24 E"
+  #currency: EUR
+  #un_locode: MC
+  translations_attributes:
+    -
+      locale: en
+      name: Monaco
+      alternative_names:
+  #names:
+  #  - Monaco
+  #  - Mónaco
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Western Europe"
+  #languages:
+  #  - fr
+-
+  id: 138
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: MD
+  iso_3166_alpha3: MDA
+  iso_3166_numeric3: "498"
+  e164_country_code: "373"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MDA
+  latitude: "47 00 N"
+  longitude: "29 00 E"
+  #currency: MDL
+  #un_locode: MD
+  translations_attributes:
+    -
+      locale: en
+      name: "Moldova, Republic of"
+      alternative_names:
+  #names:
+  #  - Moldova
+  #  - Moldawien
+  #  - Moldavie
+  #  - Moldavia
+  #  - "the Republic of Moldova"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - ro
+-
+  id: 139
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: ME
+  iso_3166_alpha3: MNE
+  iso_3166_numeric3: "499"
+  e164_country_code: "382"
+  e164_international_prefix: "99"
+  e164_national_prefix: "0"
+  ioc_country_code: MNE
+  latitude: "42 30 N"
+  longitude: "19 18 E"
+  #currency: EUR
+  #un_locode: ME
+  translations_attributes:
+    -
+      locale: en
+      name: Montenegro
+      alternative_names:
+  #names:
+  #  - "Crna Gora"
+  #  - Montenegro
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - sr
+  #  - bs
+  #  - sq
+  #  - hr
+-
+  id: 140
+  continent_ids: [3, 9]
+  iso_3166_alpha2: MF
+  iso_3166_alpha3: MAF
+  iso_3166_numeric3: "663"
+  e164_country_code: "590"
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: "18 05 N"
+  longitude: "63 57 W"
+  #currency: EUR
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Martin"
+      alternative_names:
+  #names:
+  #  - "Saint Martin"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: Caribbean
+  #languages:
+  #  - en
+  #  - fr
+  #  - nl
+-
+  id: 141
+  continent_ids: [1, 2]
+  iso_3166_alpha2: MG
+  iso_3166_alpha3: MDG
+  iso_3166_numeric3: "450"
+  e164_country_code: "261"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: MAD
+  latitude: "20 00 S"
+  longitude: "47 00 E"
+  #currency: ~
+  #un_locode: MG
+  translations_attributes:
+    -
+      locale: en
+      name: Madagascar
+      alternative_names:
+  #names:
+  #  - Madagascar
+  #  - Madagaskar
+  #  - "the Republic of Madagascar"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - fr
+  #  - mg
+-
+  id: 142
+  continent_ids: [6]
+  iso_3166_alpha2: MH
+  iso_3166_alpha3: MHL
+  iso_3166_numeric3: "584"
+  e164_country_code: "692"
+  e164_international_prefix: "00"
+  e164_national_prefix: "1"
+  ioc_country_code: MHL
+  latitude: "9 00 N"
+  longitude: "168 00 E"
+  #currency: USD
+  #un_locode: MH
+  translations_attributes:
+    -
+      locale: en
+      name: "Marshall Islands"
+      alternative_names:
+  #names:
+  #  - "Marshall Islands"
+  #  - Marshall-Inseln
+  #  - "Îles Marshall"
+  #  - "Islas Marshall"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Micronesia
+  #languages:
+  #  - en
+  #  - mh
+-
+  id: 143
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: MK
+  iso_3166_alpha3: MKD
+  iso_3166_numeric3: "807"
+  e164_country_code: "389"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MKD
+  latitude: "41 50 N"
+  longitude: "22 00 E"
+  #currency: ~
+  #un_locode: MK
+  translations_attributes:
+    -
+      locale: en
+      name: "Macedonia, the Former Yugoslav Republic Of"
+      alternative_names:
+  #names:
+  #  - Macedonia
+  #  - Mazedonien
+  #  - Macédoine
+  #  - Macedonia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - mk
+-
+  id: 144
+  continent_ids: [1, 2]
+  iso_3166_alpha2: ML
+  iso_3166_alpha3: MLI
+  iso_3166_numeric3: "466"
+  e164_country_code: "223"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MLI
+  latitude: "17 00 N"
+  longitude: "4 00 W"
+  #currency: XOF
+  #un_locode: ML
+  translations_attributes:
+    -
+      locale: en
+      name: Mali
+      alternative_names:
+  #names:
+  #  - Mali
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+-
+  id: 145
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: MM
+  iso_3166_alpha3: MMR
+  iso_3166_numeric3: "104"
+  e164_country_code: "95"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: MYA
+  latitude: "22 00 N"
+  longitude: "98 00 E"
+  #currency: MNK
+  #un_locode: MM
+  translations_attributes:
+    -
+      locale: en
+      name: Myanmar
+      alternative_names:
+  #names:
+  #  - Myanmar
+  #  - Myanmar
+  #  - Myanmar
+  #  - Myanmar
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - my
+-
+  id: 146
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: MN
+  iso_3166_alpha3: MNG
+  iso_3166_numeric3: "496"
+  e164_country_code: "976"
+  e164_international_prefix: "001"
+  e164_national_prefix: "0"
+  ioc_country_code: MGL
+  latitude: "46 00 N"
+  longitude: "105 00 E"
+  #currency: MNT
+  #un_locode: MN
+  translations_attributes:
+    -
+      locale: en
+      name: Mongolia
+      alternative_names:
+  #names:
+  #  - Mongolei
+  #  - Mongolie
+  #  - Mongolia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #  - 10
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - mn
+-
+  id: 147
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: MO
+  iso_3166_alpha3: MAC
+  iso_3166_numeric3: "446"
+  e164_country_code: "853"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code:
+  latitude: "22 10 N"
+  longitude: "113 33 E"
+  #currency: ~
+  #un_locode: MO
+  translations_attributes:
+    -
+      locale: en
+      name: Macao
+      alternative_names:
+  #names:
+  #  - Macao
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - zh
+  #  - pt
+-
+  id: 148
+  continent_ids: [6]
+  iso_3166_alpha2: MP
+  iso_3166_alpha3: MNP
+  iso_3166_numeric3: "580"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code:
+  latitude: "15 12 N"
+  longitude: "145 45 E"
+  #currency: USD
+  #un_locode: MP
+  translations_attributes:
+    -
+      locale: en
+      name: "Northern Mariana Islands"
+      alternative_names:
+  #names:
+  #  - "Northern Mariana Islands"
+  #  - "Nördliche Marianen"
+  #  - "Mariannes du Nord"
+  #  - "Islas Marianas del Norte"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Micronesia
+  #languages:
+  #  - en
+  #  - ch
+-
+  id: 149
+  continent_ids: [3, 9]
+  iso_3166_alpha2: MQ
+  iso_3166_alpha3: MTQ
+  iso_3166_numeric3: "474"
+  e164_country_code: "596"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: ""
+  longitude: ""
+  #currency: EUR
+  #un_locode: MQ
+  translations_attributes:
+    -
+      locale: en
+      name: Martinique
+      alternative_names:
+  #names:
+  #  - Martinique
+  #  - Martinique
+  #  - Martinique
+  #  - Martinica
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - fr
+-
+  id: 150
+  continent_ids: [1, 2]
+  iso_3166_alpha2: MR
+  iso_3166_alpha3: MRT
+  iso_3166_numeric3: "478"
+  e164_country_code: "222"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MTN
+  latitude: "20 00 N"
+  longitude: "12 00 W"
+  #currency: MRO
+  #un_locode: MR
+  translations_attributes:
+    -
+      locale: en
+      name: Mauritania
+      alternative_names:
+  #names:
+  #  - Mauritania
+  #  - Mauretanien
+  #  - Mauritanie
+  #  - Mauritania
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Africa"
+  #languages:
+  #  - ar
+  #  - fr
+-
+  id: 151
+  continent_ids: [3,9]
+  iso_3166_alpha2: MS
+  iso_3166_alpha3: MSR
+  iso_3166_numeric3: "500"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code:
+  latitude: "16 45 N"
+  longitude: "62 12 W"
+  #currency: XCD
+  #un_locode: MS
+  translations_attributes:
+    -
+      locale: en
+      name: Montserrat
+      alternative_names:
+  #names:
+  #  - Montserrat
+  #  - Montserrat
+  #  - Montserrat
+  #  - Montserrat
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 152
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: MT
+  iso_3166_alpha3: MLT
+  iso_3166_numeric3: "470"
+  e164_country_code: "356"
+  e164_international_prefix: "00"
+  e164_national_prefix: "21"
+  ioc_country_code: MLT
+  latitude: "35 50 N"
+  longitude: "14 35 E"
+  #currency: EUR
+  #un_locode: MT
+  translations_attributes:
+    -
+      locale: en
+      name: Malta
+      alternative_names:
+  #names:
+  #  - Malta
+  #  - Malta
+  #  - Malte
+  #  - Malta
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - mt
+  #  - en
+-
+  id: 153
+  continent_ids: [1, 2]
+  iso_3166_alpha2: MU
+  iso_3166_alpha3: MUS
+  iso_3166_numeric3: "480"
+  e164_country_code: "230"
+  e164_international_prefix: "020"
+  e164_national_prefix: None
+  ioc_country_code: MRI
+  latitude: "20 17 S"
+  longitude: "57 33 E"
+  #currency: MUR
+  #un_locode: MU
+  translations_attributes:
+    -
+      locale: en
+      name: Mauritius
+      alternative_names:
+  #names:
+  #  - Mauritius
+  #  - Mauritius
+  #  - "Île Maurice"
+  #  - Mauricio
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+-
+  id: 154
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: MV
+  iso_3166_alpha3: MDV
+  iso_3166_numeric3: "462"
+  e164_country_code: "960"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: MDV
+  latitude: "3 15 N"
+  longitude: "73 00 E"
+  #currency: MVR
+  #un_locode: MV
+  translations_attributes:
+    -
+      locale: en
+      name: Maldives
+      alternative_names:
+  #names:
+  #  - Maldives
+  #  - Malediven
+  #  - Maldivas
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Southern Asia"
+  #languages:
+  #  - dv
+-
+  id: 155
+  continent_ids: [1, 2]
+  iso_3166_alpha2: MW
+  iso_3166_alpha3: MWI
+  iso_3166_numeric3: "454"
+  e164_country_code: "265"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: MAW
+  latitude: "13 30 S"
+  longitude: "34 00 E"
+  #currency: MWK
+  #un_locode: MW
+  translations_attributes:
+    -
+      locale: en
+      name: Malawi
+      alternative_names:
+  #names:
+  #  - Malawi
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+  #  - ny
+-
+  id: 156
+  continent_ids: [3, 9]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: MX
+  iso_3166_alpha3: MEX
+  iso_3166_numeric3: "484"
+  e164_country_code: "52"
+  e164_international_prefix: "00"
+  e164_national_prefix: "01"
+  ioc_country_code: MEX
+  latitude: "23 00 N"
+  longitude: "102 00 W"
+  #currency: MXN
+  #un_locode: MX
+  translations_attributes:
+    -
+      locale: en
+      name: Mexico
+      alternative_names:
+  #names:
+  #  - Mexico
+  #  - Mexiko
+  #  - Mexique
+  #  - México
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #  - 10
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 157
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: MY
+  iso_3166_alpha3: MYS
+  iso_3166_numeric3: "458"
+  e164_country_code: "60"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MAS
+  latitude: "2 30 N"
+  longitude: "112 30 E"
+  #currency: MYR
+  #un_locode: MY
+  translations_attributes:
+    -
+      locale: en
+      name: Malaysia
+      alternative_names:
+  #names:
+  #  - Malaysia
+  #  - Malaisie
+  #  - Malasia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - en
+-
+  id: 158
+  continent_ids: [1, 2]
+  iso_3166_alpha2: MZ
+  iso_3166_alpha3: MOZ
+  iso_3166_numeric3: "508"
+  e164_country_code: "258"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: MOZ
+  latitude: "18 15 S"
+  longitude: "35 00 E"
+  #currency: MZN
+  #un_locode: MZ
+  translations_attributes:
+    -
+      locale: en
+      name: Mozambique
+      alternative_names:
+  #names:
+  #  - Mozambique
+  #  - Mosambik
+  #  - Mozambique
+  #  - Mozambique
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - pt
+-
+  id: 159
+  continent_ids: [1, 2]
+  iso_3166_alpha2: NA
+  iso_3166_alpha3: NAM
+  iso_3166_numeric3: "516"
+  e164_country_code: "264"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: NAM
+  latitude: "22 00 S"
+  longitude: "17 00 E"
+  #currency: NAD
+  #un_locode: NA
+  translations_attributes:
+    -
+      locale: en
+      name: Namibia
+      alternative_names:
+  #names:
+  #  - Namibia
+  #  - Namibia
+  #  - Namibie
+  #  - Namibia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #subregion: "Southern Africa"
+  #languages:
+  #  - en
+  #  - af
+-
+  id: 160
+  continent_ids: [6]
+  iso_3166_alpha2: NC
+  iso_3166_alpha3: NCL
+  iso_3166_numeric3: "540"
+  e164_country_code: "687"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "21 30 S"
+  longitude: "165 30 E"
+  #currency: XPF
+  #un_locode: NC
+  translations_attributes:
+    -
+      locale: en
+      name: "New Caledonia"
+      alternative_names:
+  #names:
+  #  - "New Caledonia"
+  #  - Neukaledonien
+  #  - "Nouvelle Calédonie"
+  #  - "Nueva Caledonia"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: Melanesia
+  #languages:
+  #  - fr
+-
+  id: 161
+  continent_ids: [1, 2]
+  iso_3166_alpha2: NE
+  iso_3166_alpha3: NER
+  iso_3166_numeric3: "562"
+  e164_country_code: "227"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: NIG
+  latitude: "16 00 N"
+  longitude: "8 00 E"
+  #currency: XOF
+  #un_locode: NE
+  translations_attributes:
+    -
+      locale: en
+      name: Niger
+      alternative_names:
+  #names:
+  #  - Níger
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+-
+  id: 162
+  continent_ids: [6]
+  iso_3166_alpha2: NF
+  iso_3166_alpha3: NFK
+  iso_3166_numeric3: "574"
+  e164_country_code: "672"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "29 02 S"
+  longitude: "167 57 E"
+  #currency: AUD
+  #un_locode: NF
+  translations_attributes:
+    -
+      locale: en
+      name: "Norfolk Island"
+      alternative_names:
+  #names:
+  #  - "Norfolk Island"
+  #  - "Norfolk Island"
+  #  - "Île de Norfolk"
+  #  - "Isla de Norfolk"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Australia and New Zealand"
+  #languages:
+  #  - en
+-
+  id: 163
+  continent_ids: [1, 2]
+  iso_3166_alpha2: NG
+  iso_3166_alpha3: NGA
+  iso_3166_numeric3: "566"
+  e164_country_code: "234"
+  e164_international_prefix: 009
+  e164_national_prefix: "0"
+  ioc_country_code: NGR
+  latitude: "10 00 N"
+  longitude: "8 00 E"
+  #currency: NGN
+  #un_locode: NG
+  translations_attributes:
+    -
+      locale: en
+      name: Nigeria
+      alternative_names:
+  #names:
+  #  - Nigeria
+  #  - Nigéria
+  #  - "the Federal Republic of Nigeria"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - en
+-
+  id: 164
+  continent_ids: [3, 9]
+  iso_3166_alpha2: NI
+  iso_3166_alpha3: NIC
+  iso_3166_numeric3: "558"
+  e164_country_code: "505"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: NCA
+  latitude: "13 00 N"
+  longitude: "85 00 W"
+  #currency: NIO
+  #un_locode: NI
+  translations_attributes:
+    -
+      locale: en
+      name: Nicaragua
+      alternative_names:
+  #names:
+  #  - Nicaragua
+  #  - Nicaragua
+  #  - Nicaragua
+  #  - Nicaragua
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 165
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: NL
+  iso_3166_alpha3: NLD
+  iso_3166_numeric3: "528"
+  e164_country_code: "31"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: NED
+  latitude: "52 30 N"
+  longitude: "5 45 E"
+  #currency: EUR
+  #un_locode: NL
+  translations_attributes:
+    -
+      locale: en
+      name: Netherlands
+      alternative_names:
+  #names:
+  #  - Netherlands
+  #  - Niederlande
+  #  - Pays-Bas
+  #  - "Países Bajos"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Western Europe"
+  #languages:
+  #  - nl
+-
+  id: 166
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: "NO"
+  iso_3166_alpha3: NOR
+  iso_3166_numeric3: "578"
+  e164_country_code: "47"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: NOR
+  latitude: "62 00 N"
+  longitude: "10 00 E"
+  #currency: NOK
+  #un_locode: NL
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  translations_attributes:
+    -
+      locale: en
+      name: Norway
+      alternative_names:
+  #names:
+  #  - Norway
+  #  - Norwegen
+  #  - Norvège
+  #  - Noruega
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Europe"
+  #languages:
+  #  - "no"
+-
+  id: 167
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: NP
+  iso_3166_alpha3: NPL
+  iso_3166_numeric3: "524"
+  e164_country_code: "977"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: NEP
+  latitude: "28 00 N"
+  longitude: "84 00 E"
+  #currency: NPR
+  #un_locode: NP
+  translations_attributes:
+    -
+      locale: en
+      name: Nepal
+      alternative_names:
+  #names:
+  #  - Nepal
+  #  - Nepal
+  #  - Népal
+  #  - Nepal
+  #  - "the Federal Democratic Republic of Nepal"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Southern Asia"
+  #languages:
+  #  - ne
+-
+  id: 168
+  continent_ids: [6]
+  iso_3166_alpha2: NR
+  iso_3166_alpha3: NRU
+  iso_3166_numeric3: "520"
+  e164_country_code: "674"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: NRU
+  latitude: "0 32 S"
+  longitude: "166 55 E"
+  #currency: AUD
+  #un_locode: NR
+  translations_attributes:
+    -
+      locale: en
+      name: Nauru
+      alternative_names:
+  #names:
+  #  - Nauru
+  #  - Nauru
+  #  - Nauru
+  #  - Nauru
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Micronesia
+  #languages:
+  #  - en
+  #  - na
+-
+  id: 169
+  continent_ids: [6]
+  iso_3166_alpha2: NU
+  iso_3166_alpha3: NIU
+  iso_3166_numeric3: "570"
+  e164_country_code: "683"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "19 02 S"
+  longitude: "169 52 W"
+  #currency: ~
+  #un_locode: NU
+  translations_attributes:
+    -
+      locale: en
+      name: Niue
+      alternative_names:
+  #names:
+  #  - Niue
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 4
+  #subregion: Polynesia
+  #languages:
+  #  - en
+-
+  id: 170
+  continent_ids: [6]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{region}}
+      {{city}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: NZ
+  iso_3166_alpha3: NZL
+  iso_3166_numeric3: "554"
+  e164_country_code: "64"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0 (None fo"
+  ioc_country_code: NZL
+  latitude: "41 00 S"
+  longitude: "174 00 E"
+  #currency: NZD
+  #un_locode: NZ
+  translations_attributes:
+    -
+      locale: en
+      name: "New Zealand"
+      alternative_names:
+  #names:
+  #  - "New Zealand"
+  #  - Neuseeland
+  #  - "Nouvelle ZÃ©lande"
+  #  - "Nueva Zelanda"
+  #national_destination_code_lengths:
+  #  - 1
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Australia and New Zealand"
+  #languages:
+  #  - en
+-
+  id: 171
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{region}}
+      {{country}}
+  iso_3166_alpha2: OM
+  iso_3166_alpha3: OMN
+  iso_3166_numeric3: "512"
+  e164_country_code: "968"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: OMA
+  latitude: "21 00 N"
+  longitude: "57 00 E"
+  #currency: OMR
+  #un_locode: OM
+  translations_attributes:
+    -
+      locale: en
+      name: Oman
+      alternative_names:
+  #names:
+  #  - Oman
+  #  - Omán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 172
+  continent_ids: [3, 9]
+  iso_3166_alpha2: PA
+  iso_3166_alpha3: PAN
+  iso_3166_numeric3: "591"
+  e164_country_code: "507"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: PAN
+  latitude: "9 00 N"
+  longitude: "80 00 W"
+  #currency: PAB
+  #un_locode: PA
+  translations_attributes:
+    -
+      locale: en
+      name: Panama
+      alternative_names:
+  #names:
+  #  - Panama
+  #  - Panamá
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 173
+  continent_ids: [3, 10]
+  iso_3166_alpha2: PE
+  iso_3166_alpha3: PER
+  iso_3166_numeric3: "604"
+  e164_country_code: "51"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: PER
+  latitude: "10 00 S"
+  longitude: "76 00 W"
+  #currency: PEN
+  #un_locode: PE
+  translations_attributes:
+    -
+      locale: en
+      name: Peru
+      alternative_names:
+  #names:
+  #  - Peru
+  #  - Pérou
+  #  - Perú
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "South America"
+  #languages:
+  #  - es
+-
+  id: 174
+  continent_ids: [6]
+  iso_3166_alpha2: PF
+  iso_3166_alpha3: PYF
+  iso_3166_numeric3: "258"
+  e164_country_code: "689"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "15 00 S"
+  longitude: "140 00 W"
+  #currency: XPF
+  #un_locode: PF
+  translations_attributes:
+    -
+      locale: en
+      name: "French Polynesia"
+      alternative_names:
+  #names:
+  #  - "French Polynesia"
+  #  - Französisch-Polynesien
+  #  - "Polynésie Française"
+  #  - "Polinesia Francesa"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: Polynesia
+  #languages:
+  #  - fr
+-
+  id: 175
+  continent_ids: [6]
+  iso_3166_alpha2: PG
+  iso_3166_alpha3: PNG
+  iso_3166_numeric3: "598"
+  e164_country_code: "675"
+  e164_international_prefix: "05"
+  e164_national_prefix: None
+  ioc_country_code: PNG
+  latitude: "6 00 S"
+  longitude: "147 00 E"
+  #currency: PGK
+  #un_locode: PG
+  translations_attributes:
+    -
+      locale: en
+      name: "Papua New Guinea"
+      alternative_names:
+  #names:
+  #  - "Papua New Guinea"
+  #  - Papua-Neuguinea
+  #  - "Papouasie Nouvelle-Guinée"
+  #  - "Papúa Nueva Guinea"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Melanesia
+  #languages:
+  #  - en
+-
+  id: 176
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}} {{region}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: PH
+  iso_3166_alpha3: PHL
+  iso_3166_numeric3: "608"
+  e164_country_code: "63"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: PHI
+  latitude: "13 00 N"
+  longitude: "122 00 E"
+  #currency: PHP
+  #un_locode: PH
+  translations_attributes:
+    -
+      locale: en
+      name: Philippines
+      alternative_names:
+  #names:
+  #  - Philippinen
+  #  - Philippines
+  #  - Filipinas
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #  - 10
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - tl
+  #  - en
+-
+  id: 177
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: PK
+  iso_3166_alpha3: PAK
+  iso_3166_numeric3: "586"
+  e164_country_code: "92"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: PAK
+  latitude: "30 00 N"
+  longitude: "70 00 E"
+  #currency: PKR
+  #un_locode: PK
+  translations_attributes:
+    -
+      locale: en
+      name: Pakistan
+      alternative_names:
+  #names:
+  #  - Pakistan
+  #  - Paquistán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "Southern Asia"
+  #languages:
+  #  - en
+  #  - ur
+-
+  id: 178
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{region}}
+      {{country}}
+  iso_3166_alpha2: PL
+  iso_3166_alpha3: POL
+  iso_3166_numeric3: "616"
+  e164_country_code: "48"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: POL
+  latitude: "52 00 N"
+  longitude: "20 00 E"
+  #currency: PLN
+  #un_locode: PL
+  translations_attributes:
+    -
+      locale: en
+      name: Poland
+      alternative_names:
+  #names:
+  #  - Poland
+  #  - Polen
+  #  - Pologne
+  #  - Polonia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - pl
+-
+  id: 179
+  continent_ids: [3, 9]
+  iso_3166_alpha2: PM
+  iso_3166_alpha3: SPM
+  iso_3166_numeric3: "666"
+  e164_country_code: "508"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code:
+  latitude: "46 50 N"
+  longitude: "56 20 W"
+  #currency: EUR
+  #un_locode: PM
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Pierre And Miquelon"
+      alternative_names:
+  #names:
+  #  - "Saint Pierre and Miquelon"
+  #  - Saint-Pierre-et-Miquelon
+  #  - Saint-Pierre-et-Miquelon
+  #  - "San Pedro y Miquelón"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Northern America"
+  #languages:
+  #  - fr
+-
+  id: 180
+  continent_ids: [6]
+  iso_3166_alpha2: PN
+  iso_3166_alpha3: PCN
+  iso_3166_numeric3: "612"
+  e164_country_code: ""
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code:
+  latitude: "25 04 S"
+  longitude: "130 06 W"
+  #currency: NZD
+  #un_locode: PN
+  translations_attributes:
+    -
+      locale: en
+      name: Pitcairn
+      alternative_names:
+  #names:
+  #  - Pitcairn
+  #national_destination_code_lengths: []
+  #national_number_lengths:
+  #  - 9
+  #subregion: Polynesia
+  #languages:
+  #  - en
+-
+  id: 181
+  continent_ids: [3, 9]
+  iso_3166_alpha2: PR
+  iso_3166_alpha3: PRI
+  iso_3166_numeric3: "630"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: PUR
+  latitude: "18 15 N"
+  longitude: "66 30 W"
+  #currency: USD
+  #un_locode: PR
+  translations_attributes:
+    -
+      locale: en
+      name: "Puerto Rico"
+      alternative_names:
+  #names:
+  #  - "Puerto Rico"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - es
+  #  - en
+-
+  id: 182
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: PS
+  iso_3166_alpha3: PSE
+  iso_3166_numeric3: "275"
+  e164_country_code: "970"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: PLE
+  latitude: ""
+  longitude: ""
+  #currency: ~
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "Palestinian Territory, Occupied"
+      alternative_names:
+  #names:
+  #  - Palestine
+  #  - Palästina
+  #  - Palestine
+  #  - Palestina
+  #  - "the Occupied Palestinian Territory"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+  #  - he
+  #  - en
+-
+  id: 183
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}} {{region}}
+      {{country}}
+  iso_3166_alpha2: PT
+  iso_3166_alpha3: PRT
+  iso_3166_numeric3: "620"
+  e164_country_code: "351"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: POR
+  latitude: "39 30 N"
+  longitude: "8 00 W"
+  #currency: EUR
+  #un_locode: PT
+  translations_attributes:
+    -
+      locale: en
+      name: Portugal
+      alternative_names:
+  #names:
+  #  - Portugal
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - pt
+-
+  id: 184
+  continent_ids: [6]
+  iso_3166_alpha2: PW
+  iso_3166_alpha3: PLW
+  iso_3166_numeric3: "585"
+  e164_country_code: "680"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: PLW
+  latitude: "7 30 N"
+  longitude: "134 30 E"
+  #currency: USD
+  #un_locode: PW
+  translations_attributes:
+    -
+      locale: en
+      name: Palau
+      alternative_names:
+  #names:
+  #  - Palau
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: Micronesia
+  #languages:
+  #  - en
+-
+  id: 185
+  continent_ids: [3, 10]
+  iso_3166_alpha2: PY
+  iso_3166_alpha3: PRY
+  iso_3166_numeric3: "600"
+  e164_country_code: "595"
+  e164_international_prefix: "002"
+  e164_national_prefix: "0"
+  ioc_country_code: PAR
+  latitude: "23 00 S"
+  longitude: "58 00 W"
+  #currency: PYG
+  #un_locode: PY
+  translations_attributes:
+    -
+      locale: en
+      name: Paraguay
+      alternative_names:
+  #names:
+  #  - Paraguay
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "South America"
+  #languages:
+  #  - es
+  #  - gn
+-
+  id: 186
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: QA
+  iso_3166_alpha3: QAT
+  iso_3166_numeric3: "634"
+  e164_country_code: "974"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: QAT
+  latitude: "25 30 N"
+  longitude: "51 15 E"
+  #currency: QAR
+  #un_locode: QA
+  translations_attributes:
+    -
+      locale: en
+      name: Qatar
+      alternative_names:
+  #names:
+  #  - Qatar
+  #  - Katar
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 187
+  continent_ids: [1, 2]
+  iso_3166_alpha2: RE
+  iso_3166_alpha3: REU
+  iso_3166_numeric3: "638"
+  e164_country_code: "262"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: ""
+  longitude: ""
+  #currency: EUR
+  #un_locode: RE
+  translations_attributes:
+    -
+      locale: en
+      name: Réunion
+      alternative_names:
+  #names:
+  #  - Réunion
+  #  - Réunion
+  #  - Réunion
+  #  - Reunión
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - fr
+-
+  id: 188
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: RO
+  iso_3166_alpha3: ROU
+  iso_3166_numeric3: "642"
+  e164_country_code: "40"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ROU
+  latitude: "46 00 N"
+  longitude: "25 00 E"
+  #currency: RON
+  #un_locode: RO
+  translations_attributes:
+    -
+      locale: en
+      name: Romania
+      alternative_names:
+  #names:
+  #  - Romania
+  #  - Rumänien
+  #  - Roumanie
+  #  - Rumania
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - ro
+-
+  id: 189
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: RS
+  iso_3166_alpha3: SRB
+  iso_3166_numeric3: "688"
+  e164_country_code: "381"
+  e164_international_prefix: "99"
+  e164_national_prefix: "0"
+  ioc_country_code: SRB
+  latitude: "44 00 N"
+  longitude: "21 00 E"
+  #currency: RSD
+  #un_locode: RS
+  translations_attributes:
+    -
+      locale: en
+      name: Serbia
+      alternative_names:
+  #names:
+  #  - Serbia
+  #  - Serbien
+  #  - Serbie
+  #  - Serbia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - sr
+-
+  id: 190
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{postalcode}} {{city}}
+      {{street}}
+      {{country}}
+  iso_3166_alpha2: RU
+  iso_3166_alpha3: RUS
+  iso_3166_numeric3: "643"
+  e164_country_code: "7"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: RUS
+  latitude: "60 00 N"
+  longitude: "100 00 E"
+  #currency: RUB
+  #un_locode: RU
+  translations_attributes:
+    -
+      locale: en
+      name: "Russian Federation"
+      alternative_names:
+  #names:
+  #  - Russia
+  #  - Russland
+  #  - Russie
+  #  - Rusia
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - ru
+-
+  id: 191
+  continent_ids: [1, 2]
+  iso_3166_alpha2: RW
+  iso_3166_alpha3: RWA
+  iso_3166_numeric3: "646"
+  e164_country_code: "250"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: RWA
+  latitude: "2 00 S"
+  longitude: "30 00 E"
+  #currency: RWF
+  #un_locode: RW
+  translations_attributes:
+    -
+      locale: en
+      name: Rwanda
+      alternative_names:
+  #names:
+  #  - Rwanda
+  #  - Ruanda
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #  - 6
+  #  - 7
+  #  - 8
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - rw
+  #  - en
+  #  - fr
+-
+  id: 192
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: SA
+  iso_3166_alpha3: SAU
+  iso_3166_numeric3: "682"
+  e164_country_code: "966"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: KSA
+  latitude: "25 00 N"
+  longitude: "45 00 E"
+  #currency: SAR
+  #un_locode: SA
+  translations_attributes:
+    -
+      locale: en
+      name: "Saudi Arabia"
+      alternative_names:
+  #names:
+  #  - "Saudi Arabia"
+  #  - Saudi-Arabien
+  #  - "Arabie Saoudite"
+  #  - "Arabia Saudí"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 193
+  continent_ids: [6]
+  iso_3166_alpha2: SB
+  iso_3166_alpha3: SLB
+  iso_3166_numeric3: 090
+  e164_country_code: "677"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SOL
+  latitude: "8 00 S"
+  longitude: "159 00 E"
+  #currency: SBD
+  #un_locode: SB
+  translations_attributes:
+    -
+      locale: en
+      name: "Solomon Islands"
+      alternative_names:
+  #names:
+  #  - "Solomon Islands"
+  #  - Salomonen
+  #  - "Îles Salomon"
+  #  - "Islas Salomón"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #subregion: Melanesia
+  #languages:
+  #  - en
+-
+  id: 194
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SC
+  iso_3166_alpha3: SYC
+  iso_3166_numeric3: "690"
+  e164_country_code: "248"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SEY
+  latitude: "4 35 S"
+  longitude: "55 40 E"
+  #currency: SCR
+  #un_locode: SC
+  translations_attributes:
+    -
+      locale: en
+      name: Seychelles
+      alternative_names:
+  #names:
+  #  - Seychelles
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - fr
+  #  - en
+-
+  id: 195
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SD
+  iso_3166_alpha3: SDN
+  iso_3166_numeric3: "736"
+  e164_country_code: "249"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SUD
+  latitude: "15 00 N"
+  longitude: "30 00 E"
+  #currency: SDG
+  #un_locode: SD
+  translations_attributes:
+    -
+      locale: en
+      name: Sudan
+      alternative_names:
+  #names:
+  #  - Sudan
+  #  - Soudan
+  #  - Sudán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Northern Africa"
+  #languages:
+  #  - ar
+  #  - en
+-
+  id: 196
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: SE
+  iso_3166_alpha3: SWE
+  iso_3166_numeric3: "752"
+  e164_country_code: "46"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SWE
+  latitude: "62 00 N"
+  longitude: "15 00 E"
+  #currency: SEK
+  #un_locode: SE
+  translations_attributes:
+    -
+      locale: en
+      name: Sweden
+      alternative_names:
+  #names:
+  #  - Sweden
+  #  - Schweden
+  #  - Suède
+  #  - Suecia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Northern Europe"
+  #languages:
+  #  - sv
+-
+  id: 197
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: SG
+  iso_3166_alpha3: SGP
+  iso_3166_numeric3: "702"
+  e164_country_code: "65"
+  e164_international_prefix: "001"
+  e164_national_prefix: None
+  ioc_country_code: SIN
+  latitude: "1 22 N"
+  longitude: "103 48 E"
+  #currency: SGD
+  #un_locode: SG
+  translations_attributes:
+    -
+      locale: en
+      name: Singapore
+      alternative_names:
+  #names:
+  #  - Singapore
+  #  - Singapur
+  #  - Singapour
+  #  - Singapur
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - en
+  #  - ms
+  #  - ta
+-
+  id: 198
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SH
+  iso_3166_alpha3: SHN
+  iso_3166_numeric3: "654"
+  e164_country_code: "290"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "Saint Helena: 15 57 "
+  longitude: "Saint Helena: 5 42 W"
+  #currency: SHP
+  #un_locode: SH
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Helena"
+      alternative_names:
+  #names:
+  #  - "Saint Helena"
+  #  - "Sankt Helena"
+  #  - "Sainte Hélène"
+  #  - "Santa Helena"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 4
+  #subregion: "Western Africa"
+  #languages:
+  #  - en
+-
+  id: 199
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: SI
+  iso_3166_alpha3: SVN
+  iso_3166_numeric3: "705"
+  e164_country_code: "386"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SLO
+  latitude: "46 07 N"
+  longitude: "14 49 E"
+  #currency: EUR
+  #un_locode: SI
+  translations_attributes:
+    -
+      locale: en
+      name: Slovenia
+      alternative_names:
+  #names:
+  #  - Slovenia
+  #  - Slowenien
+  #  - Slovénie
+  #  - Eslovenia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Southern Europe"
+  #languages:
+  #  - sl
+-
+  id: 200
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: SJ
+  iso_3166_alpha3: SJM
+  iso_3166_numeric3: "744"
+  e164_country_code: "47"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "78 00 N"
+  longitude: "20 00 E"
+  #currency: NOK
+  #un_locode: SJ
+  translations_attributes:
+    -
+      locale: en
+      name: "Svalbard And Jan Mayen"
+      alternative_names:
+  #names:
+  #  - "Svalbard and Jan Mayen"
+  #  - "Svalbard und Jan Mayen"
+  #  - "Îles Svalbard et Jan Mayen"
+  #  - "Islas Svalbard y Jan Mayen"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Europe"
+  #languages:
+  #  - "no"
+-
+  id: 201
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: SK
+  iso_3166_alpha3: SVK
+  iso_3166_numeric3: "703"
+  e164_country_code: "421"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SVK
+  latitude: "48 40 N"
+  longitude: "19 30 E"
+  #currency: EUR
+  #un_locode: SK
+  translations_attributes:
+    -
+      locale: en
+      name: Slovakia
+      alternative_names:
+  #names:
+  #  - Slovakia
+  #  - Slowakei
+  #  - Slovaquie
+  #  - "República Eslovaca"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - sk
+-
+  id: 202
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SL
+  iso_3166_alpha3: SLE
+  iso_3166_numeric3: "694"
+  e164_country_code: "232"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SLE
+  latitude: "8 30 N"
+  longitude: "11 30 W"
+  #currency: SLL
+  #un_locode: SL
+  translations_attributes:
+    -
+      locale: en
+      name: "Sierra Leone"
+      alternative_names:
+  #names:
+  #  - "Sierra Leone"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Western Africa"
+  #languages:
+  #  - en
+-
+  id: 203
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: SM
+  iso_3166_alpha3: SMR
+  iso_3166_numeric3: "674"
+  e164_country_code: "378"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SMR
+  latitude: "43 46 N"
+  longitude: "12 25 E"
+  #currency: EUR
+  #un_locode: SM
+  translations_attributes:
+    -
+      locale: en
+      name: "San Marino"
+      alternative_names:
+  #names:
+  #  - "San Marino"
+  #  - Saint-Marin
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #  - 11
+  #  - 12
+  #subregion: "Southern Europe"
+  #languages:
+  #  - it
+-
+  id: 204
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SN
+  iso_3166_alpha3: SEN
+  iso_3166_numeric3: "686"
+  e164_country_code: "221"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SEN
+  latitude: "14 00 N"
+  longitude: "14 00 W"
+  #currency: XOF
+  #un_locode: SN
+  translations_attributes:
+    -
+      locale: en
+      name: Senegal
+      alternative_names:
+  #names:
+  #  - Senegal
+  #  - Sénégal
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+-
+  id: 205
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SO
+  iso_3166_alpha3: SOM
+  iso_3166_numeric3: "706"
+  e164_country_code: "252"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SOM
+  latitude: "10 00 N"
+  longitude: "49 00 E"
+  #currency: SOS
+  #un_locode: SO
+  translations_attributes:
+    -
+      locale: en
+      name: Somalia
+      alternative_names:
+  #names:
+  #  - Somalia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - so
+  #  - ar
+-
+  id: 206
+  continent_ids: [3, 10]
+  iso_3166_alpha2: SR
+  iso_3166_alpha3: SUR
+  iso_3166_numeric3: "740"
+  e164_country_code: "597"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SUR
+  latitude: "4 00 N"
+  longitude: "56 00 W"
+  #currency: SRD
+  #un_locode: SR
+  translations_attributes:
+    -
+      locale: en
+      name: Suriname
+      alternative_names:
+  #names:
+  #  - Suriname
+  #  - Surinam
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: "South America"
+  #languages:
+  #  - nl
+-
+  id: 207
+  continent_ids: [1, 2]
+  iso_3166_alpha2: ST
+  iso_3166_alpha3: STP
+  iso_3166_numeric3: "678"
+  e164_country_code: "239"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: STP
+  latitude: "1 00 N"
+  longitude: "7 00 E"
+  #currency: STD
+  #un_locode: ST
+  translations_attributes:
+    -
+      locale: en
+      name: "Sao Tome and Principe"
+      alternative_names:
+  #names:
+  #  - "São Tomé and Príncipe"
+  #  - "São Tomé und Príncipe"
+  #  - "São Tomé et Príncipe"
+  #  - "Santo Tomé y Príncipe"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #subregion: "Middle Africa"
+  #languages:
+  #  - pt
+-
+  id: 208
+  continent_ids: [3, 9]
+  iso_3166_alpha2: SV
+  iso_3166_alpha3: SLV
+  iso_3166_numeric3: "222"
+  e164_country_code: "503"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: ESA
+  latitude: "13 50 N"
+  longitude: "88 55 W"
+  #currency: USD
+  #un_locode: SV
+  translations_attributes:
+    -
+      locale: en
+      name: "El Salvador"
+      alternative_names:
+  #names:
+  #  - Salvador
+  #  - "El Salvador"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Central America"
+  #languages:
+  #  - es
+-
+  id: 209
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: SY
+  iso_3166_alpha3: SYR
+  iso_3166_numeric3: "760"
+  e164_country_code: "963"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: SYR
+  latitude: "35 00 N"
+  longitude: "38 00 E"
+  #currency: SYP
+  #un_locode: SY
+  translations_attributes:
+    -
+      locale: en
+      name: "Syrian Arab Republic"
+      alternative_names:
+  #names:
+  #  - Syria
+  #  - Syrien
+  #  - Syrie
+  #  - Siria
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 210
+  continent_ids: [1, 2]
+  iso_3166_alpha2: SZ
+  iso_3166_alpha3: SWZ
+  iso_3166_numeric3: "748"
+  e164_country_code: "268"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SWZ
+  latitude: "26 30 S"
+  longitude: "31 30 E"
+  #currency: SZL
+  #un_locode: SZ
+  translations_attributes:
+    -
+      locale: en
+      name: Swaziland
+      alternative_names:
+  #names:
+  #  - Swaziland
+  #  - Swasiland
+  #  - Swaziland
+  #  - Suazilandia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Southern Africa"
+  #languages:
+  #  - en
+  #  - ss
+-
+  id: 211
+  continent_ids: [3, 9]
+  iso_3166_alpha2: TC
+  iso_3166_alpha3: TCA
+  iso_3166_numeric3: "796"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code:
+  latitude: "21 45 N"
+  longitude: "71 35 W"
+  #currency: USD
+  #un_locode: TC
+  translations_attributes:
+    -
+      locale: en
+      name: "Turks and Caicos Islands"
+      alternative_names:
+  #names:
+  #  - "Turks and Caicos Islands"
+  #  - "Turks- und Caicosinseln"
+  #  - "Îles Turks et Caïcos"
+  #  - "Islas Turks y Caicos"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 212
+  continent_ids: [1, 2]
+  iso_3166_alpha2: TD
+  iso_3166_alpha3: TCD
+  iso_3166_numeric3: "148"
+  e164_country_code: "235"
+  e164_international_prefix: "15"
+  e164_national_prefix: None
+  ioc_country_code: CHA
+  latitude: "15 00 N"
+  longitude: "19 00 E"
+  #currency: XAF
+  #un_locode: TD
+  translations_attributes:
+    -
+      locale: en
+      name: Chad
+      alternative_names:
+  #names:
+  #  - Chad
+  #  - Tschad
+  #  - Tchad
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Middle Africa"
+  #languages:
+  #  - ar
+  #  - fr
+-
+  id: 213
+  continent_ids: [4]
+  iso_3166_alpha2: TF
+  iso_3166_alpha3: ATF
+  iso_3166_numeric3: "260"
+  e164_country_code: ""
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: ""
+  longitude: ""
+  #currency: EUR
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: "French Southern Territories"
+      alternative_names:
+  #names:
+  #  - "French Southern Territories"
+  #  - "Französische Südgebiete"
+  #  - "Terres Australes Françaises"
+  #  - "Territorios Franceses del Sur"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: ""
+  #languages:
+  #  - fr
+-
+  id: 214
+  continent_ids: [1, 2]
+  iso_3166_alpha2: TG
+  iso_3166_alpha3: TGO
+  iso_3166_numeric3: "768"
+  e164_country_code: "228"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: TOG
+  latitude: "8 00 N"
+  longitude: "1 10 E"
+  #currency: XOF
+  #un_locode: TG
+  translations_attributes:
+    -
+      locale: en
+      name: Togo
+      alternative_names:
+  #names:
+  #  - Togo
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Western Africa"
+  #languages:
+  #  - fr
+-
+  id: 215
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: TH
+  iso_3166_alpha3: THA
+  iso_3166_numeric3: "764"
+  e164_country_code: "66"
+  e164_international_prefix: "001"
+  e164_national_prefix: "0"
+  ioc_country_code: THA
+  latitude: "15 00 N"
+  longitude: "100 00 E"
+  #currency: THB
+  #un_locode: TH
+  translations_attributes:
+    -
+      locale: en
+      name: Thailand
+      alternative_names:
+  #names:
+  #  - Thailand
+  #  - Thailand
+  #  - Thaïlande
+  #  - Tailandia
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #  - 10
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - th
+-
+  id: 216
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: TJ
+  iso_3166_alpha3: TJK
+  iso_3166_numeric3: "762"
+  e164_country_code: "992"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: TJK
+  latitude: "39 00 N"
+  longitude: "71 00 E"
+  #currency: TJS
+  #un_locode: TJ
+  translations_attributes:
+    -
+      locale: en
+      name: Tajikistan
+      alternative_names:
+  #names:
+  #  - Tajikistan
+  #  - Tadschikistan
+  #  - Tajikistan
+  #  - Tayikistán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Central Asia"
+  #languages:
+  #  - tg
+  #  - ru
+-
+  id: 217
+  continent_ids: [6]
+  iso_3166_alpha2: TK
+  iso_3166_alpha3: TKL
+  iso_3166_numeric3: "772"
+  e164_country_code: "690"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "9 00 S"
+  longitude: "172 00 W"
+  #currency: NZD
+  #un_locode: TK
+  translations_attributes:
+    -
+      locale: en
+      name: Tokelau
+      alternative_names:
+  #names:
+  #  - Tokelau
+  #  - Tokelau
+  #  - "Îles Tokelau"
+  #  - "Islas Tokelau"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 4
+  #subregion: Polynesia
+  #languages:
+  #  - en
+-
+  id: 218
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: TL
+  iso_3166_alpha3: TLS
+  iso_3166_numeric3: "626"
+  e164_country_code: "670"
+  e164_international_prefix: None
+  e164_national_prefix: None
+  ioc_country_code: TLS
+  latitude: "8 50 S"
+  longitude: "125 55 E"
+  #currency: IDR
+  #un_locode:
+  translations_attributes:
+    -
+      locale: en
+      name: Timor-Leste
+      alternative_names:
+  #names:
+  #  - "East Timor"
+  #  - Ost-Timor
+  #  - "Timor oriental"
+  #  - "Timor Oriental"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - pt
+-
+  id: 219
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: TM
+  iso_3166_alpha3: TKM
+  iso_3166_numeric3: "795"
+  e164_country_code: "993"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: TKM
+  latitude: "40 00 N"
+  longitude: "60 00 E"
+  #currency: ~
+  #un_locode: TM
+  translations_attributes:
+    -
+      locale: en
+      name: Turkmenistan
+      alternative_names:
+  #names:
+  #  - Turkmenistan
+  #  - Turkmenistan
+  #  - Turkménistan
+  #  - Turkmenistán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Central Asia"
+  #languages:
+  #  - tk
+  #  - ru
+-
+  id: 220
+  continent_ids: [1, 2]
+  iso_3166_alpha2: TN
+  iso_3166_alpha3: TUN
+  iso_3166_numeric3: "788"
+  e164_country_code: "216"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: TUN
+  latitude: "34 00 N"
+  longitude: "9 00 E"
+  #currency: TND
+  #un_locode: TN
+  translations_attributes:
+    -
+      locale: en
+      name: Tunisia
+      alternative_names:
+  #names:
+  #  - Tunisia
+  #  - Tunesien
+  #  - Tunisie
+  #  - Túnez
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #subregion: "Northern Africa"
+  #languages:
+  #  - ar
+  #  - fr
+-
+  id: 221
+  continent_ids: [6]
+  iso_3166_alpha2: TO
+  iso_3166_alpha3: TON
+  iso_3166_numeric3: "776"
+  e164_country_code: "676"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: TGA
+  latitude: "20 00 S"
+  longitude: "175 00 W"
+  #currency: TOP
+  #un_locode: TO
+  translations_attributes:
+    -
+      locale: en
+      name: Tonga
+      alternative_names:
+  #names:
+  #  - Tonga
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #  - 6
+  #  - 7
+  #subregion: Polynesia
+  #languages:
+  #  - en
+  #  - to
+-
+  id: 222
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: TR
+  iso_3166_alpha3: TUR
+  iso_3166_numeric3: "792"
+  e164_country_code: "90"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: TUR
+  latitude: "39 00 N"
+  longitude: "35 00 E"
+  #currency: TRY
+  #un_locode: TR
+  translations_attributes:
+    -
+      locale: en
+      name: Turkey
+      alternative_names:
+  #names:
+  #  - Turkey
+  #  - Türkei
+  #  - Turquie
+  #  - Turquía
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Western Asia"
+  #languages:
+  #  - tr
+-
+  id: 223
+  continent_ids: [3, 9]
+  iso_3166_alpha2: TT
+  iso_3166_alpha3: TTO
+  iso_3166_numeric3: "780"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: TRI
+  latitude: "11 00 N"
+  longitude: "61 00 W"
+  #currency: TTD
+  #un_locode: TT
+  translations_attributes:
+    -
+      locale: en
+      name: "Trinidad and Tobago"
+      alternative_names:
+  #names:
+  #  - "Trinidad and Tobago"
+  #  - "Trinidad und Tobago"
+  #  - "Trinité et Tobago"
+  #  - "Trinidad y Tobago"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 224
+  continent_ids: [6]
+  iso_3166_alpha2: TV
+  iso_3166_alpha3: TUV
+  iso_3166_numeric3: "798"
+  e164_country_code: "688"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: TUV
+  latitude: "8 00 S"
+  longitude: "178 00 E"
+  #currency: TVD
+  #un_locode: TV
+  translations_attributes:
+    -
+      locale: en
+      name: Tuvalu
+      alternative_names:
+  #names:
+  #  - Tuvalu
+  #  - Tuvalu
+  #  - Tuvalu
+  #  - Tuvalu
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #subregion: Polynesia
+  #languages:
+  #  - en
+-
+  id: 225
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: TW
+  iso_3166_alpha3: TWN
+  iso_3166_numeric3: "158"
+  e164_country_code: "886"
+  e164_international_prefix: "002"
+  e164_national_prefix: None
+  ioc_country_code: TPE
+  latitude: "23 30 N"
+  longitude: "121 00 E"
+  #currency: TWD
+  #un_locode: TW
+  translations_attributes:
+    -
+      locale: en
+      name: "Taiwan, Republic Of China"
+      alternative_names:
+  #names:
+  #  - Taiwan
+  #  - Taiwán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "Eastern Asia"
+  #languages:
+  #  - zh
+-
+  id: 226
+  continent_ids: [1, 2]
+  iso_3166_alpha2: TZ
+  iso_3166_alpha3: TZA
+  iso_3166_numeric3: "834"
+  e164_country_code: "255"
+  e164_international_prefix: "000"
+  e164_national_prefix: "0"
+  ioc_country_code: TAN
+  latitude: "6 00 S"
+  longitude: "35 00 E"
+  #currency: TZS
+  #un_locode: TZ
+  translations_attributes:
+    -
+      locale: en
+      name: "Tanzania, United Republic of"
+      alternative_names:
+  #names:
+  #  - Tanzania
+  #  - Tansania
+  #  - Tanzanie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - sw
+  #  - en
+-
+  id: 227
+  continent_ids: [2, 7, 8]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}}
+      {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: UA
+  iso_3166_alpha3: UKR
+  iso_3166_numeric3: "804"
+  e164_country_code: "380"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: UKR
+  latitude: "49 00 N"
+  longitude: "32 00 E"
+  #currency: UAH
+  #un_locode: UA
+  translations_attributes:
+    -
+      locale: en
+      name: Ukraine
+      alternative_names:
+  #names:
+  #  - Ukraine
+  #  - Ukraine
+  #  - Ukraine
+  #  - Ucrania
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #subregion: "Eastern Europe"
+  #languages:
+  #  - uk
+-
+  id: 228
+  continent_ids: [1, 2]
+  iso_3166_alpha2: UG
+  iso_3166_alpha3: UGA
+  iso_3166_numeric3: "800"
+  e164_country_code: "256"
+  e164_international_prefix: "000"
+  e164_national_prefix: "0"
+  ioc_country_code: UGA
+  latitude: "1 00 N"
+  longitude: "32 00 E"
+  #currency: UGX
+  #un_locode: UG
+  translations_attributes:
+    -
+      locale: en
+      name: Uganda
+      alternative_names:
+  #names:
+  #  - Uganda
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+  #  - sw
+-
+  id: 229
+  continent_ids: [3, 10]
+  iso_3166_alpha2: UM
+  iso_3166_alpha3: UMI
+  iso_3166_numeric3: "581"
+  e164_country_code: ""
+  e164_international_prefix: ""
+  e164_national_prefix: ""
+  ioc_country_code:
+  latitude: ""
+  longitude: ""
+  #currency: USD
+  #un_locode: UM
+  translations_attributes:
+    -
+      locale: en
+      name: "United States Minor Outlying Islands"
+      alternative_names:
+  #names:
+  #  - "United States Minor Outlying Islands"
+  #  - "US-Amerikanische Hoheitsgebiete"
+  #  - "Dépendances américaines"
+  #  - "Islas menores de Estados Unidos"
+  #national_destination_code_lengths: []
+  #national_number_lengths: []
+  #subregion: "Northern America"
+  #languages:
+  #  - en
+-
+  id: 230
+  continent_ids: [3, 10]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}} {{region}} {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: US
+  iso_3166_alpha3: USA
+  iso_3166_numeric3: "840"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: USA
+  latitude: "38 00 N"
+  longitude: "97 00 W"
+  #currency: USD
+  #un_locode: US
+  translations_attributes:
+    -
+      locale: en
+      name: "United States"
+      alternative_names:
+  #names:
+  #  - "United States of America"
+  #  - "Vereinigte Staaten von Amerika"
+  #  - États-Unis
+  #  - "Estados Unidos"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: "Northern America"
+  #languages:
+  #  - en
+-
+  id: 231
+  continent_ids: [3, 10]
+  iso_3166_alpha2: UY
+  iso_3166_alpha3: URY
+  iso_3166_numeric3: "858"
+  e164_country_code: "598"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: URU
+  latitude: "33 00 S"
+  longitude: "56 00 W"
+  #currency: UYU
+  #un_locode: UY
+  translations_attributes:
+    -
+      locale: en
+      name: Uruguay
+      alternative_names:
+  #names:
+  #  - Uruguay
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #subregion: "South America"
+  #languages:
+  #  - es
+-
+  id: 232
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: UZ
+  iso_3166_alpha3: UZB
+  iso_3166_numeric3: "860"
+  e164_country_code: "998"
+  e164_international_prefix: "810"
+  e164_national_prefix: "8"
+  ioc_country_code: UZB
+  latitude: "41 00 N"
+  longitude: "64 00 E"
+  #currency: UZS
+  #un_locode: UZ
+  translations_attributes:
+    -
+      locale: en
+      name: Uzbekistan
+      alternative_names:
+  #names:
+  #  - Uzbekistan
+  #  - Usbekistan
+  #  - Ouzbékistan
+  #  - Uzbekistán
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Central Asia"
+  #languages:
+  #  - uz
+  #  - ru
+-
+  id: 233
+  continent_ids: [2, 7, 8]
+  iso_3166_alpha2: VA
+  iso_3166_alpha3: VAT
+  iso_3166_numeric3: "336"
+  e164_country_code: "39"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "41 54 N"
+  longitude: "12 27 E"
+  #currency: EUR
+  #un_locode: VA
+  translations_attributes:
+    -
+      locale: en
+      name: "Holy See (Vatican City State)"
+      alternative_names:
+  #names:
+  #  - "Vatican City"
+  #  - Vatikan
+  #  - "Cité du Vatican"
+  #  - "Ciudad del Vaticano"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Southern Europe"
+  #languages:
+  #  - it
+  #  - la
+-
+  id: 234
+  continent_ids: [3, 9]
+  iso_3166_alpha2: VC
+  iso_3166_alpha3: VCT
+  iso_3166_numeric3: "670"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: VIN
+  latitude: "13 15 N"
+  longitude: "61 12 W"
+  #currency: XCD
+  #un_locode: VC
+  translations_attributes:
+    -
+      locale: en
+      name: "Saint Vincent And The Grenedines"
+      alternative_names:
+  #names:
+  #  - "Saint Vincent and the Grenadines"
+  #  - "Saint Vincent und die Grenadinen"
+  #  - "Saint-Vincent et les Grenadines"
+  #  - "San Vicente y Granadinas"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 235
+  continent_ids: [3, 10]
+  iso_3166_alpha2: VE
+  iso_3166_alpha3: VEN
+  iso_3166_numeric3: "862"
+  e164_country_code: "58"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: VEN
+  latitude: "8 00 N"
+  longitude: "66 00 W"
+  #currency: VEF
+  #un_locode: VE
+  translations_attributes:
+    -
+      locale: en
+      name: "Venezuela, Bolivarian Republic of"
+      alternative_names:
+  #names:
+  #  - Venezuela
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 10
+  #subregion: "South America"
+  #languages:
+  #  - es
+-
+  id: 236
+  continent_ids: [3, 9]
+  iso_3166_alpha2: VG
+  iso_3166_alpha3: VGB
+  iso_3166_numeric3: 092
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: IVB
+  latitude: ""
+  longitude: ""
+  #currency: USD
+  #un_locode: VG
+  translations_attributes:
+    -
+      locale: en
+      name: "Virgin Islands, British"
+      alternative_names:
+  #names:
+  #  - "British Virgin Islands"
+  #  - "Britische Jungferninseln"
+  #  - "Îles Vierges britanniques"
+  #  - "Islas Vírgenes del Reino Unido"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 237
+  continent_ids: [3, 9]
+  iso_3166_alpha2: VI
+  iso_3166_alpha3: VIR
+  iso_3166_numeric3: "850"
+  e164_country_code: "1"
+  e164_international_prefix: "011"
+  e164_national_prefix: "1"
+  ioc_country_code: ISV
+  latitude: ""
+  longitude: ""
+  #currency: USD
+  #un_locode: VI
+  translations_attributes:
+    -
+      locale: en
+      name: "Virgin Islands, U.S."
+      alternative_names:
+  #names:
+  #  - "Virgin Islands of the United States"
+  #  - "Amerikanische Jungferninseln"
+  #  - "Îles Vierges américaines"
+  #  - "Islas Vírgenes de los Estados Unidos"
+  #national_destination_code_lengths:
+  #  - 3
+  #national_number_lengths:
+  #  - 10
+  #subregion: Caribbean
+  #languages:
+  #  - en
+-
+  id: 238
+  continent_ids: [2, 5, 7]
+  iso_3166_alpha2: VN
+  iso_3166_alpha3: VNM
+  iso_3166_numeric3: "704"
+  e164_country_code: "84"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: VIE
+  latitude: "16 10 N"
+  longitude: "107 50 E"
+  #currency: VND
+  #un_locode: VN
+  translations_attributes:
+    -
+      locale: en
+      name: "Viet Nam"
+      alternative_names:
+  #names:
+  #  - Vietnam
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #  - 10
+  #subregion: "South-Eastern Asia"
+  #languages:
+  #  - vi
+-
+  id: 239
+  continent_ids: [6]
+  iso_3166_alpha2: VU
+  iso_3166_alpha3: VUT
+  iso_3166_numeric3: "548"
+  e164_country_code: "678"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: VAN
+  latitude: "16 00 S"
+  longitude: "167 00 E"
+  #currency: ~
+  #un_locode: VU
+  translations_attributes:
+    -
+      locale: en
+      name: Vanuatu
+      alternative_names:
+  #names:
+  #  - Vanuatu
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 5
+  #  - 6
+  #  - 7
+  #subregion: Melanesia
+  #languages:
+  #  - bi
+  #  - en
+  #  - fr
+-
+  id: 240
+  continent_ids: [6]
+  iso_3166_alpha2: WF
+  iso_3166_alpha3: WLF
+  iso_3166_numeric3: "876"
+  e164_country_code: "681"
+  e164_international_prefix: "19"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "13 18 S"
+  longitude: "176 12 W"
+  #currency: XPF
+  #un_locode: WF
+  translations_attributes:
+    -
+      locale: en
+      name: "Wallis and Futuna"
+      alternative_names:
+  #names:
+  #  - "Wallis and Futuna"
+  #  - "Wallis und Futuna"
+  #  - "Wallis et Futuna"
+  #  - "Wallis y Futuna"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #subregion: Polynesia
+  #languages:
+  #  - fr
+-
+  id: 241
+  continent_ids: [6]
+  iso_3166_alpha2: WS
+  iso_3166_alpha3: WSM
+  iso_3166_numeric3: "882"
+  e164_country_code: "685"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code: SAM
+  latitude: "13 35 S"
+  longitude: "172 20 W"
+  #currency: USD
+  #un_locode: WS
+  translations_attributes:
+    -
+      locale: en
+      name: Samoa
+      alternative_names:
+  #names:
+  #  - Samoa
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 6
+  #  - 7
+  #subregion: Polynesia
+  #languages:
+  #  - sm
+  #  - en
+-
+  id: 242
+  continent_ids: [2, 5, 7]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{postalcode}} {{city}}
+      {{country}}
+  iso_3166_alpha2: YE
+  iso_3166_alpha3: YEM
+  iso_3166_numeric3: "887"
+  e164_country_code: "967"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: YEM
+  latitude: "15 00 N"
+  longitude: "48 00 E"
+  #currency: YER
+  #un_locode: YE
+  translations_attributes:
+    -
+      locale: en
+      name: Yemen
+      alternative_names:
+  #names:
+  #  - Yemen
+  #  - Jemen
+  #  - Yémen
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #  - 8
+  #  - 9
+  #subregion: "Western Asia"
+  #languages:
+  #  - ar
+-
+  id: 243
+  continent_ids: [1, 2]
+  iso_3166_alpha2: YT
+  iso_3166_alpha3: MYT
+  iso_3166_numeric3: "175"
+  e164_country_code: "269"
+  e164_international_prefix: "00"
+  e164_national_prefix: None
+  ioc_country_code:
+  latitude: "12 50 S"
+  longitude: "45 10 E"
+  #currency: EUR
+  #un_locode: YT
+  translations_attributes:
+    -
+      locale: en
+      name: Mayotte
+      alternative_names:
+  #names:
+  #  - Mayotte
+  #  - Mayotte
+  #  - Mayotte
+  #  - Mayotte
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 7
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - fr
+-
+  id: 244
+  continent_ids: [1, 2]
+  address_format: |-
+      {{recipient}}
+      {{street}}
+      {{city}}
+      {{region}}
+      {{postalcode}}
+      {{country}}
+  iso_3166_alpha2: ZA
+  iso_3166_alpha3: ZAF
+  iso_3166_numeric3: "710"
+  e164_country_code: "27"
+  e164_international_prefix: 09
+  e164_national_prefix: "0"
+  ioc_country_code: RSA
+  latitude: "29 00 S"
+  longitude: "24 00 E"
+  #currency: ZAR
+  #un_locode: ZA
+  translations_attributes:
+    -
+      locale: en
+      name: "South Africa"
+      alternative_names:
+  #names:
+  #  - "South Africa"
+  #  - "Republik Südafrika"
+  #  - "Afrique du Sud"
+  #  - "República de Sudáfrica"
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Southern Africa"
+  #languages:
+  #  - af
+  #  - en
+  #  - nr
+  #  - st
+  #  - ss
+  #  - tn
+  #  - ts
+  #  - ve
+  #  - xh
+  #  - zu
+-
+  id: 245
+  continent_ids: [1, 2]
+  iso_3166_alpha2: ZM
+  iso_3166_alpha3: ZMB
+  iso_3166_numeric3: "894"
+  e164_country_code: "260"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ZAM
+  latitude: "15 00 S"
+  longitude: "30 00 E"
+  #currency: ZMK
+  #un_locode: ZM
+  translations_attributes:
+    -
+      locale: en
+      name: Zambia
+      alternative_names:
+  #names:
+  #  - Zambia
+  #  - Sambia
+  #  - Zambie
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 9
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+-
+  id: 246
+  continent_ids: [1, 2]
+  iso_3166_alpha2: ZW
+  iso_3166_alpha3: ZWE
+  iso_3166_numeric3: "716"
+  e164_country_code: "263"
+  e164_international_prefix: "00"
+  e164_national_prefix: "0"
+  ioc_country_code: ZIM
+  latitude: "20 00 S"
+  longitude: "30 00 E"
+  #currency: ZWD
+  #un_locode: ZW
+  translations_attributes:
+    -
+      locale: en
+      name: Zimbabwe
+      alternative_names:
+  #names:
+  #  - Zimbabwe
+  #  - Simbabwe
+  #  - Zimbabue
+  #national_destination_code_lengths:
+  #  - 2
+  #national_number_lengths:
+  #  - 8
+  #  - 9
+  #  - 10
+  #  - 11
+  #subregion: "Eastern Africa"
+  #languages:
+  #  - en
+  #  - sn
+  #  - nd

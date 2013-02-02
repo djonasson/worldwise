@@ -1,4 +1,6 @@
 class ContinentModel < ActiveRecord::Base
+  worldwise
+
   attr_accessible :code, :name, :description, :continent_ids, :translations_attributes
 
   translates :name, :description, fallbacks_for_empty_translations: true

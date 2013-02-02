@@ -5,6 +5,7 @@ class CreateContinents < ActiveRecord::Migration
     create_table :continents do |t|
       t.string :code
       t.decimal :land_mass_percentage, precision: 4, scale: 2
+      t.timestamps
     end
     Continent.create_translation_table!(
       name: :string,
@@ -17,6 +18,7 @@ class CreateContinents < ActiveRecord::Migration
   end
 
   def down
+    drop_table :continent_models_continents
     drop_table :continents
     Continent.drop_translation_table!
   end

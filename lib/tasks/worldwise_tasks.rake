@@ -12,6 +12,7 @@ namespace :worldwise do
     task all: :environment do
       import_continent_models
       import_continents
+      import_countries
     end
 
     desc "Import Continent Models"
@@ -24,32 +25,42 @@ namespace :worldwise do
       import_continents
     end
 
+    desc "Import Countries"
+    task countries: :environment do
+      import_countries
+    end
+
   end
 
 end
 
 def import_continent_models
+  puts "\n"; print "Loading Continent Models: "
   seed_file = File.join(DATA_DIR, 'continent_models.yml')
-  #ContinentModel.create(YAML::load_file(seed_file))
   YAML::load_file(seed_file).each do |record|
-    puts '@@@ ' + record.inspect
+    print '.' #+ record.inspect
     ContinentModel.create_or_update(record)
   end
-
-  #ActiveRecord::Fixtures.create_fixtures(DATA_DIR, ['continent_models'])
 end
 
 def import_continents
+  puts "\n"; print "Loading Continents: "
   seed_file = File.join(DATA_DIR, 'continents.yml')
-  #Continent.create(YAML::load_file(seed_file))
   YAML::load_file(seed_file).each do |record|
-    puts '@@@ ' + record.inspect
+    print '.' #+ record.inspect
     Continent.create_or_update(record)
   end
-  #ActiveRecord::Fixtures.create_fixtures(DATA_DIR, ['continents', 'continent/translations'])
+end
+
+def import_countries
+  puts "\n"; print "Loading Countries: "
+  seed_file = File.join(DATA_DIR, 'countries.yml')
+  YAML::load_file(seed_file).each do |record|
+    print '.' #+ record.inspect
+    Country.create_or_update(record)
+  end
 end
 
 #File.open("#{DATA_DIR}/continent_models_test.yml", 'w') do |file|
 #  YAML::dump(Worldwise::ContinentModel.all, file)
 #end
-#
