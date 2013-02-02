@@ -3,6 +3,7 @@
 *STATUS*: In development - not ready to be used.
 
 {<img src="https://travis-ci.org/djonasson/worldwise.png?branch=master" alt="Build Status" />}[https://travis-ci.org/djonasson/worldwise]
+{<img src="https://gemnasium.com/djonasson/worldwise.png" alt="Dependency Status" />}[https://gemnasium.com/djonasson/worldwise]
 
 Worldwise is a Rails gem that provides your application with a series of
 ActiveRecord models representing various aspects of our world, such as
