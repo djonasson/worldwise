@@ -1,7 +1,7 @@
-before_script:
-  - cd spec/dummy && bundle exec rake db:test:prepare
+#before_script:
+#  - cd spec/dummy && bundle exec rake db:test:prepare
 script:
-  - bundle exec rake spec
+  - bundle exec rake test
 #bundler_args: --without development production --quiet
 rvm:
   - 1.9.3
