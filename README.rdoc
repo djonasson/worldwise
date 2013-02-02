@@ -49,6 +49,13 @@ These continent models are all handled by Worldwise.
     ["7 Continents", ["Africa", "Antarctica", "Asia", "Oceania", "Europe", "North America", "South America"]]
   ]
 
+  irb(main)> Continent.first.translations.count
+  => 40
+
+  irb(main)> Continent.first.translations.map { |t| [t.locale, t.name] }
+    => [[:ar, "أفريقيا"], [:bg, "Африка"], [:bs, "Afrika"], [:ca, "Àfrica"], [:cs, "Afrika"], [:cy, "Affrica"], [:da, "Afrika"], [:de, "Afrika"], [:el, "Αφρική"], [:en, "Africa"], [:eo, "Afriko"], [:es, "África"], [:eu, "Afrika"], [:fa, "افریقا"], [:fi, "Afrikka"], [:fr, "Afrique"], [:ga, "an Afraic"], [:he, "אפריקה"], [:hi, "अफ़्रीका"], [:hu, "Afrika"], [:id, "Afrika"], [:is, "Afríka"], [:ja, "アフリカ"], [:ko, "아프리카"], [:la, "Africa"], [:lt, "Afrika"], [:lv, "Āfrika"], [:nb, "Afrika"], [:nl, "Afrika"], [:false, "Afrika"], [:pl, "Afryka"], [:pt, "África"], [:ru, "Африка"], [:se, "Afrihkká"], [:sv, "Afrika"], [:th, "แอฟริกา"], [:tr, "Afrika"], [:uk, "Африка"], [:vi, "Châu Phi"], [:zh, "非洲"]]
+
+
 
 == Countries
 
