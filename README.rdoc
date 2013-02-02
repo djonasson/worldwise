@@ -69,27 +69,4 @@ These continent models are all handled by Worldwise.
 
 == Roadmap
 
-=== Planned
-
-* Add SubdivisionGroup/Type model and data
-* Add Subdivision model and data
-* Add Language model and data
-* Add Locale model and data
-
-=== Ideas
-
-* Add City model and data
-* Add Currency model and data
-* Add ExchangeRate model and data service
-* Add Airport model
-
-=== Implemented
-
-* Add Country model and data
-* Add Continent model and data
-* Add ContinentModel model and data<
-
-
-
-
-
+{Worldwise on Pivotal Tracker}[https://www.pivotaltracker.com/projects/745829/overview]
