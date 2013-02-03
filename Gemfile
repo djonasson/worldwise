@@ -17,14 +17,15 @@ gemspec
 # gem 'debugger'
 
 group :development do
-  gem "awesome_print"
   gem "guard-rspec"
   gem "guard-spork"
   gem "rb-inotify", "~> 0.8.8"
+  gem "awesome_print"
 end
 
 group :test do
   gem "rspec-rails"
+  gem "spork"
   gem "capybara"
   gem "shoulda-matchers"
 end
