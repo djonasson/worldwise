@@ -17,6 +17,9 @@ Spork.prefork do
   # in spec/support/ and its subdirectories.
   Dir[Worldwise::Engine.root.join("spec/support/**/*.rb")].each { |f| require f }
 
+  require File.expand_path('../data/schema', __FILE__)
+  require File.expand_path('../data/models', __FILE__)
+
   RSpec.configure do |config|
     # ## Mock Framework
     #

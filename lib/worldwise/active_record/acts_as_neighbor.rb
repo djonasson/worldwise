@@ -2,6 +2,7 @@ module Worldwise
   module ActiveRecord
     module ActsAsNeighbor
       def acts_as_neighbor
+        attr_accessible :neighbor_ids
         has_many :neighborships, as: :owner
         has_many :neighbors, through: :neighborships, as: :neighbor, source: :neighbor, source_type: self.name
       end

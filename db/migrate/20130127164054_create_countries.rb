@@ -2,11 +2,12 @@ class CreateCountries < ActiveRecord::Migration
 
   def up
     create_table :countries do |t|
-      t.string :iso_3166_alpha2
-      t.string :iso_3166_alpha3
-      t.string :iso_3166_numeric3
+      t.string :iso_3166_alpha2, length: 2
+      t.string :iso_3166_alpha3, length: 3
+      t.string :iso_3166_numeric3, length: 3
 
-      t.string :fips_country_code
+      t.string :fips_104
+
       t.string :iana_internet_country_code_tld
       t.string :itu_callsign_prefix
       t.string :itu_maritime_id

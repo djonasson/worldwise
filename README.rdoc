@@ -66,6 +66,14 @@ These continent models are all handled by Worldwise.
   irb(main)> Continent.first.countries.map(&:name)
   => ["Angola", "Burkina Faso", "Burundi", "Benin", "Botswana", "Congo, The Democratic Republic Of The", "Central African Republic", "Congo", "Côte D'Ivoire", "Cameroon", "Cape Verde", "Djibouti", "Algeria", "Egypt", "Western Sahara", "Eritrea", "Ethiopia", "Gabon", "Ghana", "Gambia", "Guinea", "Equatorial Guinea", "Guinea-Bissau", "British Indian Ocean Territory", "Kenya", "Comoros", "Liberia", "Lesotho", "Libya", "Morocco", "Madagascar", "Mali", "Mauritania", "Mauritius", "Malawi", "Mozambique", "Namibia", "Niger", "Nigeria", "Réunion", "Rwanda", "Seychelles", "Sudan", "Saint Helena", "Sierra Leone", "Senegal", "Somalia", "Sao Tome and Principe", "Swaziland", "Chad", "Togo", "Tunisia", "Tanzania, United Republic of", "Uganda", "Mayotte", "South Africa", "Zambia", "Zimbabwe"]
 
+The Country model has quite a few attributes and it can sometimes be difficult
+to understand what they represent from the name only. For this reason there is
+a *metadata* method that returns a hash of all the attribute names and their
+respective descriptions:
+
+  irb(main)> Country.metadata[:iso_3166_alpha2]
+  => "ISO 3166-1 alpha-2 country code"
+
 
 == Roadmap
 

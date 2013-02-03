@@ -14,4 +14,12 @@ describe Country do
   it { should validate_uniqueness_of(:iso_3166_alpha2) }
   it { should validate_uniqueness_of(:iso_3166_alpha3) }
   it { should validate_uniqueness_of(:iso_3166_numeric3) }
+  #it { should validate_uniqueness_of(:nato_alpha2) }
+  #it { should validate_uniqueness_of(:nato_alpha3) }
+
+  it { should ensure_length_of(:iso_3166_alpha2).is_equal_to(2) }
+  it { should ensure_length_of(:iso_3166_alpha3).is_equal_to(3) }
+  it { should ensure_length_of(:iso_3166_numeric3).is_equal_to(3) }
+  #it { should ensure_length_of(:nato_alpha2).is_equal_to(2) }
+  #it { should ensure_length_of(:nato_alpha3).is_equal_to(3) }
 end

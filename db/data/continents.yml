@@ -3,8 +3,9 @@
 -
   id: 1
   code: AF
-  land_mass_percentage: 20.4
   continent_model_ids: [2, 3, 4, 5]
+  neighbor_ids: [5, 7]
+  land_mass_percentage: 20.4
   translations_attributes:
     -
       locale: ar
@@ -169,8 +170,9 @@
 -
   id: 2
   code: AF-EU-AS
-  land_mass_percentage: 56.7
   continent_model_ids: [1]
+  neighbor_ids: []
+  land_mass_percentage: 56.7
   translations_attributes:
     -
       locale: en
@@ -187,8 +189,9 @@
 -
   id: 3
   code: AM
-  land_mass_percentage: 28.5
   continent_model_ids: [1, 2, 3]
+  neighbor_ids: []
+  land_mass_percentage: 28.5
   translations_attributes:
     -
       locale: en
@@ -205,8 +208,9 @@
 -
   id: 4
   code: AN
-  land_mass_percentage: 9.2
   continent_model_ids: [1, 2, 3, 4, 5]
+  neighbor_ids: []
+  land_mass_percentage: 9.2
   translations_attributes:
     -
       locale: af
@@ -463,8 +467,9 @@
 -
   id: 5
   code: AS
-  land_mass_percentage: 29.5
   continent_model_ids: [3, 5]
+  neighbor_ids: [1, 8]
+  land_mass_percentage: 29.5
   translations_attributes:
     -
       locale: ar
@@ -625,8 +630,9 @@
 -
   id: 6
   code: OC
-  land_mass_percentage: 5.9
   continent_model_ids: [1, 2, 3, 4, 5]
+  neighbor_ids: []
+  land_mass_percentage: 5.9
   translations_attributes:
     -
       locale: ar
@@ -775,8 +781,9 @@
 -
   id: 7
   code: EU-AS
-  land_mass_percentage: 36.3
   continent_model_ids: [2, 4]
+  neighbor_ids: [1]
+  land_mass_percentage: 36.3
   translations_attributes:
     -
       locale: en
@@ -793,8 +800,9 @@
 -
   id: 8
   code: EU
-  land_mass_percentage: 6.8
   continent_model_ids: [3, 5]
+  neighbor_ids: [5]
+  land_mass_percentage: 6.8
   translations_attributes:
     -
       locale: ar
@@ -959,8 +967,9 @@
 -
   id: 9
   code: NA
-  land_mass_percentage: 16.5
   continent_model_ids: [4, 5]
+  neighbor_ids: [10]
+  land_mass_percentage: 16.5
   translations_attributes:
     -
       locale: ar
@@ -1121,8 +1130,9 @@
 -
   id: 10
   code: SA
-  land_mass_percentage: 12.0
   continent_model_ids: [4, 5]
+  neighbor_ids: [9]
+  land_mass_percentage: 12.0
   translations_attributes:
     -
       locale: ar
@@ -1280,7 +1290,3 @@
       locale: zh
       name: "南美洲"
       alternative_names:
-
-
-
-

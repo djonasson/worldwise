@@ -14,6 +14,7 @@ module Worldwise
   #config_accessor :default_continent_model
 
   autoload :ActiveRecord, 'worldwise/active_record'
+  autoload :Metadata, 'worldwise/metadata'
 end
 
 ActiveRecord::Base.extend(Worldwise::ActiveRecord::Worldwise)
