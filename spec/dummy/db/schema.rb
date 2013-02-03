@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130202140958) do
+ActiveRecord::Schema.define(:version => 20130201161328) do
 
   create_table "continent_model_translations", :force => true do |t|
     t.integer  "continent_model_id"
@@ -80,14 +80,14 @@ ActiveRecord::Schema.define(:version => 20130202140958) do
     t.string   "gs1_gtin_prefix"
     t.string   "undp_country_code"
     t.string   "wmo_country_code"
+    t.string   "latitude"
+    t.string   "longitude"
     t.text     "address_format"
     t.string   "e164_country_code"
     t.string   "e164_national_destination_code_lengths"
     t.string   "e164_national_number_lengths"
     t.string   "e164_international_prefix"
     t.string   "e164_national_prefix"
-    t.string   "latitude"
-    t.string   "longitude"
     t.datetime "created_at",                             :null => false
     t.datetime "updated_at",                             :null => false
   end

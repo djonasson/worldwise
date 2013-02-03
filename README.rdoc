@@ -15,7 +15,7 @@ used to provide translations for each model.
 == Continent Models
 
 There are several ways of dividing the planet into continents. The most common
-of these continent models are:
+of these <b>continent models</b> are:
 
   4 continents | Afro-Eurasia                  | America                       | Antarctica | Australia
   5 continents | Africa       | Eurasia        | America                       | Antarctica | Australia

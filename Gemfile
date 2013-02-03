@@ -6,7 +6,7 @@ source "http://rubygems.org"
 gemspec
 
 # jquery-rails is used by the dummy application
-gem "jquery-rails"
+#gem "jquery-rails"
 
 # Declare any dependencies that are still in development here instead of in
 # your gemspec. These might include edge Rails or gems from your path or
@@ -16,4 +16,19 @@ gem "jquery-rails"
 # To use debugger
 # gem 'debugger'
 
-gem "awesome_print"
+group :development do
+  gem "awesome_print"
+  gem "guard-rspec"
+  gem "guard-spork"
+  gem "rb-inotify", "~> 0.8.8"
+end
+
+group :test do
+  gem "rspec-rails"
+  gem "capybara"
+  gem "shoulda-matchers"
+end
+
+group :development, :test do
+  gem "sqlite3"
+end
