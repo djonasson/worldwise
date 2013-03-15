@@ -19,7 +19,7 @@ gemspec
 group :development do
   gem "guard-rspec"
   gem "guard-spork"
-  gem "rb-inotify", "~> 0.8.8"
+  gem "rb-inotify", ">= 0.8.8"
   gem "awesome_print"
 end
 
@@ -28,6 +28,8 @@ group :test do
   gem "spork"
   gem "capybara"
   gem "shoulda-matchers"
+  gem 'simplecov', require: false
+  gem 'coveralls', require: false
 end
 
 group :development, :test do

@@ -1,12 +1,30 @@
 require 'rubygems'
+
 require 'spork'
 #uncomment the following line to use spork with the debugger
 #require 'spork/ext/ruby-debug'
+
+def load_coverage
+  # SimpleCov
+  unless ENV['DRB']
+    require 'simplecov'
+    require 'coveralls'
+    SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
+      SimpleCov::Formatter::HTMLFormatter,
+      Coveralls::SimpleCov::Formatter
+    ]
+    SimpleCov.start 'rails'
+    #Coveralls.wear!('rails')
+  end
+end
 
 Spork.prefork do
   # Loading more in this block will cause your tests to run faster. However,
   # if you change any configuration or code from libraries loaded here, you'll
   # need to restart spork for it take effect.
+
+  load_coverage
+
   ENV["RAILS_ENV"] ||= 'test'
   require File.expand_path("../dummy/config/environment", __FILE__)
   require 'rspec/rails'
@@ -52,4 +70,6 @@ end
 
 Spork.each_run do
   # This code will be run each time you run your specs.
+
+  load_coverage
 end
