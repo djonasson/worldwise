@@ -21,7 +21,6 @@ class Neighborship < ActiveRecord::Base
   end
 
   def destroy_symetric_relation
-    puts 'XXXXXXXXXXXXXXXXXXx ' + self.inspect
     self.class.where(owner_id: neighbor_id, owner_type: neighbor_type, neighbor_id: owner_id, neighbor_type: owner_type).each do |record|
       record.delete
     end

@@ -27,7 +27,7 @@ group :test do
   gem "rspec-rails"
   gem "spork"
   gem "capybara"
-  gem "shoulda-matchers"
+  gem "shoulda-matchers", "= 1.4.2"
   gem 'simplecov', require: false
   gem 'coveralls', require: false
 end
