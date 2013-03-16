@@ -26,16 +26,16 @@ class Continent < ActiveRecord::Base
   #  default_scope joins(:continent_models).where("continent_models_continents.continent_model_id = ?", default_cmid)
   #end
 
-  ##
-  # Returns the land mass for this continent expressed in +unit+ that can be
-  # either +:square_kilometers+ (the default) or +:square_miles+
-  def land_mass(unit = :square_kilometers)
-    km2 = Worldwise::TOTAL_CONTINENT_LAND_MASS * (land_mass_percentage / 100)
-    case unit
-    when :square_miles
-      km2 * 0.386102
-    else
-      km2
-    end
-  end
+  # ##
+  # # Returns the land mass for this continent expressed in +unit+ that can be
+  # # either +:square_kilometers+ (the default) or +:square_miles+
+  # def land_mass(unit = :square_kilometers)
+  #   km2 = Worldwise::TOTAL_CONTINENT_LAND_MASS * (land_mass_percentage / 100)
+  #   case unit
+  #   when :square_miles
+  #     km2 * 0.386102
+  #   else
+  #     km2
+  #   end
+  # end
 end

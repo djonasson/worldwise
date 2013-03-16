@@ -48,6 +48,26 @@ describe Neighborship do
       tn2.neighbors.should include(tn)
       tn3.neighbors.should include(tn)
     end
+    it "should ensure the destruction of symetric neighbors association when one neighbor is deleted" do
+      [tn, tn2, tn3].map(&:save)
+      tn.neighbors << tn2
+      tn2.neighbors << tn3
+      tn2.destroy
+      [tn, tn3].map(&:reload)
+      tn.neighbors.should_not include(tn2)
+      tn3.neighbors.should_not include(tn2)
+    end
+    it "'create_symetric_relation' should be called after create" do
+      tn.save
+      tn.neighborships.any_instance.should_receive(:create_symetric_relation)
+      tn.neighbors << tn2
+    end
+    it "'destroy_symetric_relation' should be called after destroy" do
+      tn.save
+      tn.neighbors << tn2
+      tn.neighborships.any_instance.should_receive(:destroy_symetric_relation)
+      tn.destroy
+    end
   end
 
 end

@@ -5,7 +5,7 @@ require 'spork'
 #require 'spork/ext/ruby-debug'
 
 def load_coverage
-  # SimpleCov
+  # SimpleCov & Coveralls
   unless ENV['DRB']
     require 'simplecov'
     require 'coveralls'

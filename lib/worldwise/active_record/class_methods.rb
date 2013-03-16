@@ -10,6 +10,8 @@ module Worldwise
       # correctly.
       #
       # Returns the record.
+      #
+      # TODO: This method needs optimizing and better documentation
       def create_or_update(options = {})
         id = options.delete('id')
         translations_attributes = options.delete('translations_attributes') || {}
