@@ -17,6 +17,8 @@ module Worldwise
         translations_attributes = options.delete('translations_attributes') || {}
         record = find_by_id(id) || new
         record.id = id
+        #puts 'XXXXXXXXXXXXXXXX ' + record.attributes.inspect
+        #puts 'YYYYYYYYYYYYYYYY ' + options.inspect + ' --- ' + translations_attributes.inspect
         record.attributes = options
         translations_attributes.each do |ta|
           ta.delete("#{record.class.name.underscore}_id")

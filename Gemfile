@@ -21,6 +21,7 @@ group :development do
   gem "guard-spork"
   gem "rb-inotify", ">= 0.9.0"
   gem "awesome_print"
+  gem "rails-erd"
 end
 
 group :test do
@@ -28,8 +29,8 @@ group :test do
   gem "spork"
   gem "capybara"
   gem "shoulda-matchers", "= 1.4.2"
-  gem 'simplecov', require: false
-  gem 'coveralls', require: false
+  gem "simplecov", require: false
+  gem "coveralls", require: false
 end
 
 group :development, :test do

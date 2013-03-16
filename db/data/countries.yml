@@ -15,6 +15,7 @@
   iso_3166_es_name: "Andorra"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "AN"
   #e164_country_code: "376"
   #e164_international_prefix: "00"
   #e164_national_prefix:
@@ -23,7 +24,6 @@
   #ioc_country_code: AND
   #currency: EUR
   #un_locode: AD
-  #fips_104: "AN"
   #ungegn_en_name: "Andorra"
   #ungegn_en_longname: "the Principality of Andorra"
   #ungegn_fr_name: "Andorre (l')"
@@ -119,6 +119,7 @@
   iso_3166_es_name: "Emiratos Árabes Unidos"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "AE"
   #e164_country_code: "971"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -127,7 +128,6 @@
   #ioc_country_code: UAE
   #currency: AED
   #un_locode: AE
-  #fips_104: "AE"
   #ungegn_en_name: "United Arab Emirates (the)"
   #ungegn_en_longname: "the United Arab Emirates"
   #ungegn_fr_name: "Émirats arabes unis (les)"
@@ -228,6 +228,7 @@
   iso_3166_es_name: "Afganistán"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "AF"
   #e164_country_code: "93"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -236,7 +237,6 @@
   #ioc_country_code: AFG
   #currency: AFN
   #un_locode: AF
-  #fips_104: "AF"
   #ungegn_en_name: "Afghanistan"
   #ungegn_en_longname: "the Islamic Republic of Afghanistan"
   #ungegn_fr_name: "Afghanistan (l')"
@@ -332,6 +332,7 @@
   iso_3166_es_name: "Antigua y Barbuda"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "AC"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -340,7 +341,6 @@
   #ioc_country_code: ANT
   #currency: XCD
   #un_locode: AG
-  #fips_104: "AC"
   #ungegn_en_name: "Antigua and Barbuda"
   #ungegn_en_longname: "Antigua and Barbuda"
   #ungegn_fr_name: "Antigua-et-Barbuda"
@@ -436,6 +436,7 @@
   iso_3166_es_name: "Anguila"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "AV"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -444,7 +445,6 @@
   #ioc_country_code:
   #currency: XCD
   #un_locode: AI
-  #fips_104: "AV"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -540,6 +540,7 @@
   iso_3166_es_name: "Albania"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "AL"
   #e164_country_code: "355"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -548,7 +549,6 @@
   #ioc_country_code: ALB
   #currency: ALL
   #un_locode: AL
-  #fips_104: "AL"
   #ungegn_en_name: "Albania"
   #ungegn_en_longname: "the Republic of Albania"
   #ungegn_fr_name: "Albanie (l')"
@@ -644,6 +644,7 @@
   iso_3166_es_name: "Armenia"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "AM"
   #e164_country_code: "374"
   #e164_international_prefix: "00"
   #e164_national_prefix: "8"
@@ -652,7 +653,6 @@
   #ioc_country_code: ARM
   #currency: AMD
   #un_locode: AM
-  #fips_104: "AM"
   #ungegn_en_name: "Armenia"
   #ungegn_en_longname: "the Republic of Armenia"
   #ungegn_fr_name: "Arménie (l')"
@@ -748,6 +748,7 @@
   iso_3166_es_name: ""
   iso_3166_region: ""
   iso_3166_subregion: ""
+  fips_104: ""
   #e164_country_code: "599"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -756,7 +757,6 @@
   #ioc_country_code: AHO
   #currency: ANG
   #un_locode: AN
-  #fips_104: ""
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -852,6 +852,7 @@
   iso_3166_es_name: "Angola"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "AO"
   #e164_country_code: "244"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -860,7 +861,6 @@
   #ioc_country_code: ANG
   #currency: AOA
   #un_locode: AO
-  #fips_104: "AO"
   #ungegn_en_name: "Angola"
   #ungegn_en_longname: "the Republic of Angola"
   #ungegn_fr_name: "Angola (l')"
@@ -956,6 +956,7 @@
   iso_3166_es_name: "Antártida"
   iso_3166_region: "0"
   iso_3166_subregion: "0"
+  fips_104: "AY"
   #e164_country_code: "672"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -964,7 +965,6 @@
   #ioc_country_code:
   #currency: ~
   #un_locode: AQ
-  #fips_104: "AY"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -1060,6 +1060,7 @@
   iso_3166_es_name: "Argentina"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "AR"
   #e164_country_code: "54"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -1068,7 +1069,6 @@
   #ioc_country_code: ARG
   #currency: ARS
   #un_locode: AR
-  #fips_104: "AR"
   #ungegn_en_name: "Argentina"
   #ungegn_en_longname: "the Argentine Republic"
   #ungegn_fr_name: "Argentine"
@@ -1170,6 +1170,7 @@
   iso_3166_es_name: "Samoa Americana"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "AQ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -1178,7 +1179,6 @@
   #ioc_country_code: ASA
   #currency: USD
   #un_locode: AS
-  #fips_104: "AQ"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -1274,6 +1274,7 @@
   iso_3166_es_name: "Austria"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "AU"
   #e164_country_code: "43"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -1282,7 +1283,6 @@
   #ioc_country_code: AUT
   #currency: EUR
   #un_locode: AT
-  #fips_104: "AU"
   #ungegn_en_name: "Austria"
   #ungegn_en_longname: "the Republic of Austria"
   #ungegn_fr_name: "Autriche (l')"
@@ -1383,6 +1383,7 @@
   iso_3166_es_name: "Australia"
   iso_3166_region: "9"
   iso_3166_subregion: "53"
+  fips_104: "AS"
   #e164_country_code: "61"
   #e164_international_prefix: "0011"
   #e164_national_prefix: "0"
@@ -1391,7 +1392,6 @@
   #ioc_country_code: AUS
   #currency: AUD
   #un_locode: AU
-  #fips_104: "AS"
   #ungegn_en_name: "Australia"
   #ungegn_en_longname: "Australia"
   #ungegn_fr_name: "Australie (l')"
@@ -1492,6 +1492,7 @@
   iso_3166_es_name: "Aruba"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "AA"
   #e164_country_code: "297"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -1500,7 +1501,6 @@
   #ioc_country_code: ARU
   #currency: AWG
   #un_locode: AW
-  #fips_104: "AA"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -1596,6 +1596,7 @@
   iso_3166_es_name: "Islas Åland"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: ""
   #e164_country_code: "358"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -1604,7 +1605,6 @@
   #ioc_country_code:
   #currency: ~
   #un_locode:
-  #fips_104: ""
   #ungegn_en_name: "Aland Islands"
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -1700,6 +1700,7 @@
   iso_3166_es_name: "Azerbaiyán"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "AJ"
   #e164_country_code: "994"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -1708,7 +1709,6 @@
   #ioc_country_code: AZE
   #currency: AZN
   #un_locode: AZ
-  #fips_104: "AJ"
   #ungegn_en_name: "Azerbaijan"
   #ungegn_en_longname: "the Republic of Azerbaijan"
   #ungegn_fr_name: "Azerbaïdjan (l')"
@@ -1804,6 +1804,7 @@
   iso_3166_es_name: "Bosnia y Herzegovina"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "BK"
   #e164_country_code: "387"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -1812,7 +1813,6 @@
   #ioc_country_code: BIH
   #currency: BAM
   #un_locode: BA
-  #fips_104: "BK"
   #ungegn_en_name: "Bosnia and Herzegovina"
   #ungegn_en_longname: "Bosnia and Herzegovina"
   #ungegn_fr_name: "Bosnie-Herzégovine (la)"
@@ -1913,6 +1913,7 @@
   iso_3166_es_name: "Barbados"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "BB"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -1921,7 +1922,6 @@
   #ioc_country_code: BAR
   #currency: BBD
   #un_locode: BB
-  #fips_104: "BB"
   #ungegn_en_name: "Barbados"
   #ungegn_en_longname: "Barbados"
   #ungegn_fr_name: "Barbade (la)"
@@ -2017,6 +2017,7 @@
   iso_3166_es_name: "Bangladesh"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "BQ"
   #e164_country_code: "880"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -2025,7 +2026,6 @@
   #ioc_country_code: BAN
   #currency: BTD
   #un_locode: BD
-  #fips_104: "BQ"
   #ungegn_en_name: "Bangladesh"
   #ungegn_en_longname: "the People's Republic of Bangladesh"
   #ungegn_fr_name: "Bangladesh (le)"
@@ -2121,6 +2121,7 @@
   iso_3166_es_name: "Bélgica"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "BE"
   #e164_country_code: "32"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -2129,7 +2130,6 @@
   #ioc_country_code: BEL
   #currency: EUR
   #un_locode: BE
-  #fips_104: "BE"
   #ungegn_en_name: "Belgium"
   #ungegn_en_longname: "the Kingdom of Belgium"
   #ungegn_fr_name: "Belgique (la)"
@@ -2230,6 +2230,7 @@
   iso_3166_es_name: "Burkina Faso"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "UV"
   #e164_country_code: "226"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -2238,7 +2239,6 @@
   #ioc_country_code: BUR
   #currency: XOF
   #un_locode: BF
-  #fips_104: "UV"
   #ungegn_en_name: "Burkina Faso"
   #ungegn_en_longname: "Burkina Faso"
   #ungegn_fr_name: "Burkina (le)"
@@ -2334,6 +2334,7 @@
   iso_3166_es_name: "Bulgaria"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "BU"
   #e164_country_code: "359"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -2342,7 +2343,6 @@
   #ioc_country_code: BUL
   #currency: BGN
   #un_locode: BG
-  #fips_104: "BU"
   #ungegn_en_name: "Bulgaria"
   #ungegn_en_longname: "the Republic of Bulgaria"
   #ungegn_fr_name: "Bulgarie (la)"
@@ -2443,6 +2443,7 @@
   iso_3166_es_name: "Bahrein"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "BA"
   #e164_country_code: "973"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -2451,7 +2452,6 @@
   #ioc_country_code: BRN
   #currency: BHD
   #un_locode: BH
-  #fips_104: "BA"
   #ungegn_en_name: "Bahrain"
   #ungegn_en_longname: "The Kingdom of Bahrain"
   #ungegn_fr_name: "Bahreïn"
@@ -2552,6 +2552,7 @@
   iso_3166_es_name: "Burundi"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "BY"
   #e164_country_code: "257"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -2560,7 +2561,6 @@
   #ioc_country_code: BDI
   #currency: BIF
   #un_locode: BI
-  #fips_104: "BY"
   #ungegn_en_name: "Burundi"
   #ungegn_en_longname: "the Republic of Burundi"
   #ungegn_fr_name: "Burundi (le)"
@@ -2656,6 +2656,7 @@
   iso_3166_es_name: "Benin"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "BN"
   #e164_country_code: "229"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -2664,7 +2665,6 @@
   #ioc_country_code: BEN
   #currency: XOF
   #un_locode: BJ
-  #fips_104: "BN"
   #ungegn_en_name: "Benin"
   #ungegn_en_longname: "the Republic of Benin"
   #ungegn_fr_name: "Bénin (le)"
@@ -2760,6 +2760,7 @@
   iso_3166_es_name: "Saint-Barthélemy"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "TB"
   #e164_country_code: "590"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -2768,7 +2769,6 @@
   #ioc_country_code:
   #currency: ~
   #un_locode:
-  #fips_104: "TB"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -2864,6 +2864,7 @@
   iso_3166_es_name: ""
   iso_3166_region: "19"
   iso_3166_subregion: "21"
+  fips_104: "BD"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -2872,7 +2873,6 @@
   #ioc_country_code: BER
   #currency: BMD
   #un_locode: BM
-  #fips_104: "BD"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -2968,6 +2968,7 @@
   iso_3166_es_name: "Brunei Darussalam"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "BX"
   #e164_country_code: "673"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -2976,7 +2977,6 @@
   #ioc_country_code: BRU
   #currency: BND
   #un_locode: BN
-  #fips_104: "BX"
   #ungegn_en_name: "Brunei Darussalam"
   #ungegn_en_longname: "Brunei Darussalam"
   #ungegn_fr_name: "Brunéi Darussalam (le)"
@@ -3072,6 +3072,7 @@
   iso_3166_es_name: "Bolivia"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "BL"
   #e164_country_code: "591"
   #e164_international_prefix: "0010"
   #e164_national_prefix: "010"
@@ -3080,7 +3081,6 @@
   #ioc_country_code: BOL
   #currency: BOB
   #un_locode: BO
-  #fips_104: "BL"
   #ungegn_en_name: "Bolivia (Plurinational State of)"
   #ungegn_en_longname: "Plurinational State of Bolivia (the)"
   #ungegn_fr_name: "Bolivie (État plurinational de)"
@@ -3176,6 +3176,7 @@
   iso_3166_es_name: "Brasil"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "BR"
   #e164_country_code: "55"
   #e164_international_prefix: "0014"
   #e164_national_prefix: "014"
@@ -3184,7 +3185,6 @@
   #ioc_country_code: BRA
   #currency: BRL
   #un_locode: BR
-  #fips_104: "BR"
   #ungegn_en_name: "Brazil"
   #ungegn_en_longname: "the Federative Republic of Brazil"
   #ungegn_fr_name: "Brésil (le)"
@@ -3285,6 +3285,7 @@
   iso_3166_es_name: "Bahamas"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "BF"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -3293,7 +3294,6 @@
   #ioc_country_code: BAH
   #currency: BSD
   #un_locode: BS
-  #fips_104: "BF"
   #ungegn_en_name: "Bahamas (the)"
   #ungegn_en_longname: "the Commonwealth of the Bahamas"
   #ungegn_fr_name: "Bahamas (les)"
@@ -3389,6 +3389,7 @@
   iso_3166_es_name: "Bhután"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "BT"
   #e164_country_code: "975"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -3397,7 +3398,6 @@
   #ioc_country_code: BHU
   #currency: BTN
   #un_locode: BT
-  #fips_104: "BT"
   #ungegn_en_name: "Bhutan"
   #ungegn_en_longname: "the Kingdom of Bhutan"
   #ungegn_fr_name: "Bhoutan (le)"
@@ -3493,6 +3493,7 @@
   iso_3166_es_name: "Isla Bouvet"
   iso_3166_region: "0"
   iso_3166_subregion: "0"
+  fips_104: "BV"
   #e164_country_code: ""
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -3501,7 +3502,6 @@
   #ioc_country_code:
   #currency: NOK
   #un_locode:
-  #fips_104: "BV"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -3597,6 +3597,7 @@
   iso_3166_es_name: "Botswana"
   iso_3166_region: "2"
   iso_3166_subregion: "18"
+  fips_104: "BC"
   #e164_country_code: "267"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -3605,7 +3606,6 @@
   #ioc_country_code: BOT
   #currency: BWP
   #un_locode: BW
-  #fips_104: "BC"
   #ungegn_en_name: "Botswana"
   #ungegn_en_longname: "the Republic of Botswana"
   #ungegn_fr_name: "Botswana (le)"
@@ -3701,6 +3701,7 @@
   iso_3166_es_name: "Belarús"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "BO"
   #e164_country_code: "375"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -3709,7 +3710,6 @@
   #ioc_country_code: BLR
   #currency: BYR
   #un_locode: BY
-  #fips_104: "BO"
   #ungegn_en_name: "Belarus"
   #ungegn_en_longname: "the Republic of Belarus"
   #ungegn_fr_name: "Bélarus (le)"
@@ -3805,6 +3805,7 @@
   iso_3166_es_name: "Belice"
   iso_3166_region: "19"
   iso_3166_subregion: "13"
+  fips_104: "BH"
   #e164_country_code: "501"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -3813,7 +3814,6 @@
   #ioc_country_code: BIZ
   #currency: BZD
   #un_locode: BZ
-  #fips_104: "BH"
   #ungegn_en_name: "Belize"
   #ungegn_en_longname: "Belize"
   #ungegn_fr_name: "Belize (le)"
@@ -3909,6 +3909,7 @@
   iso_3166_es_name: "Canadá"
   iso_3166_region: "19"
   iso_3166_subregion: "21"
+  fips_104: "CA"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -3917,7 +3918,6 @@
   #ioc_country_code: CAN
   #currency: CAD
   #un_locode: CA
-  #fips_104: "CA"
   #ungegn_en_name: "Canada"
   #ungegn_en_longname: "Canada"
   #ungegn_fr_name: "Canada (le)"
@@ -4018,6 +4018,7 @@
   iso_3166_es_name: "Islas Cocos (Keeling)"
   iso_3166_region: "142"
   iso_3166_subregion: "0"
+  fips_104: "CK"
   #e164_country_code: "61"
   #e164_international_prefix: "0011"
   #e164_national_prefix: "0"
@@ -4026,7 +4027,6 @@
   #ioc_country_code:
   #currency: AUD
   #un_locode: CC
-  #fips_104: "CK"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -4122,6 +4122,7 @@
   iso_3166_es_name: "República Democrática del Congo"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "CG"
   #e164_country_code: "243"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -4130,7 +4131,6 @@
   #ioc_country_code: COD
   #currency: ~
   #un_locode: CD
-  #fips_104: "CG"
   #ungegn_en_name: "Democratic Republic of the Congo (the)"
   #ungegn_en_longname: "the Democratic Republic of The Congo"
   #ungegn_fr_name: "République démocratique du Congo (la)"
@@ -4226,6 +4226,7 @@
   iso_3166_es_name: "República Centroafricana"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "CT"
   #e164_country_code: "236"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -4234,7 +4235,6 @@
   #ioc_country_code: CAF
   #currency: XAF
   #un_locode: CF
-  #fips_104: "CT"
   #ungegn_en_name: "Central African Republic (the)"
   #ungegn_en_longname: "the Central African Republic"
   #ungegn_fr_name: "République centrafricaine (la)"
@@ -4330,6 +4330,7 @@
   iso_3166_es_name: "Congo"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "CF"
   #e164_country_code: "242"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -4338,7 +4339,6 @@
   #ioc_country_code: CGO
   #currency: ~
   #un_locode: CG
-  #fips_104: "CF"
   #ungegn_en_name: "Congo (the)"
   #ungegn_en_longname: "the Republic of the Congo"
   #ungegn_fr_name: "Congo (le)"
@@ -4434,6 +4434,7 @@
   iso_3166_es_name: "Suiza"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "SZ"
   #e164_country_code: "41"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -4442,7 +4443,6 @@
   #ioc_country_code: SUI
   #currency: CHF
   #un_locode: CH
-  #fips_104: "SZ"
   #ungegn_en_name: "Switzerland"
   #ungegn_en_longname: "the Confederation of Switzerland"
   #ungegn_fr_name: "Suisse (la)"
@@ -4543,6 +4543,7 @@
   iso_3166_es_name: "Côte d'Ivoire"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "IV"
   #e164_country_code: "225"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -4551,7 +4552,6 @@
   #ioc_country_code: CIV
   #currency: XOF
   #un_locode: CI
-  #fips_104: "IV"
   #ungegn_en_name: "Côte d’Ivoire"
   #ungegn_en_longname: "the Republic of Cote d'Ivoire"
   #ungegn_fr_name: "Côte d’Ivoire (la)"
@@ -4647,6 +4647,7 @@
   iso_3166_es_name: "Islas Cook"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "CW"
   #e164_country_code: "682"
   #e164_international_prefix: "00"
   #e164_national_prefix: "00"
@@ -4655,7 +4656,6 @@
   #ioc_country_code: COK
   #currency: NZD
   #un_locode: CK
-  #fips_104: "CW"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -4751,6 +4751,7 @@
   iso_3166_es_name: "Chile"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "CI"
   #e164_country_code: "56"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -4759,7 +4760,6 @@
   #ioc_country_code: CHI
   #currency: CLP
   #un_locode: CL
-  #fips_104: "CI"
   #ungegn_en_name: "Chile"
   #ungegn_en_longname: "the Republica de Chile"
   #ungegn_fr_name: "Chili (le)"
@@ -4855,6 +4855,7 @@
   iso_3166_es_name: "Camerún"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "CM"
   #e164_country_code: "237"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -4863,7 +4864,6 @@
   #ioc_country_code: CMR
   #currency: XAF
   #un_locode: CM
-  #fips_104: "CM"
   #ungegn_en_name: "Cameroon"
   #ungegn_en_longname: "the Republic of Cameroon"
   #ungegn_fr_name: "Camerooun (le)"
@@ -4959,6 +4959,7 @@
   iso_3166_es_name: "China"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "CH"
   #e164_country_code: "86"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -4967,7 +4968,6 @@
   #ioc_country_code: CHN
   #currency: CNY
   #un_locode: CN
-  #fips_104: "CH"
   #ungegn_en_name: "China"
   #ungegn_en_longname: "the People's Republic of China"
   #ungegn_fr_name: "Chine (la)"
@@ -5068,6 +5068,7 @@
   iso_3166_es_name: "Colombia"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "CO"
   #e164_country_code: "57"
   #e164_international_prefix: "005"
   #e164_national_prefix: "05"
@@ -5076,7 +5077,6 @@
   #ioc_country_code: COL
   #currency: COP
   #un_locode: CO
-  #fips_104: "CO"
   #ungegn_en_name: "Colombia"
   #ungegn_en_longname: "the Republic of Columbia"
   #ungegn_fr_name: "Colombie (la)"
@@ -5172,6 +5172,7 @@
   iso_3166_es_name: "Costa Rica"
   iso_3166_region: "19"
   iso_3166_subregion: "13"
+  fips_104: "CS"
   #e164_country_code: "506"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -5180,7 +5181,6 @@
   #ioc_country_code: CRC
   #currency: CRC
   #un_locode: CR
-  #fips_104: "CS"
   #ungegn_en_name: "Costa Rica"
   #ungegn_en_longname: "the Republic of Costa Rica"
   #ungegn_fr_name: "Costa Rica (le)"
@@ -5276,6 +5276,7 @@
   iso_3166_es_name: "Cuba"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "CU"
   #e164_country_code: "53"
   #e164_international_prefix: "119"
   #e164_national_prefix: "0"
@@ -5284,7 +5285,6 @@
   #ioc_country_code: CUB
   #currency: CUP
   #un_locode: CU
-  #fips_104: "CU"
   #ungegn_en_name: "Cuba"
   #ungegn_en_longname: "the Republic of Cuba"
   #ungegn_fr_name: "Cuba"
@@ -5380,6 +5380,7 @@
   iso_3166_es_name: "Cabo Verde"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "CV"
   #e164_country_code: "238"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -5388,7 +5389,6 @@
   #ioc_country_code: CPV
   #currency: CVE
   #un_locode: CV
-  #fips_104: "CV"
   #ungegn_en_name: "Cape Verde"
   #ungegn_en_longname: "the Republic of Cape Verde"
   #ungegn_fr_name: "Cap-Vert (le)"
@@ -5484,6 +5484,7 @@
   iso_3166_es_name: "Isla de Navidad"
   iso_3166_region: "142"
   iso_3166_subregion: "0"
+  fips_104: "KT"
   #e164_country_code: "61"
   #e164_international_prefix: "0011"
   #e164_national_prefix: "0"
@@ -5492,7 +5493,6 @@
   #ioc_country_code:
   #currency: AUD
   #un_locode: CX
-  #fips_104: "KT"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -5588,6 +5588,7 @@
   iso_3166_es_name: "Chipre"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "CY"
   #e164_country_code: "357"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -5596,7 +5597,6 @@
   #ioc_country_code: CYP
   #currency: EUR
   #un_locode: CY
-  #fips_104: "CY"
   #ungegn_en_name: "Cyprus"
   #ungegn_en_longname: "the Republic of Cyprus"
   #ungegn_fr_name: "Chypre"
@@ -5692,6 +5692,7 @@
   iso_3166_es_name: "República Checa"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "EZ"
   #e164_country_code: "420"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -5700,7 +5701,6 @@
   #ioc_country_code: CZE
   #currency: CZK
   #un_locode: CZ
-  #fips_104: "EZ"
   #ungegn_en_name: "Czech Republic (the)"
   #ungegn_en_longname: "the Czech Republic"
   #ungegn_fr_name: "République tchèque (la)"
@@ -5801,6 +5801,7 @@
   iso_3166_es_name: "Alemania"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "GM"
   #e164_country_code: "49"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -5809,7 +5810,6 @@
   #ioc_country_code: GER
   #currency: EUR
   #un_locode: DE
-  #fips_104: "GM"
   #ungegn_en_name: "Germany"
   #ungegn_en_longname: "the Federal Republic of Germany"
   #ungegn_fr_name: "Allemagne (l')"
@@ -5910,6 +5910,7 @@
   iso_3166_es_name: "Djibouti"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "DJ"
   #e164_country_code: "253"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -5918,7 +5919,6 @@
   #ioc_country_code: DJI
   #currency: DJF
   #un_locode: DJ
-  #fips_104: "DJ"
   #ungegn_en_name: "Djibouti"
   #ungegn_en_longname: "the Republic of Djibouti"
   #ungegn_fr_name: "Djibouti"
@@ -6014,6 +6014,7 @@
   iso_3166_es_name: "Dinamarca"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "DA"
   #e164_country_code: "45"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -6022,7 +6023,6 @@
   #ioc_country_code: DEN
   #currency: DKK
   #un_locode: DK
-  #fips_104: "DA"
   #ungegn_en_name: "Denmark"
   #ungegn_en_longname: "the Kingdom of Denmark"
   #ungegn_fr_name: "Danemark (le)"
@@ -6124,6 +6124,7 @@
   iso_3166_es_name: "Dominica"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "DO"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -6132,7 +6133,6 @@
   #ioc_country_code: DMA
   #currency: XCD
   #un_locode: DM
-  #fips_104: "DO"
   #ungegn_en_name: "Dominica"
   #ungegn_en_longname: "the Commonwealth of Dominica"
   #ungegn_fr_name: "Dominique (la)"
@@ -6228,6 +6228,7 @@
   iso_3166_es_name: "República Dominicana"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "DR"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -6236,7 +6237,6 @@
   #ioc_country_code: DOM
   #currency: DOP
   #un_locode: DO
-  #fips_104: "DR"
   #ungegn_en_name: "Dominican Republic (the)"
   #ungegn_en_longname: "the Dominican Republic"
   #ungegn_fr_name: "République dominicaine (la)"
@@ -6332,6 +6332,7 @@
   iso_3166_es_name: "Argelia"
   iso_3166_region: "2"
   iso_3166_subregion: "15"
+  fips_104: "AG"
   #e164_country_code: "213"
   #e164_international_prefix: "00"
   #e164_national_prefix: "7"
@@ -6340,7 +6341,6 @@
   #ioc_country_code: ALG
   #currency: DZD
   #un_locode: DZ
-  #fips_104: "AG"
   #ungegn_en_name: "Algeria"
   #ungegn_en_longname: "the People's Democratic Republic of Algeria"
   #ungegn_fr_name: "Algérie (l')"
@@ -6436,6 +6436,7 @@
   iso_3166_es_name: "Ecuador"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "EC"
   #e164_country_code: "593"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -6444,7 +6445,6 @@
   #ioc_country_code: ECU
   #currency: USD
   #un_locode: EC
-  #fips_104: "EC"
   #ungegn_en_name: "Ecuador"
   #ungegn_en_longname: "the Republic of Ecuador"
   #ungegn_fr_name: "Équateur (l')"
@@ -6540,6 +6540,7 @@
   iso_3166_es_name: "Estonia"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "EN"
   #e164_country_code: "372"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -6548,7 +6549,6 @@
   #ioc_country_code: EST
   #currency: EUR
   #un_locode: EE
-  #fips_104: "EN"
   #ungegn_en_name: "Estonia"
   #ungegn_en_longname: "the Republic of Estonia"
   #ungegn_fr_name: "Estonie (l')"
@@ -6644,6 +6644,7 @@
   iso_3166_es_name: "Egipto"
   iso_3166_region: "142"
   iso_3166_subregion: "15"
+  fips_104: "EG"
   #e164_country_code: "20"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -6652,7 +6653,6 @@
   #ioc_country_code: EGY
   #currency: EGP
   #un_locode: EG
-  #fips_104: "EG"
   #ungegn_en_name: "Egypt"
   #ungegn_en_longname: "the Arab Republic of Egypt"
   #ungegn_fr_name: "Égypte (l')"
@@ -6753,6 +6753,7 @@
   iso_3166_es_name: "Sahara Occidental"
   iso_3166_region: "2"
   iso_3166_subregion: "15"
+  fips_104: "WI"
   #e164_country_code: "212"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -6761,7 +6762,6 @@
   #ioc_country_code:
   #currency: MAD
   #un_locode: EH
-  #fips_104: "WI"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -6857,6 +6857,7 @@
   iso_3166_es_name: "Eritrea"
   iso_3166_region: "142"
   iso_3166_subregion: "14"
+  fips_104: "ER"
   #e164_country_code: "291"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -6865,7 +6866,6 @@
   #ioc_country_code: ERI
   #currency: ETB
   #un_locode: ER
-  #fips_104: "ER"
   #ungegn_en_name: "Eritrea"
   #ungegn_en_longname: "Eritrea"
   #ungegn_fr_name: "Érythrée (l')"
@@ -6961,6 +6961,7 @@
   iso_3166_es_name: "España"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "SP"
   #e164_country_code: "34"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -6969,7 +6970,6 @@
   #ioc_country_code: ESP
   #currency: EUR
   #un_locode: ES
-  #fips_104: "SP"
   #ungegn_en_name: "Spain"
   #ungegn_en_longname: "the Kingdom of Spain"
   #ungegn_fr_name: "Espagne (l')"
@@ -7070,6 +7070,7 @@
   iso_3166_es_name: "Etiopía"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "ET"
   #e164_country_code: "251"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -7078,7 +7079,6 @@
   #ioc_country_code: ETH
   #currency: ETB
   #un_locode: ET
-  #fips_104: "ET"
   #ungegn_en_name: "Ethiopia"
   #ungegn_en_longname: "the Federal Democratic Republic of Ethiopia"
   #ungegn_fr_name: "Éthiopie (l')"
@@ -7174,6 +7174,7 @@
   iso_3166_es_name: "Finlandia"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "FI"
   #e164_country_code: "358"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -7182,7 +7183,6 @@
   #ioc_country_code: FIN
   #currency: EUR
   #un_locode:
-  #fips_104: "FI"
   #ungegn_en_name: "Finland"
   #ungegn_en_longname: "the Republic of Finland"
   #ungegn_fr_name: "Finlande (la)"
@@ -7283,6 +7283,7 @@
   iso_3166_es_name: "Fiji"
   iso_3166_region: "9"
   iso_3166_subregion: "54"
+  fips_104: "FJ"
   #e164_country_code: "679"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -7291,7 +7292,6 @@
   #ioc_country_code: FIJ
   #currency: USD
   #un_locode: FJ
-  #fips_104: "FJ"
   #ungegn_en_name: "Fiji"
   #ungegn_en_longname: "the Republic of Fiji"
   #ungegn_fr_name: "Fidji (les)"
@@ -7387,6 +7387,7 @@
   iso_3166_es_name: "Islas Falkland (Malvinas)"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "FK"
   #e164_country_code: "500"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -7395,7 +7396,6 @@
   #ioc_country_code:
   #currency: FKP
   #un_locode: FK
-  #fips_104: "FK"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -7491,6 +7491,7 @@
   iso_3166_es_name: "Micronesia, Estados Federados de"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "FM"
   #e164_country_code: "691"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -7499,7 +7500,6 @@
   #ioc_country_code: FSM
   #currency: USD
   #un_locode: FM
-  #fips_104: "FM"
   #ungegn_en_name: "Micronesia (Federated States of)"
   #ungegn_en_longname: "the Federated States of Micronesia"
   #ungegn_fr_name: "Micronésie (États fédérés de)"
@@ -7595,6 +7595,7 @@
   iso_3166_es_name: "Islas Feroe"
   iso_3166_region: "150"
   iso_3166_subregion: "0"
+  fips_104: "FO"
   #e164_country_code: "298"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -7603,7 +7604,6 @@
   #ioc_country_code: FRO
   #currency: DKK
   #un_locode: FO
-  #fips_104: "FO"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -7699,6 +7699,7 @@
   iso_3166_es_name: "Francia"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "FR"
   #e164_country_code: "33"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -7707,7 +7708,6 @@
   #ioc_country_code: FRA
   #currency: EUR
   #un_locode: FR
-  #fips_104: "FR"
   #ungegn_en_name: "France"
   #ungegn_en_longname: "the French Republic"
   #ungegn_fr_name: "France (la)"
@@ -7808,6 +7808,7 @@
   iso_3166_es_name: "Gabón"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "GB"
   #e164_country_code: "241"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -7816,7 +7817,6 @@
   #ioc_country_code: GAB
   #currency: XAF
   #un_locode: GA
-  #fips_104: "GB"
   #ungegn_en_name: "Gabon"
   #ungegn_en_longname: "the Gabonese Republic"
   #ungegn_fr_name: "Gabon (le)"
@@ -7912,6 +7912,7 @@
   iso_3166_es_name: "el Reino Unido de Gran Bretaña e Irlanda del Norte"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "UK"
   #e164_country_code: "44"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -7920,7 +7921,6 @@
   #ioc_country_code: GBR
   #currency: GBP
   #un_locode:
-  #fips_104: "UK"
   #ungegn_en_name: "United Kingdom of Great Britain and Northern Ireland (the)"
   #ungegn_en_longname: "the United Kingdom of Great Britain and Northern Ireland"
   #ungegn_fr_name: "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)"
@@ -8023,6 +8023,7 @@
   iso_3166_es_name: "Granada"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "GJ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -8031,7 +8032,6 @@
   #ioc_country_code: GRN
   #currency: XCD
   #un_locode: GD
-  #fips_104: "GJ"
   #ungegn_en_name: "Grenada"
   #ungegn_en_longname: "Grenada"
   #ungegn_fr_name: "Grenade (la)"
@@ -8127,6 +8127,7 @@
   iso_3166_es_name: "Georgia"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "GG"
   #e164_country_code: "995"
   #e164_international_prefix: "810"
   #e164_national_prefix: 8*
@@ -8135,7 +8136,6 @@
   #ioc_country_code: GEO
   #currency: GEL
   #un_locode: GE
-  #fips_104: "GG"
   #ungegn_en_name: "Georgia"
   #ungegn_en_longname: "Georgia"
   #ungegn_fr_name: "Géorgie (la)"
@@ -8231,6 +8231,7 @@
   iso_3166_es_name: "Guayana Francesa"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "FG"
   #e164_country_code: "594"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -8239,7 +8240,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: GF
-  #fips_104: "FG"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -8335,6 +8335,7 @@
   iso_3166_es_name: "Guernsey"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "GK"
   #e164_country_code: "44"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -8343,7 +8344,6 @@
   #ioc_country_code:
   #currency: GGP
   #un_locode:
-  #fips_104: "GK"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -8439,6 +8439,7 @@
   iso_3166_es_name: "Ghana"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "GH"
   #e164_country_code: "233"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -8447,7 +8448,6 @@
   #ioc_country_code: GHA
   #currency: GHS
   #un_locode: GH
-  #fips_104: "GH"
   #ungegn_en_name: "Ghana"
   #ungegn_en_longname: "the Republic of Ghana"
   #ungegn_fr_name: "Ghana (le)"
@@ -8543,6 +8543,7 @@
   iso_3166_es_name: "Gibraltar"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "GI"
   #e164_country_code: "350"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -8551,7 +8552,6 @@
   #ioc_country_code:
   #currency: GIP
   #un_locode: GI
-  #fips_104: "GI"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -8647,6 +8647,7 @@
   iso_3166_es_name: "Groenlandia"
   iso_3166_region: "19"
   iso_3166_subregion: "21"
+  fips_104: "GL"
   #e164_country_code: "299"
   #e164_international_prefix: 009
   #e164_national_prefix: None
@@ -8655,7 +8656,6 @@
   #ioc_country_code:
   #currency: DKK
   #un_locode: GL
-  #fips_104: "GL"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -8756,6 +8756,7 @@
   iso_3166_es_name: "Gambia"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "GA"
   #e164_country_code: "220"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -8764,7 +8765,6 @@
   #ioc_country_code: GAM
   #currency: GMD
   #un_locode: GM
-  #fips_104: "GA"
   #ungegn_en_name: "Gambia (the)"
   #ungegn_en_longname: "the Republic of The Gambia"
   #ungegn_fr_name: "Gambie (la)"
@@ -8860,6 +8860,7 @@
   iso_3166_es_name: "Guinea"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "GV"
   #e164_country_code: "224"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -8868,7 +8869,6 @@
   #ioc_country_code: GUI
   #currency: GNF
   #un_locode: GN
-  #fips_104: "GV"
   #ungegn_en_name: "Guinea"
   #ungegn_en_longname: "the Republic of Guinea"
   #ungegn_fr_name: "Guinée (la)"
@@ -8964,6 +8964,7 @@
   iso_3166_es_name: "Guadalupe"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "GP"
   #e164_country_code: "590"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -8972,7 +8973,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: GP
-  #fips_104: "GP"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -9068,6 +9068,7 @@
   iso_3166_es_name: "Guinea Ecuatorial"
   iso_3166_region: "142"
   iso_3166_subregion: "17"
+  fips_104: "EK"
   #e164_country_code: "240"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -9076,7 +9077,6 @@
   #ioc_country_code: GEQ
   #currency: ~
   #un_locode: GQ
-  #fips_104: "EK"
   #ungegn_en_name: "Equatorial Guinea"
   #ungegn_en_longname: "the Republic of Equatorial Guinea"
   #ungegn_fr_name: "Guinée équatoriale (la)"
@@ -9172,6 +9172,7 @@
   iso_3166_es_name: "Grecia"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "GR"
   #e164_country_code: "30"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -9180,7 +9181,6 @@
   #ioc_country_code: GRE
   #currency: EUR
   #un_locode: GR
-  #fips_104: "GR"
   #ungegn_en_name: "Greece"
   #ungegn_en_longname: "the Hellenic Republic"
   #ungegn_fr_name: "Grèce (la)"
@@ -9281,6 +9281,7 @@
   iso_3166_es_name: "Georgia del Sur e Islas Sandwich del Sur"
   iso_3166_region: "0"
   iso_3166_subregion: "0"
+  fips_104: "SX"
   #e164_country_code: "500"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -9289,7 +9290,6 @@
   #ioc_country_code:
   #currency: ~
   #un_locode: GS
-  #fips_104: "SX"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -9385,6 +9385,7 @@
   iso_3166_es_name: "Guatemala"
   iso_3166_region: "19"
   iso_3166_subregion: "13"
+  fips_104: "GT"
   #e164_country_code: "502"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -9393,7 +9394,6 @@
   #ioc_country_code: GUA
   #currency: GTQ
   #un_locode: GT
-  #fips_104: "GT"
   #ungegn_en_name: "Guatemala"
   #ungegn_en_longname: "the Republic of Guatemala"
   #ungegn_fr_name: "Guatemala (le)"
@@ -9489,6 +9489,7 @@
   iso_3166_es_name: "Guam"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "GQ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -9497,7 +9498,6 @@
   #ioc_country_code: GUM
   #currency: USD
   #un_locode: GU
-  #fips_104: "GQ"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -9593,6 +9593,7 @@
   iso_3166_es_name: "Guinea-Bissau"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "PU"
   #e164_country_code: "245"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -9601,7 +9602,6 @@
   #ioc_country_code: GBS
   #currency: XOF
   #un_locode: GW
-  #fips_104: "PU"
   #ungegn_en_name: "Guine-Bissau"
   #ungegn_en_longname: "the Republic of Guinea-Bissau"
   #ungegn_fr_name: "Guinée-Bissau (la)"
@@ -9697,6 +9697,7 @@
   iso_3166_es_name: "Guyana"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "GY"
   #e164_country_code: "592"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -9705,7 +9706,6 @@
   #ioc_country_code: GUY
   #currency: GYD
   #un_locode: GY
-  #fips_104: "GY"
   #ungegn_en_name: "Guyana"
   #ungegn_en_longname: "the Republic of Guyana"
   #ungegn_fr_name: "Guyana (le)"
@@ -9801,6 +9801,7 @@
   iso_3166_es_name: "Hong Kong (región administrativa especial de China)"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "HK"
   #e164_country_code: "852"
   #e164_international_prefix: "001"
   #e164_national_prefix: None
@@ -9809,7 +9810,6 @@
   #ioc_country_code: HKG
   #currency: HKD
   #un_locode: HK
-  #fips_104: "HK"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -9910,6 +9910,7 @@
   iso_3166_es_name: "Islas de Heard y McDonald"
   iso_3166_region: "9"
   iso_3166_subregion: "0"
+  fips_104: "HM"
   #e164_country_code: ""
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -9918,7 +9919,6 @@
   #ioc_country_code:
   #currency: AUD
   #un_locode: HM
-  #fips_104: "HM"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -10014,6 +10014,7 @@
   iso_3166_es_name: "Honduras"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "HO"
   #e164_country_code: "504"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -10022,7 +10023,6 @@
   #ioc_country_code: HON
   #currency: HNL
   #un_locode: HN
-  #fips_104: "HO"
   #ungegn_en_name: "Honduras"
   #ungegn_en_longname: "the Republic of Honduras"
   #ungegn_fr_name: "Honduras (le)"
@@ -10118,6 +10118,7 @@
   iso_3166_es_name: "Croacia"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "HR"
   #e164_country_code: "385"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -10126,7 +10127,6 @@
   #ioc_country_code: CRO
   #currency: HRK
   #un_locode: HR
-  #fips_104: "HR"
   #ungegn_en_name: "Croatia"
   #ungegn_en_longname: "the Republic of Crotia"
   #ungegn_fr_name: "Croatie (la)"
@@ -10227,6 +10227,7 @@
   iso_3166_es_name: "Haití"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "HA"
   #e164_country_code: "509"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -10235,7 +10236,6 @@
   #ioc_country_code: HAI
   #currency: USD
   #un_locode: HT
-  #fips_104: "HA"
   #ungegn_en_name: "Haiti"
   #ungegn_en_longname: "the Republic of Haiti"
   #ungegn_fr_name: "Haïti"
@@ -10331,6 +10331,7 @@
   iso_3166_es_name: "Hungría"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "HU"
   #e164_country_code: "36"
   #e164_international_prefix: "00"
   #e164_national_prefix: "06"
@@ -10339,7 +10340,6 @@
   #ioc_country_code: HUN
   #currency: HUF
   #un_locode: HU
-  #fips_104: "HU"
   #ungegn_en_name: "Hungary"
   #ungegn_en_longname: "the Republic of Hungary"
   #ungegn_fr_name: "Hongrie (la)"
@@ -10441,6 +10441,7 @@
   iso_3166_es_name: "Indonesia"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "ID"
   #e164_country_code: "62"
   #e164_international_prefix: "001"
   #e164_national_prefix: "0"
@@ -10449,7 +10450,6 @@
   #ioc_country_code: INA
   #currency: IDR
   #un_locode: ID
-  #fips_104: "ID"
   #ungegn_en_name: "Indonesia"
   #ungegn_en_longname: "the Republic of Indonesia"
   #ungegn_fr_name: "Indonésie (l')"
@@ -10551,6 +10551,7 @@
   iso_3166_es_name: "Irlanda"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "EI"
   #e164_country_code: "353"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -10559,7 +10560,6 @@
   #ioc_country_code: IRL
   #currency: EUR
   #un_locode: IE
-  #fips_104: "EI"
   #ungegn_en_name: "Ireland"
   #ungegn_en_longname: "Ireland"
   #ungegn_fr_name: "Irlande (l')"
@@ -10660,6 +10660,7 @@
   iso_3166_es_name: "Israel"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "IS"
   #e164_country_code: "972"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -10668,7 +10669,6 @@
   #ioc_country_code: ISR
   #currency: ILS
   #un_locode: IL
-  #fips_104: "IS"
   #ungegn_en_name: "Israel"
   #ungegn_en_longname: "the State of Israel"
   #ungegn_fr_name: "Israël"
@@ -10769,6 +10769,7 @@
   iso_3166_es_name: "Isla de Man"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "IM"
   #e164_country_code: "44"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -10777,7 +10778,6 @@
   #ioc_country_code:
   #currency: IMP
   #un_locode:
-  #fips_104: "IM"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -10873,6 +10873,7 @@
   iso_3166_es_name: "India"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "IN"
   #e164_country_code: "91"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -10881,7 +10882,6 @@
   #ioc_country_code: IND
   #currency: INR
   #un_locode: IN
-  #fips_104: "IN"
   #ungegn_en_name: "India"
   #ungegn_en_longname: "the Republic of India"
   #ungegn_fr_name: "Inde (l')"
@@ -10983,6 +10983,7 @@
   iso_3166_es_name: "Territorio Británico del Océano Indico"
   iso_3166_region: "0"
   iso_3166_subregion: "0"
+  fips_104: "IO"
   #e164_country_code: "246"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -10991,7 +10992,6 @@
   #ioc_country_code:
   #currency: USD
   #un_locode: IO
-  #fips_104: "IO"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -11087,6 +11087,7 @@
   iso_3166_es_name: "Iraq"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "IZ"
   #e164_country_code: "964"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -11095,7 +11096,6 @@
   #ioc_country_code: IRQ
   #currency: IQD
   #un_locode: IQ
-  #fips_104: "IZ"
   #ungegn_en_name: "Iraq"
   #ungegn_en_longname: "the Republic of Iraq"
   #ungegn_fr_name: "Iraq (l')"
@@ -11191,6 +11191,7 @@
   iso_3166_es_name: "Irán, República Islámica del"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "IR"
   #e164_country_code: "98"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -11199,7 +11200,6 @@
   #ioc_country_code: IRI
   #currency: IRR
   #un_locode: IR
-  #fips_104: "IR"
   #ungegn_en_name: "Iran (Islamic Republic of)"
   #ungegn_en_longname: "the Islamic Republic of Iran"
   #ungegn_fr_name: "Iran (République islamique d')"
@@ -11295,6 +11295,7 @@
   iso_3166_es_name: "Islandia"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "IC"
   #e164_country_code: "354"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -11303,7 +11304,6 @@
   #ioc_country_code: ISL
   #currency: ISK
   #un_locode: IS
-  #fips_104: "IC"
   #ungegn_en_name: "Island"
   #ungegn_en_longname: "the Republic of Iceland"
   #ungegn_fr_name: "Islande (l')"
@@ -11404,6 +11404,7 @@
   iso_3166_es_name: "Italia"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "IT"
   #e164_country_code: "39"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -11412,7 +11413,6 @@
   #ioc_country_code: ITA
   #currency: EUR
   #un_locode: IT
-  #fips_104: "IT"
   #ungegn_en_name: "Italy"
   #ungegn_en_longname: "the Italian Republic"
   #ungegn_fr_name: "Italie (l')"
@@ -11513,6 +11513,7 @@
   iso_3166_es_name: "Jersey"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "JE"
   #e164_country_code: "44"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -11521,7 +11522,6 @@
   #ioc_country_code:
   #currency: JEP
   #un_locode:
-  #fips_104: "JE"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -11617,6 +11617,7 @@
   iso_3166_es_name: "Jamaica"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "JM"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -11625,7 +11626,6 @@
   #ioc_country_code: JAM
   #currency: JMD
   #un_locode: JM
-  #fips_104: "JM"
   #ungegn_en_name: "Jamaica"
   #ungegn_en_longname: "Jamaica"
   #ungegn_fr_name: "Jamaïque (la)"
@@ -11721,6 +11721,7 @@
   iso_3166_es_name: "Jordania"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "JO"
   #e164_country_code: "962"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -11729,7 +11730,6 @@
   #ioc_country_code: JOR
   #currency: JOD
   #un_locode: JO
-  #fips_104: "JO"
   #ungegn_en_name: "Jordan"
   #ungegn_en_longname: "the Hashemite Kingdom of Jordan"
   #ungegn_fr_name: "Jordanie (la)"
@@ -11830,6 +11830,7 @@
   iso_3166_es_name: "Japón"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "JA"
   #e164_country_code: "81"
   #e164_international_prefix: "010"
   #e164_national_prefix: "0"
@@ -11838,7 +11839,6 @@
   #ioc_country_code: JPN
   #currency: JPY
   #un_locode: JP
-  #fips_104: "JA"
   #ungegn_en_name: "Japan"
   #ungegn_en_longname: "Japan"
   #ungegn_fr_name: "Japon (le)"
@@ -11939,6 +11939,7 @@
   iso_3166_es_name: "Kenya"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "KE"
   #e164_country_code: "254"
   #e164_international_prefix: "000"
   #e164_national_prefix: "0"
@@ -11947,7 +11948,6 @@
   #ioc_country_code: KEN
   #currency: KES
   #un_locode: KE
-  #fips_104: "KE"
   #ungegn_en_name: "Kenya"
   #ungegn_en_longname: "the Republic of Kenya"
   #ungegn_fr_name: "Kenya (le)"
@@ -12043,6 +12043,7 @@
   iso_3166_es_name: "Kirguistán"
   iso_3166_region: "142"
   iso_3166_subregion: "143"
+  fips_104: "KG"
   #e164_country_code: "996"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -12051,7 +12052,6 @@
   #ioc_country_code: KGZ
   #currency: KGS
   #un_locode: KG
-  #fips_104: "KG"
   #ungegn_en_name: "Kyrgyzstan"
   #ungegn_en_longname: "the Kyrgyz Republic"
   #ungegn_fr_name: "Kirghizistan (le)"
@@ -12147,6 +12147,7 @@
   iso_3166_es_name: "Camboya"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "CB"
   #e164_country_code: "855"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -12155,7 +12156,6 @@
   #ioc_country_code: CAM
   #currency: KHR
   #un_locode: KH
-  #fips_104: "CB"
   #ungegn_en_name: "Cambodia"
   #ungegn_en_longname: "the Kingdom of Cambodia"
   #ungegn_fr_name: "Cambodge (le)"
@@ -12251,6 +12251,7 @@
   iso_3166_es_name: "Kiribati"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "KR"
   #e164_country_code: "686"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -12259,7 +12260,6 @@
   #ioc_country_code: KIR
   #currency: AUD
   #un_locode: KI
-  #fips_104: "KR"
   #ungegn_en_name: "Kiribati"
   #ungegn_en_longname: "the Republic of Kiribati"
   #ungegn_fr_name: "Kiribati"
@@ -12355,6 +12355,7 @@
   iso_3166_es_name: "Comoras"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "CN"
   #e164_country_code: "269"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -12363,7 +12364,6 @@
   #ioc_country_code: COM
   #currency: KMF
   #un_locode: KM
-  #fips_104: "CN"
   #ungegn_en_name: "Comoros (the)"
   #ungegn_en_longname: "the Union of the Comoros (the)"
   #ungegn_fr_name: "Comores (les)"
@@ -12459,6 +12459,7 @@
   iso_3166_es_name: "Saint Kitts y Nevis"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "SC"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -12467,7 +12468,6 @@
   #ioc_country_code: SKN
   #currency: XCD
   #un_locode: KN
-  #fips_104: "SC"
   #ungegn_en_name: "Saint Kitts and Nevis"
   #ungegn_en_longname: "Saint Kitts and Nevis"
   #ungegn_fr_name: "Saint-Kitts-et-Nevis"
@@ -12563,6 +12563,7 @@
   iso_3166_es_name: "República Popular Democrática de Corea"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "KN"
   #e164_country_code: "850"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -12571,7 +12572,6 @@
   #ioc_country_code: PRK
   #currency: KPW
   #un_locode: KP
-  #fips_104: "KN"
   #ungegn_en_name: "Democratic People's Republic of Korea (the)"
   #ungegn_en_longname: "the Democratic People's Republic of Korea"
   #ungegn_fr_name: "République populaire démocratique de Corée (la)"
@@ -12667,6 +12667,7 @@
   iso_3166_es_name: "República de Corea"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "KS"
   #e164_country_code: "82"
   #e164_international_prefix: "001"
   #e164_national_prefix: "0"
@@ -12675,7 +12676,6 @@
   #ioc_country_code: KOR
   #currency: KRW
   #un_locode: KR
-  #fips_104: "KS"
   #ungegn_en_name: "Republic of Korea (the)"
   #ungegn_en_longname: "the Republic of Korea"
   #ungegn_fr_name: "République de Corée (la)"
@@ -12777,6 +12777,7 @@
   iso_3166_es_name: "Kuwait"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "KU"
   #e164_country_code: "965"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -12785,7 +12786,6 @@
   #ioc_country_code: KUW
   #currency: KWD
   #un_locode: KW
-  #fips_104: "KU"
   #ungegn_en_name: "Kuwait"
   #ungegn_en_longname: "the State of Kuwait"
   #ungegn_fr_name: "Koweït (le)"
@@ -12887,6 +12887,7 @@
   iso_3166_es_name: "Islas Caimán"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "CJ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -12895,7 +12896,6 @@
   #ioc_country_code: CAY
   #currency: KYD
   #un_locode: KY
-  #fips_104: "CJ"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -12991,6 +12991,7 @@
   iso_3166_es_name: "Kazajstán"
   iso_3166_region: "142"
   iso_3166_subregion: "143"
+  fips_104: "KZ"
   #e164_country_code: "7"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -12999,7 +13000,6 @@
   #ioc_country_code: KAZ
   #currency: KZT
   #un_locode: KZ
-  #fips_104: "KZ"
   #ungegn_en_name: "Kazakhstan"
   #ungegn_en_longname: "the Republic of Kazakhstan"
   #ungegn_fr_name: "Kazakhstan (le)"
@@ -13095,6 +13095,7 @@
   iso_3166_es_name: "República Democrática Popular Lao"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "LA"
   #e164_country_code: "856"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -13103,7 +13104,6 @@
   #ioc_country_code: LAO
   #currency: LAK
   #un_locode: LA
-  #fips_104: "LA"
   #ungegn_en_name: "Lao People's Democratic Republic (the)"
   #ungegn_en_longname: "the Lao People's Democratic Republic"
   #ungegn_fr_name: "République démocratique populaire lao (la)"
@@ -13199,6 +13199,7 @@
   iso_3166_es_name: "Líbano"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "LE"
   #e164_country_code: "961"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -13207,7 +13208,6 @@
   #ioc_country_code: LIB
   #currency: LBP
   #un_locode: LB
-  #fips_104: "LE"
   #ungegn_en_name: "Lebanon"
   #ungegn_en_longname: "the Lebanese Republic"
   #ungegn_fr_name: "Liban (le)"
@@ -13308,6 +13308,7 @@
   iso_3166_es_name: "Santa Lucía"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "ST"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -13316,7 +13317,6 @@
   #ioc_country_code: LCA
   #currency: XCD
   #un_locode: LC
-  #fips_104: "ST"
   #ungegn_en_name: "Saint Lucia"
   #ungegn_en_longname: "Saint Lucia"
   #ungegn_fr_name: "Sainte-Lucie"
@@ -13412,6 +13412,7 @@
   iso_3166_es_name: "Liechtenstein"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "LS"
   #e164_country_code: "423"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -13420,7 +13421,6 @@
   #ioc_country_code: LIE
   #currency: CHF
   #un_locode: LI
-  #fips_104: "LS"
   #ungegn_en_name: "Liechtenstein"
   #ungegn_en_longname: "the Principality of Liechtenstein"
   #ungegn_fr_name: "Liechtenstein (le)"
@@ -13516,6 +13516,7 @@
   iso_3166_es_name: "Sri Lanka"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "CE"
   #e164_country_code: "94"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -13524,7 +13525,6 @@
   #ioc_country_code: SRI
   #currency: LKR
   #un_locode: LK
-  #fips_104: "CE"
   #ungegn_en_name: "Sri Lanka"
   #ungegn_en_longname: "the Democratic Socialist Republic of Sri Lanka"
   #ungegn_fr_name: "Sri Lanka"
@@ -13620,6 +13620,7 @@
   iso_3166_es_name: "Liberia"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "LI"
   #e164_country_code: "231"
   #e164_international_prefix: "00"
   #e164_national_prefix: "22"
@@ -13628,7 +13629,6 @@
   #ioc_country_code: LBR
   #currency: LRD
   #un_locode: LR
-  #fips_104: "LI"
   #ungegn_en_name: "Liberia"
   #ungegn_en_longname: "the Republic of Liberia"
   #ungegn_fr_name: "Libéria (le)"
@@ -13724,6 +13724,7 @@
   iso_3166_es_name: "Lesotho"
   iso_3166_region: "2"
   iso_3166_subregion: "18"
+  fips_104: "LT"
   #e164_country_code: "266"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -13732,7 +13733,6 @@
   #ioc_country_code: LES
   #currency: LSL
   #un_locode: LS
-  #fips_104: "LT"
   #ungegn_en_name: "Lesotho"
   #ungegn_en_longname: "the Kingdom of Lesotho"
   #ungegn_fr_name: "Lesotho (le)"
@@ -13828,6 +13828,7 @@
   iso_3166_es_name: "Lituania"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "LH"
   #e164_country_code: "370"
   #e164_international_prefix: "00"
   #e164_national_prefix: "8"
@@ -13836,7 +13837,6 @@
   #ioc_country_code: LTU
   #currency: LTL
   #un_locode: LT
-  #fips_104: "LH"
   #ungegn_en_name: "Lithuania"
   #ungegn_en_longname: "the Republic of Lithuania"
   #ungegn_fr_name: "Lituanie (la)"
@@ -13932,6 +13932,7 @@
   iso_3166_es_name: "Luxemburgo"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "LU"
   #e164_country_code: "352"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -13940,7 +13941,6 @@
   #ioc_country_code: LUX
   #currency: EUR
   #un_locode: LU
-  #fips_104: "LU"
   #ungegn_en_name: "Luxembourg"
   #ungegn_en_longname: "the Grand Duche de Luxembourg"
   #ungegn_fr_name: "Luxembourg (le)"
@@ -14041,6 +14041,7 @@
   iso_3166_es_name: "Letonia"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "LG"
   #e164_country_code: "371"
   #e164_international_prefix: "00"
   #e164_national_prefix: "8"
@@ -14049,7 +14050,6 @@
   #ioc_country_code: LAT
   #currency: LVL
   #un_locode: LV
-  #fips_104: "LG"
   #ungegn_en_name: "Latvia"
   #ungegn_en_longname: "the Republic of Latvia"
   #ungegn_fr_name: "Lettonie (la)"
@@ -14145,6 +14145,7 @@
   iso_3166_es_name: "Jamahiriya Árabe Libia"
   iso_3166_region: "2"
   iso_3166_subregion: "15"
+  fips_104: "LY"
   #e164_country_code: "218"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -14153,7 +14154,6 @@
   #ioc_country_code: LBA
   #currency: LYD
   #un_locode: LY
-  #fips_104: "LY"
   #ungegn_en_name: "Libyan Arab Jamahiriya (the)"
   #ungegn_en_longname: "the Socialist People's Libyan Arab Jamahiriya"
   #ungegn_fr_name: "Jamahiriya arabe libyenne (la)"
@@ -14249,6 +14249,7 @@
   iso_3166_es_name: "Marruecos"
   iso_3166_region: "2"
   iso_3166_subregion: "15"
+  fips_104: "MO"
   #e164_country_code: "212"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -14257,7 +14258,6 @@
   #ioc_country_code: MAR
   #currency: MAD
   #un_locode: MA
-  #fips_104: "MO"
   #ungegn_en_name: "Morocco"
   #ungegn_en_longname: "the Kingdom of Morocco"
   #ungegn_fr_name: "Maroc (le)"
@@ -14353,6 +14353,7 @@
   iso_3166_es_name: "Mónaco"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "MN"
   #e164_country_code: "377"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -14361,7 +14362,6 @@
   #ioc_country_code: MON
   #currency: EUR
   #un_locode: MC
-  #fips_104: "MN"
   #ungegn_en_name: "Monaco"
   #ungegn_en_longname: "the Principality of Monaco"
   #ungegn_fr_name: "Monaco"
@@ -14457,6 +14457,7 @@
   iso_3166_es_name: "República de Moldova"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "MD"
   #e164_country_code: "373"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -14465,7 +14466,6 @@
   #ioc_country_code: MDA
   #currency: MDL
   #un_locode: MD
-  #fips_104: "MD"
   #ungegn_en_name: "Republic of Moldova (the)"
   #ungegn_en_longname: "the Republic of Moldova"
   #ungegn_fr_name: "République de Moldova (la)"
@@ -14561,6 +14561,7 @@
   iso_3166_es_name: "Montenegro"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "MJ"
   #e164_country_code: "382"
   #e164_international_prefix: "99"
   #e164_national_prefix: "0"
@@ -14569,7 +14570,6 @@
   #ioc_country_code: MNE
   #currency: EUR
   #un_locode: ME
-  #fips_104: "MJ"
   #ungegn_en_name: "Montenegro"
   #ungegn_en_longname: "Montenegro"
   #ungegn_fr_name: "Monténégro (le)"
@@ -14665,6 +14665,7 @@
   iso_3166_es_name: "Saint Martin (parte Francesa)"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "RN"
   #e164_country_code: "590"
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -14673,7 +14674,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode:
-  #fips_104: "RN"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -14769,6 +14769,7 @@
   iso_3166_es_name: "Madagascar"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "MA"
   #e164_country_code: "261"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -14777,7 +14778,6 @@
   #ioc_country_code: MAD
   #currency: ~
   #un_locode: MG
-  #fips_104: "MA"
   #ungegn_en_name: "Madagascar"
   #ungegn_en_longname: "the Republic of Madagascar"
   #ungegn_fr_name: "Madagascar"
@@ -14873,6 +14873,7 @@
   iso_3166_es_name: "Islas Marshall"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "RM"
   #e164_country_code: "692"
   #e164_international_prefix: "00"
   #e164_national_prefix: "1"
@@ -14881,7 +14882,6 @@
   #ioc_country_code: MHL
   #currency: USD
   #un_locode: MH
-  #fips_104: "RM"
   #ungegn_en_name: "Marshall Islands (the)"
   #ungegn_en_longname: "the Republic of the Marshall Islands"
   #ungegn_fr_name: "Îles Marshall (les)"
@@ -14977,6 +14977,7 @@
   iso_3166_es_name: "ex República Yugoslava de Macedonia"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "MK"
   #e164_country_code: "389"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -14985,7 +14986,6 @@
   #ioc_country_code: MKD
   #currency: ~
   #un_locode: MK
-  #fips_104: "MK"
   #ungegn_en_name: "The former Yugoslav Republic of Macedonia"
   #ungegn_en_longname: "The former Yugoslav Republic of Macedonia"
   #ungegn_fr_name: "ex-République yougoslave de Macédoine (l')"
@@ -15086,6 +15086,7 @@
   iso_3166_es_name: "Malí"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "ML"
   #e164_country_code: "223"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -15094,7 +15095,6 @@
   #ioc_country_code: MLI
   #currency: XOF
   #un_locode: ML
-  #fips_104: "ML"
   #ungegn_en_name: "Mali"
   #ungegn_en_longname: "the Republic of Mali"
   #ungegn_fr_name: "Mali (le)"
@@ -15190,6 +15190,7 @@
   iso_3166_es_name: "Myanmar"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "BM"
   #e164_country_code: "95"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -15198,7 +15199,6 @@
   #ioc_country_code: MYA
   #currency: MNK
   #un_locode: MM
-  #fips_104: "BM"
   #ungegn_en_name: "Myanmar"
   #ungegn_en_longname: "the Republic of the Union of Myanmar"
   #ungegn_fr_name: "Myanmar (le)"
@@ -15294,6 +15294,7 @@
   iso_3166_es_name: "Mongolia"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "MG"
   #e164_country_code: "976"
   #e164_international_prefix: "001"
   #e164_national_prefix: "0"
@@ -15302,7 +15303,6 @@
   #ioc_country_code: MGL
   #currency: MNT
   #un_locode: MN
-  #fips_104: "MG"
   #ungegn_en_name: "Mongolia"
   #ungegn_en_longname: "Mongolia"
   #ungegn_fr_name: "Mongolie (la)"
@@ -15398,6 +15398,7 @@
   iso_3166_es_name: "Macao"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "MC"
   #e164_country_code: "853"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -15406,7 +15407,6 @@
   #ioc_country_code:
   #currency: ~
   #un_locode: MO
-  #fips_104: "MC"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -15502,6 +15502,7 @@
   iso_3166_es_name: "Islas Marianas Septentrionales"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "CQ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -15510,7 +15511,6 @@
   #ioc_country_code:
   #currency: USD
   #un_locode: MP
-  #fips_104: "CQ"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -15606,6 +15606,7 @@
   iso_3166_es_name: "Martinica"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "MB"
   #e164_country_code: "596"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -15614,7 +15615,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: MQ
-  #fips_104: "MB"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -15710,6 +15710,7 @@
   iso_3166_es_name: "Mauritania"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "MR"
   #e164_country_code: "222"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -15718,7 +15719,6 @@
   #ioc_country_code: MTN
   #currency: MRO
   #un_locode: MR
-  #fips_104: "MR"
   #ungegn_en_name: "Mauritania"
   #ungegn_en_longname: "the Islamic Republic of Mauritania"
   #ungegn_fr_name: "Mauritanie (la)"
@@ -15814,6 +15814,7 @@
   iso_3166_es_name: "Montserrat"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "MH"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -15822,7 +15823,6 @@
   #ioc_country_code:
   #currency: XCD
   #un_locode: MS
-  #fips_104: "MH"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -15918,6 +15918,7 @@
   iso_3166_es_name: "Malta"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "MT"
   #e164_country_code: "356"
   #e164_international_prefix: "00"
   #e164_national_prefix: "21"
@@ -15926,7 +15927,6 @@
   #ioc_country_code: MLT
   #currency: EUR
   #un_locode: MT
-  #fips_104: "MT"
   #ungegn_en_name: "Malta"
   #ungegn_en_longname: "the Republic of Malta"
   #ungegn_fr_name: "Malte"
@@ -16022,6 +16022,7 @@
   iso_3166_es_name: "Mauricio"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "MP"
   #e164_country_code: "230"
   #e164_international_prefix: "020"
   #e164_national_prefix: None
@@ -16030,7 +16031,6 @@
   #ioc_country_code: MRI
   #currency: MUR
   #un_locode: MU
-  #fips_104: "MP"
   #ungegn_en_name: "Mauritius"
   #ungegn_en_longname: "The Republic of Mauritius"
   #ungegn_fr_name: "Maurice"
@@ -16126,6 +16126,7 @@
   iso_3166_es_name: "Maldivas"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "MV"
   #e164_country_code: "960"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -16134,7 +16135,6 @@
   #ioc_country_code: MDV
   #currency: MVR
   #un_locode: MV
-  #fips_104: "MV"
   #ungegn_en_name: "Maldives"
   #ungegn_en_longname: "the Republic of Maldives"
   #ungegn_fr_name: "Maldives (les)"
@@ -16230,6 +16230,7 @@
   iso_3166_es_name: "Malawi"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "MI"
   #e164_country_code: "265"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -16238,7 +16239,6 @@
   #ioc_country_code: MAW
   #currency: MWK
   #un_locode: MW
-  #fips_104: "MI"
   #ungegn_en_name: "Malawi"
   #ungegn_en_longname: "the Republic of Malawi"
   #ungegn_fr_name: "Malawi (le)"
@@ -16334,6 +16334,7 @@
   iso_3166_es_name: "México"
   iso_3166_region: "19"
   iso_3166_subregion: "13"
+  fips_104: "MX"
   #e164_country_code: "52"
   #e164_international_prefix: "00"
   #e164_national_prefix: "01"
@@ -16342,7 +16343,6 @@
   #ioc_country_code: MEX
   #currency: MXN
   #un_locode: MX
-  #fips_104: "MX"
   #ungegn_en_name: "Mexico"
   #ungegn_en_longname: "the United Mexican States"
   #ungegn_fr_name: "Mexique (le)"
@@ -16443,6 +16443,7 @@
   iso_3166_es_name: "Malasia"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "MY"
   #e164_country_code: "60"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -16451,7 +16452,6 @@
   #ioc_country_code: MAS
   #currency: MYR
   #un_locode: MY
-  #fips_104: "MY"
   #ungegn_en_name: "Malaysia"
   #ungegn_en_longname: "Malaysia"
   #ungegn_fr_name: "Malaisie (la)"
@@ -16547,6 +16547,7 @@
   iso_3166_es_name: "Mozambique"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "MZ"
   #e164_country_code: "258"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -16555,7 +16556,6 @@
   #ioc_country_code: MOZ
   #currency: MZN
   #un_locode: MZ
-  #fips_104: "MZ"
   #ungegn_en_name: "Mozambique"
   #ungegn_en_longname: "the Republic of Mozambique"
   #ungegn_fr_name: "Mozambique (le)"
@@ -16651,6 +16651,7 @@
   iso_3166_es_name: "Namibia"
   iso_3166_region: "2"
   iso_3166_subregion: "18"
+  fips_104: "WA"
   #e164_country_code: "264"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -16659,7 +16660,6 @@
   #ioc_country_code: NAM
   #currency: NAD
   #un_locode: NA
-  #fips_104: "WA"
   #ungegn_en_name: "Namibia"
   #ungegn_en_longname: "the Republic of Namibia"
   #ungegn_fr_name: "Namibie (la)"
@@ -16755,6 +16755,7 @@
   iso_3166_es_name: "Nueva Caledonia"
   iso_3166_region: "9"
   iso_3166_subregion: "54"
+  fips_104: "NC"
   #e164_country_code: "687"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -16763,7 +16764,6 @@
   #ioc_country_code:
   #currency: XPF
   #un_locode: NC
-  #fips_104: "NC"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -16859,6 +16859,7 @@
   iso_3166_es_name: "Níger"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "NG"
   #e164_country_code: "227"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -16867,7 +16868,6 @@
   #ioc_country_code: NIG
   #currency: XOF
   #un_locode: NE
-  #fips_104: "NG"
   #ungegn_en_name: "Niger (the)"
   #ungegn_en_longname: "the Republic of the Niger"
   #ungegn_fr_name: "Niger (le)"
@@ -16963,6 +16963,7 @@
   iso_3166_es_name: "Islas Norfolk"
   iso_3166_region: "9"
   iso_3166_subregion: "53"
+  fips_104: "NF"
   #e164_country_code: "672"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -16971,7 +16972,6 @@
   #ioc_country_code:
   #currency: AUD
   #un_locode: NF
-  #fips_104: "NF"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -17067,6 +17067,7 @@
   iso_3166_es_name: "Nigeria"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "NI"
   #e164_country_code: "234"
   #e164_international_prefix: 009
   #e164_national_prefix: "0"
@@ -17075,7 +17076,6 @@
   #ioc_country_code: NGR
   #currency: NGN
   #un_locode: NG
-  #fips_104: "NI"
   #ungegn_en_name: "Nigeria"
   #ungegn_en_longname: "the Federal Republic of Nigeria"
   #ungegn_fr_name: "Nigéria (le)"
@@ -17171,6 +17171,7 @@
   iso_3166_es_name: "Nicaragua"
   iso_3166_region: "19"
   iso_3166_subregion: "13"
+  fips_104: "NU"
   #e164_country_code: "505"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -17179,7 +17180,6 @@
   #ioc_country_code: NCA
   #currency: NIO
   #un_locode: NI
-  #fips_104: "NU"
   #ungegn_en_name: "Nicaragua"
   #ungegn_en_longname: "the Republic of Nicaragua"
   #ungegn_fr_name: "Nicaragua (le)"
@@ -17275,6 +17275,7 @@
   iso_3166_es_name: "Países Bajos"
   iso_3166_region: "150"
   iso_3166_subregion: "155"
+  fips_104: "NL"
   #e164_country_code: "31"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -17283,7 +17284,6 @@
   #ioc_country_code: NED
   #currency: EUR
   #un_locode: NL
-  #fips_104: "NL"
   #ungegn_en_name: "Netherlands (the)"
   #ungegn_en_longname: "the Kingdom of the Netherlands"
   #ungegn_fr_name: "Pays-Bas (les)"
@@ -17372,7 +17372,7 @@
 -
   id: 166
   continent_ids: [2, 7, 8]
-  iso_3166_alpha2: NO
+  iso_3166_alpha2: "NO"
   iso_3166_alpha3: NOR
   iso_3166_numeric3: "578"
   iso_3166_en_name: "Norway"
@@ -17384,6 +17384,7 @@
   iso_3166_es_name: "Noruega"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "NO"
   #e164_country_code: "47"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -17392,7 +17393,6 @@
   #ioc_country_code: NOR
   #currency: NOK
   #un_locode: NL
-  #fips_104: "NO"
   #ungegn_en_name: "Norway"
   #ungegn_en_longname: "the Kingdom of Norway"
   #ungegn_fr_name: "Norvège (la)"
@@ -17493,6 +17493,7 @@
   iso_3166_es_name: "Nepal"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "NP"
   #e164_country_code: "977"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -17501,7 +17502,6 @@
   #ioc_country_code: NEP
   #currency: NPR
   #un_locode: NP
-  #fips_104: "NP"
   #ungegn_en_name: "Nepal"
   #ungegn_en_longname: "the Federal Democratic Republic of Nepal"
   #ungegn_fr_name: "Népal (le)"
@@ -17597,6 +17597,7 @@
   iso_3166_es_name: "Nauru"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "NR"
   #e164_country_code: "674"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -17605,7 +17606,6 @@
   #ioc_country_code: NRU
   #currency: AUD
   #un_locode: NR
-  #fips_104: "NR"
   #ungegn_en_name: "Nauru"
   #ungegn_en_longname: "the Republic of Nauru"
   #ungegn_fr_name: "Nauru"
@@ -17701,6 +17701,7 @@
   iso_3166_es_name: "Niue"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "NE"
   #e164_country_code: "683"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -17709,7 +17710,6 @@
   #ioc_country_code:
   #currency: ~
   #un_locode: NU
-  #fips_104: "NE"
   #ungegn_en_name: ""
   #ungegn_en_longname: "Niue"
   #ungegn_fr_name: ""
@@ -17805,6 +17805,7 @@
   iso_3166_es_name: "Nueva Zelandia"
   iso_3166_region: "9"
   iso_3166_subregion: "53"
+  fips_104: "NZ"
   #e164_country_code: "64"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0 (None fo"
@@ -17813,7 +17814,6 @@
   #ioc_country_code: NZL
   #currency: NZD
   #un_locode: NZ
-  #fips_104: "NZ"
   #ungegn_en_name: "New Zealand"
   #ungegn_en_longname: "New Zealand"
   #ungegn_fr_name: "Nouvelle-Zélande (la)"
@@ -17915,6 +17915,7 @@
   iso_3166_es_name: "Omán"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "MU"
   #e164_country_code: "968"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -17923,7 +17924,6 @@
   #ioc_country_code: OMA
   #currency: OMR
   #un_locode: OM
-  #fips_104: "MU"
   #ungegn_en_name: "Oman"
   #ungegn_en_longname: "the Sultanate of Oman"
   #ungegn_fr_name: "Oman (l')"
@@ -18025,6 +18025,7 @@
   iso_3166_es_name: "Panamá"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "PM"
   #e164_country_code: "507"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -18033,7 +18034,6 @@
   #ioc_country_code: PAN
   #currency: PAB
   #un_locode: PA
-  #fips_104: "PM"
   #ungegn_en_name: "Panama"
   #ungegn_en_longname: "the Republic of Panama"
   #ungegn_fr_name: "Panama (le)"
@@ -18129,6 +18129,7 @@
   iso_3166_es_name: "Perú"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "PE"
   #e164_country_code: "51"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -18137,7 +18138,6 @@
   #ioc_country_code: PER
   #currency: PEN
   #un_locode: PE
-  #fips_104: "PE"
   #ungegn_en_name: "Peru"
   #ungegn_en_longname: "the Republic of Peru"
   #ungegn_fr_name: "Pérou (le)"
@@ -18233,6 +18233,7 @@
   iso_3166_es_name: "Polinesia Francesa"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "FP"
   #e164_country_code: "689"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -18241,7 +18242,6 @@
   #ioc_country_code:
   #currency: XPF
   #un_locode: PF
-  #fips_104: "FP"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -18337,6 +18337,7 @@
   iso_3166_es_name: "Papua Nueva Guinea"
   iso_3166_region: "9"
   iso_3166_subregion: "54"
+  fips_104: "PP"
   #e164_country_code: "675"
   #e164_international_prefix: "05"
   #e164_national_prefix: None
@@ -18345,7 +18346,6 @@
   #ioc_country_code: PNG
   #currency: PGK
   #un_locode: PG
-  #fips_104: "PP"
   #ungegn_en_name: "Papua New Guinea"
   #ungegn_en_longname: "Papua New Guinea"
   #ungegn_fr_name: "Papouasie-Nouvelle-Guinée (la)"
@@ -18441,6 +18441,7 @@
   iso_3166_es_name: "Filipinas"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "RP"
   #e164_country_code: "63"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -18449,7 +18450,6 @@
   #ioc_country_code: PHI
   #currency: PHP
   #un_locode: PH
-  #fips_104: "RP"
   #ungegn_en_name: "Philippines (the)"
   #ungegn_en_longname: "the Republic of the Philippines"
   #ungegn_fr_name: "Philippines (les)"
@@ -18550,6 +18550,7 @@
   iso_3166_es_name: "Pakistán"
   iso_3166_region: "142"
   iso_3166_subregion: "34"
+  fips_104: "PK"
   #e164_country_code: "92"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -18558,7 +18559,6 @@
   #ioc_country_code: PAK
   #currency: PKR
   #un_locode: PK
-  #fips_104: "PK"
   #ungegn_en_name: "Pakistan"
   #ungegn_en_longname: "the Islamic Republic of Pakistan"
   #ungegn_fr_name: "Pakistan (le)"
@@ -18654,6 +18654,7 @@
   iso_3166_es_name: "Polonia"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "PL"
   #e164_country_code: "48"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -18662,7 +18663,6 @@
   #ioc_country_code: POL
   #currency: PLN
   #un_locode: PL
-  #fips_104: "PL"
   #ungegn_en_name: "Poland"
   #ungegn_en_longname: "the Republic of Poland"
   #ungegn_fr_name: "Pologne (la)"
@@ -18764,6 +18764,7 @@
   iso_3166_es_name: "San Pedro y Miquelón"
   iso_3166_region: "19"
   iso_3166_subregion: "21"
+  fips_104: "SB"
   #e164_country_code: "508"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -18772,7 +18773,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: PM
-  #fips_104: "SB"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -18868,6 +18868,7 @@
   iso_3166_es_name: "Pitcairn"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "PC"
   #e164_country_code: ""
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -18876,7 +18877,6 @@
   #ioc_country_code:
   #currency: NZD
   #un_locode: PN
-  #fips_104: "PC"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -18972,6 +18972,7 @@
   iso_3166_es_name: "Puerto Rico"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "RQ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -18980,7 +18981,6 @@
   #ioc_country_code: PUR
   #currency: USD
   #un_locode: PR
-  #fips_104: "RQ"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -19067,15 +19067,16 @@
   iso_3166_alpha2: PS
   iso_3166_alpha3: PSE
   iso_3166_numeric3: "275"
-  iso_3166_en_name: "Occupied Palestinian Territory"
-  iso_3166_en_proper: "Occupied Palestinian Territory"
+  iso_3166_en_name: "Palestine, State of"
+  iso_3166_en_proper: "Palestine, State of"
   iso_3166_en_ro_name: "Occupied Palestinian Territory"
   iso_3166_en_ro_proper: "Occupied Palestinian Territory"
-  iso_3166_fr_name: "Palestinien Occupé"
-  iso_3166_fr_proper: "Palestinien Occupé"
+  iso_3166_fr_name: "l'État de Palestine"
+  iso_3166_fr_proper: "l'État de Palestine"
   iso_3166_es_name: "Territori Palestína Ocupat"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: ""
   #e164_country_code: "970"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -19084,7 +19085,6 @@
   #ioc_country_code: PLE
   #currency: ~
   #un_locode:
-  #fips_104: ""
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -19147,15 +19147,15 @@
   translations_attributes:
     -
       locale: en
-      name: "Palestinian Territory, Occupied"
+      name: "Palestine, State of"
       alternative_names:
     -
       locale: fr
-      name: "Palestinien Occupé"
+      name: "l'État de Palestine"
       alternative_names:
     -
       locale: es
-      name: "Territori Palestína Ocupat"
+      name: ""
       alternative_names:
     -
       locale: it
@@ -19180,6 +19180,7 @@
   iso_3166_es_name: "Portugal"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "PO"
   #e164_country_code: "351"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -19188,7 +19189,6 @@
   #ioc_country_code: POR
   #currency: EUR
   #un_locode: PT
-  #fips_104: "PO"
   #ungegn_en_name: "Portugal"
   #ungegn_en_longname: "the Portuguese Republic"
   #ungegn_fr_name: "Portugal (le)"
@@ -19289,6 +19289,7 @@
   iso_3166_es_name: "Palau"
   iso_3166_region: "9"
   iso_3166_subregion: "57"
+  fips_104: "PS"
   #e164_country_code: "680"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -19297,7 +19298,6 @@
   #ioc_country_code: PLW
   #currency: USD
   #un_locode: PW
-  #fips_104: "PS"
   #ungegn_en_name: "Palau"
   #ungegn_en_longname: "the Republic of Palau"
   #ungegn_fr_name: "Palaos (les)"
@@ -19393,6 +19393,7 @@
   iso_3166_es_name: "Paraguay"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "PA"
   #e164_country_code: "595"
   #e164_international_prefix: "002"
   #e164_national_prefix: "0"
@@ -19401,7 +19402,6 @@
   #ioc_country_code: PAR
   #currency: PYG
   #un_locode: PY
-  #fips_104: "PA"
   #ungegn_en_name: "Paraguay"
   #ungegn_en_longname: "the Republic of Paraguay"
   #ungegn_fr_name: "Paraguay (le)"
@@ -19497,6 +19497,7 @@
   iso_3166_es_name: "Qatar"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "QA"
   #e164_country_code: "974"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -19505,7 +19506,6 @@
   #ioc_country_code: QAT
   #currency: QAR
   #un_locode: QA
-  #fips_104: "QA"
   #ungegn_en_name: "Qatar"
   #ungegn_en_longname: "the State of Qatar"
   #ungegn_fr_name: "Qatar (le)"
@@ -19606,6 +19606,7 @@
   iso_3166_es_name: "Reunión"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: ""
   #e164_country_code: "262"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -19614,7 +19615,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: RE
-  #fips_104: "RW"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -19710,6 +19710,7 @@
   iso_3166_es_name: "Rumania"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "RO"
   #e164_country_code: "40"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -19718,7 +19719,6 @@
   #ioc_country_code: ROU
   #currency: RON
   #un_locode: RO
-  #fips_104: "RO"
   #ungegn_en_name: "Romania"
   #ungegn_en_longname: "Romania"
   #ungegn_fr_name: "Roumanie (la)"
@@ -19819,6 +19819,7 @@
   iso_3166_es_name: "Serbia"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "RI"
   #e164_country_code: "381"
   #e164_international_prefix: "99"
   #e164_national_prefix: "0"
@@ -19827,7 +19828,6 @@
   #ioc_country_code: SRB
   #currency: RSD
   #un_locode: RS
-  #fips_104: "RI"
   #ungegn_en_name: "Serbia"
   #ungegn_en_longname: "the Republic of Serbia"
   #ungegn_fr_name: "Serbie (la)"
@@ -19923,6 +19923,7 @@
   iso_3166_es_name: "Federación de Rusia"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "RS"
   #e164_country_code: "7"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -19931,7 +19932,6 @@
   #ioc_country_code: RUS
   #currency: RUB
   #un_locode: RU
-  #fips_104: "RS"
   #ungegn_en_name: "Russian Federation (the)"
   #ungegn_en_longname: "the Russian Federation"
   #ungegn_fr_name: "Fédération de Russie (la)"
@@ -20032,6 +20032,7 @@
   iso_3166_es_name: "Rwanda"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "RW"
   #e164_country_code: "250"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -20040,7 +20041,6 @@
   #ioc_country_code: RWA
   #currency: RWF
   #un_locode: RW
-  #fips_104: "RW"
   #ungegn_en_name: "Rwanda"
   #ungegn_en_longname: "the Republic of Rwanda"
   #ungegn_fr_name: "Rwanda (le)"
@@ -20136,6 +20136,7 @@
   iso_3166_es_name: "Arabia Saudita"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "SA"
   #e164_country_code: "966"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -20144,7 +20145,6 @@
   #ioc_country_code: KSA
   #currency: SAR
   #un_locode: SA
-  #fips_104: "SA"
   #ungegn_en_name: "Saudi Arabia"
   #ungegn_en_longname: "the Kingdom of Saudi Arabia"
   #ungegn_fr_name: "Arabie saoudite (l')"
@@ -20245,6 +20245,7 @@
   iso_3166_es_name: "Islas Salomón"
   iso_3166_region: "9"
   iso_3166_subregion: "54"
+  fips_104: "BP"
   #e164_country_code: "677"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -20253,7 +20254,6 @@
   #ioc_country_code: SOL
   #currency: SBD
   #un_locode: SB
-  #fips_104: "BP"
   #ungegn_en_name: "Solomon Islands"
   #ungegn_en_longname: "Solomon Islands"
   #ungegn_fr_name: "Îles Salomon (les)"
@@ -20349,6 +20349,7 @@
   iso_3166_es_name: "Seychelles"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "SE"
   #e164_country_code: "248"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -20357,7 +20358,6 @@
   #ioc_country_code: SEY
   #currency: SCR
   #un_locode: SC
-  #fips_104: "SE"
   #ungegn_en_name: "Seychelles"
   #ungegn_en_longname: "the Republic of Seychelles"
   #ungegn_fr_name: "Seychelles (les)"
@@ -20453,6 +20453,7 @@
   iso_3166_es_name: "Sudán"
   iso_3166_region: "2"
   iso_3166_subregion: "15"
+  fips_104: "SU"
   #e164_country_code: "249"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -20461,7 +20462,6 @@
   #ioc_country_code: SUD
   #currency: SDG
   #un_locode: SD
-  #fips_104: "SU"
   #ungegn_en_name: "Sudan (the)"
   #ungegn_en_longname: "the Republic of the Sudan"
   #ungegn_fr_name: "Soudan (le)"
@@ -20557,6 +20557,7 @@
   iso_3166_es_name: "Suecia"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "SW"
   #e164_country_code: "46"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -20565,7 +20566,6 @@
   #ioc_country_code: SWE
   #currency: SEK
   #un_locode: SE
-  #fips_104: "SW"
   #ungegn_en_name: "Sweden"
   #ungegn_en_longname: "the Kingdom of Sweden"
   #ungegn_fr_name: "Suède (la)"
@@ -20666,6 +20666,7 @@
   iso_3166_es_name: "Singapur"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "SN"
   #e164_country_code: "65"
   #e164_international_prefix: "001"
   #e164_national_prefix: None
@@ -20674,7 +20675,6 @@
   #ioc_country_code: SIN
   #currency: SGD
   #un_locode: SG
-  #fips_104: "SN"
   #ungegn_en_name: "Singapore"
   #ungegn_en_longname: "the Republic of Singapore"
   #ungegn_fr_name: "Singapour"
@@ -20775,6 +20775,7 @@
   iso_3166_es_name: "Santa Elena, Ascensión y Tristán da Cunha"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "SH"
   #e164_country_code: "290"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -20783,7 +20784,6 @@
   #ioc_country_code:
   #currency: SHP
   #un_locode: SH
-  #fips_104: "SH"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -20879,6 +20879,7 @@
   iso_3166_es_name: "Eslovenia"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "SI"
   #e164_country_code: "386"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -20887,7 +20888,6 @@
   #ioc_country_code: SLO
   #currency: EUR
   #un_locode: SI
-  #fips_104: "SI"
   #ungegn_en_name: "Slovénie"
   #ungegn_en_longname: "the Republic of Slovenia"
   #ungegn_fr_name: "Slovénie (la)"
@@ -20988,6 +20988,7 @@
   iso_3166_es_name: "Islas Svalbard y Jan Mayen"
   iso_3166_region: "150"
   iso_3166_subregion: "154"
+  fips_104: "SV"
   #e164_country_code: "47"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -20996,7 +20997,6 @@
   #ioc_country_code:
   #currency: NOK
   #un_locode: SJ
-  #fips_104: "SV"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -21092,6 +21092,7 @@
   iso_3166_es_name: "República Eslovaca"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "LO"
   #e164_country_code: "421"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -21100,7 +21101,6 @@
   #ioc_country_code: SVK
   #currency: EUR
   #un_locode: SK
-  #fips_104: "LO"
   #ungegn_en_name: "Slovakia"
   #ungegn_en_longname: "the Slovenska Republika"
   #ungegn_fr_name: "Slovaquie (la)"
@@ -21201,6 +21201,7 @@
   iso_3166_es_name: "Sierra Leona"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "SL"
   #e164_country_code: "232"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -21209,7 +21210,6 @@
   #ioc_country_code: SLE
   #currency: SLL
   #un_locode: SL
-  #fips_104: "SL"
   #ungegn_en_name: "Sierra Leone"
   #ungegn_en_longname: "the Republic of Sierra Leone"
   #ungegn_fr_name: "Sierra Leone (la)"
@@ -21305,6 +21305,7 @@
   iso_3166_es_name: "San Marino"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "SM"
   #e164_country_code: "378"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -21313,7 +21314,6 @@
   #ioc_country_code: SMR
   #currency: EUR
   #un_locode: SM
-  #fips_104: "SM"
   #ungegn_en_name: "San Marino"
   #ungegn_en_longname: "the Republic of San Marino"
   #ungegn_fr_name: "Saint-Marin"
@@ -21409,6 +21409,7 @@
   iso_3166_es_name: "Senegal"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "SG"
   #e164_country_code: "221"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -21417,7 +21418,6 @@
   #ioc_country_code: SEN
   #currency: XOF
   #un_locode: SN
-  #fips_104: "SG"
   #ungegn_en_name: "Senegal"
   #ungegn_en_longname: "the Republic of Senegal"
   #ungegn_fr_name: "Sénégal (le)"
@@ -21513,6 +21513,7 @@
   iso_3166_es_name: "Somalí"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "SO"
   #e164_country_code: "252"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -21521,7 +21522,6 @@
   #ioc_country_code: SOM
   #currency: SOS
   #un_locode: SO
-  #fips_104: "SO"
   #ungegn_en_name: "Somalia"
   #ungegn_en_longname: "the Somalia Republic"
   #ungegn_fr_name: "Somalie (la)"
@@ -21617,6 +21617,7 @@
   iso_3166_es_name: "Suriname"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "NS"
   #e164_country_code: "597"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -21625,7 +21626,6 @@
   #ioc_country_code: SUR
   #currency: SRD
   #un_locode: SR
-  #fips_104: "NS"
   #ungegn_en_name: "Suriname"
   #ungegn_en_longname: "the Republic of Suriname"
   #ungegn_fr_name: "Suriname (le)"
@@ -21721,6 +21721,7 @@
   iso_3166_es_name: "Santo Tomé y Príncipe"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "TP"
   #e164_country_code: "239"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -21729,7 +21730,6 @@
   #ioc_country_code: STP
   #currency: STD
   #un_locode: ST
-  #fips_104: "TP"
   #ungegn_en_name: "Sao Tome and Principe"
   #ungegn_en_longname: "the Democratic Republic of Sao Tome and Principe"
   #ungegn_fr_name: "Sao Tomé-et-Principe"
@@ -21825,6 +21825,7 @@
   iso_3166_es_name: "El Salvador"
   iso_3166_region: "19"
   iso_3166_subregion: "13"
+  fips_104: "ES"
   #e164_country_code: "503"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -21833,7 +21834,6 @@
   #ioc_country_code: ESA
   #currency: USD
   #un_locode: SV
-  #fips_104: "ES"
   #ungegn_en_name: "El Salvador"
   #ungegn_en_longname: "the Republic of El Salvador"
   #ungegn_fr_name: "El Salvador"
@@ -21929,6 +21929,7 @@
   iso_3166_es_name: "República Árabe Siria"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "SY"
   #e164_country_code: "963"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -21937,7 +21938,6 @@
   #ioc_country_code: SYR
   #currency: SYP
   #un_locode: SY
-  #fips_104: "SY"
   #ungegn_en_name: "Syrian Arab Republic (the)"
   #ungegn_en_longname: "the Syrian Arab Republic"
   #ungegn_fr_name: "République arabe syrienne (la)"
@@ -22038,6 +22038,7 @@
   iso_3166_es_name: "Swazilandia"
   iso_3166_region: "2"
   iso_3166_subregion: "18"
+  fips_104: "WZ"
   #e164_country_code: "268"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -22046,7 +22047,6 @@
   #ioc_country_code: SWZ
   #currency: SZL
   #un_locode: SZ
-  #fips_104: "WZ"
   #ungegn_en_name: "Swaziland"
   #ungegn_en_longname: "the Kingdom of Swaziland"
   #ungegn_fr_name: "Swaziland (le)"
@@ -22142,6 +22142,7 @@
   iso_3166_es_name: "Islas Turcas y Caicos"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "TK"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -22150,7 +22151,6 @@
   #ioc_country_code:
   #currency: USD
   #un_locode: TC
-  #fips_104: "TK"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -22246,6 +22246,7 @@
   iso_3166_es_name: "Chad"
   iso_3166_region: "2"
   iso_3166_subregion: "17"
+  fips_104: "CD"
   #e164_country_code: "235"
   #e164_international_prefix: "15"
   #e164_national_prefix: None
@@ -22254,7 +22255,6 @@
   #ioc_country_code: CHA
   #currency: XAF
   #un_locode: TD
-  #fips_104: "CD"
   #ungegn_en_name: "Chad"
   #ungegn_en_longname: "the Republic of Chad"
   #ungegn_fr_name: "Tchad (le)"
@@ -22350,6 +22350,7 @@
   iso_3166_es_name: "Territorios Australes Franceses"
   iso_3166_region: "0"
   iso_3166_subregion: "0"
+  fips_104: "FS"
   #e164_country_code: ""
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -22358,7 +22359,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode:
-  #fips_104: "FS"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -22454,6 +22454,7 @@
   iso_3166_es_name: "Togo"
   iso_3166_region: "2"
   iso_3166_subregion: "11"
+  fips_104: "TO"
   #e164_country_code: "228"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -22462,7 +22463,6 @@
   #ioc_country_code: TOG
   #currency: XOF
   #un_locode: TG
-  #fips_104: "TO"
   #ungegn_en_name: "Togo"
   #ungegn_en_longname: "the Togolese Republic"
   #ungegn_fr_name: "Togo (le)"
@@ -22558,6 +22558,7 @@
   iso_3166_es_name: "Tailandia"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "TH"
   #e164_country_code: "66"
   #e164_international_prefix: "001"
   #e164_national_prefix: "0"
@@ -22566,7 +22567,6 @@
   #ioc_country_code: THA
   #currency: THB
   #un_locode: TH
-  #fips_104: "TH"
   #ungegn_en_name: "Thailand"
   #ungegn_en_longname: "the Kingdom of Thailand"
   #ungegn_fr_name: "Thaïlande (la)"
@@ -22662,6 +22662,7 @@
   iso_3166_es_name: "Tayikistán"
   iso_3166_region: "142"
   iso_3166_subregion: "143"
+  fips_104: "TI"
   #e164_country_code: "992"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -22670,7 +22671,6 @@
   #ioc_country_code: TJK
   #currency: TJS
   #un_locode: TJ
-  #fips_104: "TI"
   #ungegn_en_name: "Tajikistan"
   #ungegn_en_longname: "the Republic of Tajikistan"
   #ungegn_fr_name: "Tadjikistan (le)"
@@ -22766,6 +22766,7 @@
   iso_3166_es_name: "Tokelau"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "TL"
   #e164_country_code: "690"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -22774,7 +22775,6 @@
   #ioc_country_code:
   #currency: NZD
   #un_locode: TK
-  #fips_104: "TL"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -22870,6 +22870,7 @@
   iso_3166_es_name: "Timor-Leste"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "TT"
   #e164_country_code: "670"
   #e164_international_prefix: None
   #e164_national_prefix: None
@@ -22878,7 +22879,6 @@
   #ioc_country_code: TLS
   #currency: IDR
   #un_locode:
-  #fips_104: "TT"
   #ungegn_en_name: "Timor-Leste"
   #ungegn_en_longname: "the Democratic Republic of Timor-Leste"
   #ungegn_fr_name: "Timor-Leste (le)"
@@ -22974,6 +22974,7 @@
   iso_3166_es_name: "Turkmenistán"
   iso_3166_region: "142"
   iso_3166_subregion: "143"
+  fips_104: "TX"
   #e164_country_code: "993"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -22982,7 +22983,6 @@
   #ioc_country_code: TKM
   #currency: ~
   #un_locode: TM
-  #fips_104: "TX"
   #ungegn_en_name: "Turkmenistan"
   #ungegn_en_longname: "Turkmenistan"
   #ungegn_fr_name: "Turkménistan (le)"
@@ -23078,6 +23078,7 @@
   iso_3166_es_name: "Túnez"
   iso_3166_region: "2"
   iso_3166_subregion: "15"
+  fips_104: "TS"
   #e164_country_code: "216"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -23086,7 +23087,6 @@
   #ioc_country_code: TUN
   #currency: TND
   #un_locode: TN
-  #fips_104: "TS"
   #ungegn_en_name: "Tunisia"
   #ungegn_en_longname: "the Republic of Tunisia"
   #ungegn_fr_name: "Tunisie (la)"
@@ -23182,6 +23182,7 @@
   iso_3166_es_name: "Tonga"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "TN"
   #e164_country_code: "676"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -23190,7 +23191,6 @@
   #ioc_country_code: TGA
   #currency: TOP
   #un_locode: TO
-  #fips_104: "TN"
   #ungegn_en_name: "Tonga"
   #ungegn_en_longname: "the Kingdom of Tonga"
   #ungegn_fr_name: "Tonga (les)"
@@ -23286,6 +23286,7 @@
   iso_3166_es_name: "Turquía"
   iso_3166_region: "142"
   iso_3166_subregion: "145"
+  fips_104: "TU"
   #e164_country_code: "90"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -23294,7 +23295,6 @@
   #ioc_country_code: TUR
   #currency: TRY
   #un_locode: TR
-  #fips_104: "TU"
   #ungegn_en_name: "Turkey"
   #ungegn_en_longname: "the Republic of Turkey"
   #ungegn_fr_name: "Turquie (la)"
@@ -23395,6 +23395,7 @@
   iso_3166_es_name: "Trinidad y Tabago"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "TD"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -23403,7 +23404,6 @@
   #ioc_country_code: TRI
   #currency: TTD
   #un_locode: TT
-  #fips_104: "TD"
   #ungegn_en_name: "Trinidad and Tobago"
   #ungegn_en_longname: "the Republic of Trinidad and Tobago"
   #ungegn_fr_name: "Trinité-et-Tobago (la)"
@@ -23499,6 +23499,7 @@
   iso_3166_es_name: "Tuvalu"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "TV"
   #e164_country_code: "688"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -23507,7 +23508,6 @@
   #ioc_country_code: TUV
   #currency: TVD
   #un_locode: TV
-  #fips_104: "TV"
   #ungegn_en_name: "Tuvalu"
   #ungegn_en_longname: "Tuvalu"
   #ungegn_fr_name: "Tuvalu"
@@ -23603,6 +23603,7 @@
   iso_3166_es_name: "Provincia china de Taiwán"
   iso_3166_region: "142"
   iso_3166_subregion: "30"
+  fips_104: "TW"
   #e164_country_code: "886"
   #e164_international_prefix: "002"
   #e164_national_prefix: None
@@ -23611,7 +23612,6 @@
   #ioc_country_code: TPE
   #currency: TWD
   #un_locode: TW
-  #fips_104: "TW"
   #ungegn_en_name: ""
   #ungegn_en_longname: "Republic of China"
   #ungegn_fr_name: ""
@@ -23712,6 +23712,7 @@
   iso_3166_es_name: "República Unida de Tanzanía"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "TZ"
   #e164_country_code: "255"
   #e164_international_prefix: "000"
   #e164_national_prefix: "0"
@@ -23720,7 +23721,6 @@
   #ioc_country_code: TAN
   #currency: TZS
   #un_locode: TZ
-  #fips_104: "TZ"
   #ungegn_en_name: "United Republic of Tanzania (the)"
   #ungegn_en_longname: "the United Republic of Tanzania"
   #ungegn_fr_name: "République-Unie de Tanzanie (la)"
@@ -23816,6 +23816,7 @@
   iso_3166_es_name: "Ucrania"
   iso_3166_region: "150"
   iso_3166_subregion: "151"
+  fips_104: "UP"
   #e164_country_code: "380"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -23824,7 +23825,6 @@
   #ioc_country_code: UKR
   #currency: UAH
   #un_locode: UA
-  #fips_104: "UP"
   #ungegn_en_name: "Ukraine"
   #ungegn_en_longname: "Ukraine"
   #ungegn_fr_name: "Ukraine (l')"
@@ -23926,6 +23926,7 @@
   iso_3166_es_name: "Uganda"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "UG"
   #e164_country_code: "256"
   #e164_international_prefix: "000"
   #e164_national_prefix: "0"
@@ -23934,7 +23935,6 @@
   #ioc_country_code: UGA
   #currency: UGX
   #un_locode: UG
-  #fips_104: "UG"
   #ungegn_en_name: "Uganda"
   #ungegn_en_longname: "the Republic of Uganda"
   #ungegn_fr_name: "Ouganda (l')"
@@ -24030,6 +24030,7 @@
   iso_3166_es_name: "Estados Unidos Islas Menores"
   iso_3166_region: "9"
   iso_3166_subregion: "0"
+  fips_104: ""
   #e164_country_code: ""
   #e164_international_prefix: ""
   #e164_national_prefix: ""
@@ -24038,7 +24039,6 @@
   #ioc_country_code:
   #currency: USD
   #un_locode: UM
-  #fips_104: ""
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -24134,6 +24134,7 @@
   iso_3166_es_name: "Estados Unidos de América"
   iso_3166_region: "19"
   iso_3166_subregion: "21"
+  fips_104: "US"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -24142,7 +24143,6 @@
   #ioc_country_code: USA
   #currency: USD
   #un_locode: US
-  #fips_104: "US"
   #ungegn_en_name: "United States of America (the)"
   #ungegn_en_longname: "the United States of America"
   #ungegn_fr_name: "États-Unis d'Amérique (les)"
@@ -24243,6 +24243,7 @@
   iso_3166_es_name: "Uruguay"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "UY"
   #e164_country_code: "598"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -24251,7 +24252,6 @@
   #ioc_country_code: URU
   #currency: UYU
   #un_locode: UY
-  #fips_104: "UY"
   #ungegn_en_name: "Uruguay"
   #ungegn_en_longname: "the Eastern Republic of Uruguay"
   #ungegn_fr_name: "Uruguay (l')"
@@ -24347,6 +24347,7 @@
   iso_3166_es_name: "Uzbekistán"
   iso_3166_region: "142"
   iso_3166_subregion: "143"
+  fips_104: "UZ"
   #e164_country_code: "998"
   #e164_international_prefix: "810"
   #e164_national_prefix: "8"
@@ -24355,7 +24356,6 @@
   #ioc_country_code: UZB
   #currency: UZS
   #un_locode: UZ
-  #fips_104: "UZ"
   #ungegn_en_name: "Uzbekistan"
   #ungegn_en_longname: "the Republic of Uzbekistan"
   #ungegn_fr_name: "Ouzbékistan (l')"
@@ -24451,6 +24451,7 @@
   iso_3166_es_name: "Santa Sede"
   iso_3166_region: "150"
   iso_3166_subregion: "39"
+  fips_104: "VT"
   #e164_country_code: "39"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -24459,7 +24460,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: VA
-  #fips_104: "VT"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -24555,6 +24555,7 @@
   iso_3166_es_name: "San Vicente y las Granadinas"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "VC"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -24563,7 +24564,6 @@
   #ioc_country_code: VIN
   #currency: XCD
   #un_locode: VC
-  #fips_104: "VC"
   #ungegn_en_name: "Saint Vincent and The Grenadines"
   #ungegn_en_longname: "Saint Vincent and the Grenadines"
   #ungegn_fr_name: "Saint-Vincent-et-les Grenadines"
@@ -24659,6 +24659,7 @@
   iso_3166_es_name: "Venezuela"
   iso_3166_region: "19"
   iso_3166_subregion: "5"
+  fips_104: "VE"
   #e164_country_code: "58"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -24667,7 +24668,6 @@
   #ioc_country_code: VEN
   #currency: VEF
   #un_locode: VE
-  #fips_104: "VE"
   #ungegn_en_name: "Venezuela (Bolivarian Republic of)"
   #ungegn_en_longname: "the Bolivarian Republic of Venezuela"
   #ungegn_fr_name: "Venezuela (République bolivarienne du)"
@@ -24763,6 +24763,7 @@
   iso_3166_es_name: "Islas Vírgenes Británicas"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "VI"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -24771,7 +24772,6 @@
   #ioc_country_code: IVB
   #currency: USD
   #un_locode: VG
-  #fips_104: "VI"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -24867,6 +24867,7 @@
   iso_3166_es_name: "Islas Vírgenes de los Estados Unidos"
   iso_3166_region: "19"
   iso_3166_subregion: "29"
+  fips_104: "VQ"
   #e164_country_code: "1"
   #e164_international_prefix: "011"
   #e164_national_prefix: "1"
@@ -24875,7 +24876,6 @@
   #ioc_country_code: ISV
   #currency: USD
   #un_locode: VI
-  #fips_104: "VQ"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -24971,6 +24971,7 @@
   iso_3166_es_name: "Viet Nam"
   iso_3166_region: "142"
   iso_3166_subregion: "35"
+  fips_104: "VM"
   #e164_country_code: "84"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -24979,7 +24980,6 @@
   #ioc_country_code: VIE
   #currency: VND
   #un_locode: VN
-  #fips_104: "VM"
   #ungegn_en_name: "Viet Nam"
   #ungegn_en_longname: "the Socialist Republic of Vietnam"
   #ungegn_fr_name: "Viet Nam (le)"
@@ -25075,6 +25075,7 @@
   iso_3166_es_name: "Vanuatu"
   iso_3166_region: "9"
   iso_3166_subregion: "54"
+  fips_104: "NH"
   #e164_country_code: "678"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -25083,7 +25084,6 @@
   #ioc_country_code: VAN
   #currency: ~
   #un_locode: VU
-  #fips_104: "NH"
   #ungegn_en_name: "Vanuatu"
   #ungegn_en_longname: "the Republic of Vanuatu"
   #ungegn_fr_name: "Vanuatu"
@@ -25179,6 +25179,7 @@
   iso_3166_es_name: "Islas Wallis y Futuna"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "WF"
   #e164_country_code: "681"
   #e164_international_prefix: "19"
   #e164_national_prefix: None
@@ -25187,7 +25188,6 @@
   #ioc_country_code:
   #currency: XPF
   #un_locode: WF
-  #fips_104: "WF"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -25283,6 +25283,7 @@
   iso_3166_es_name: "Samoa"
   iso_3166_region: "9"
   iso_3166_subregion: "61"
+  fips_104: "WS"
   #e164_country_code: "685"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -25291,7 +25292,6 @@
   #ioc_country_code: SAM
   #currency: USD
   #un_locode: WS
-  #fips_104: "WS"
   #ungegn_en_name: "Samoa"
   #ungegn_en_longname: "the Independent State of Samoa"
   #ungegn_fr_name: "Samoa (le)"
@@ -25387,6 +25387,7 @@
   iso_3166_es_name: "Yemen"
   iso_3166_region: "142"
   iso_3166_subregion: "143"
+  fips_104: "YM"
   #e164_country_code: "967"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -25395,7 +25396,6 @@
   #ioc_country_code: YEM
   #currency: YER
   #un_locode: YE
-  #fips_104: "YM"
   #ungegn_en_name: "Yemen"
   #ungegn_en_longname: "the Republic of Yemen"
   #ungegn_fr_name: "Yémen (le)"
@@ -25496,6 +25496,7 @@
   iso_3166_es_name: "Mayotte"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "MF"
   #e164_country_code: "269"
   #e164_international_prefix: "00"
   #e164_national_prefix: None
@@ -25504,7 +25505,6 @@
   #ioc_country_code:
   #currency: EUR
   #un_locode: YT
-  #fips_104: "MF"
   #ungegn_en_name: ""
   #ungegn_en_longname: ""
   #ungegn_fr_name: ""
@@ -25600,6 +25600,7 @@
   iso_3166_es_name: "Sudáfrica"
   iso_3166_region: "2"
   iso_3166_subregion: "18"
+  fips_104: "SF"
   #e164_country_code: "27"
   #e164_international_prefix: 09
   #e164_national_prefix: "0"
@@ -25608,7 +25609,6 @@
   #ioc_country_code: RSA
   #currency: ZAR
   #un_locode: ZA
-  #fips_104: "SF"
   #ungegn_en_name: "South Africa"
   #ungegn_en_longname: "Republic of South Africa (the)"
   #ungegn_fr_name: "Afrique du Sud (l')"
@@ -25704,6 +25704,7 @@
   iso_3166_es_name: "Zambia"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "ZA"
   #e164_country_code: "260"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -25712,7 +25713,6 @@
   #ioc_country_code: ZAM
   #currency: ZMK
   #un_locode: ZM
-  #fips_104: "ZA"
   #ungegn_en_name: "Zambia"
   #ungegn_en_longname: "the Republic of Zambia"
   #ungegn_fr_name: "Zambie (la)"
@@ -25808,6 +25808,7 @@
   iso_3166_es_name: "Zimbabwe"
   iso_3166_region: "2"
   iso_3166_subregion: "14"
+  fips_104: "ZI"
   #e164_country_code: "263"
   #e164_international_prefix: "00"
   #e164_national_prefix: "0"
@@ -25816,7 +25817,6 @@
   #ioc_country_code: ZIM
   #currency: ZWD
   #un_locode: ZW
-  #fips_104: "ZI"
   #ungegn_en_name: "Zimbabwe"
   #ungegn_en_longname: "the Republic of Zimbabwe"
   #ungegn_fr_name: "Zimbabwe (le)"

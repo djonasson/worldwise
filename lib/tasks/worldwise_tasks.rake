@@ -7,7 +7,6 @@ DATA_DIR = Worldwise::Engine.root.join('db/data')
 namespace :worldwise do
 
   namespace :load_data do
-
     desc "Import all data"
     task all: :environment do
       import_continent_models
@@ -29,7 +28,6 @@ namespace :worldwise do
     task countries: :environment do
       import_countries
     end
-
   end
 
 end
@@ -44,6 +42,12 @@ def import_continent_models
 end
 
 def import_continents
+  Continent.class_eval do
+    def neighbor_ids=(ids)
+      write_attribute(:neighbor_ids, ids.select { |i| Continent.find(i) rescue false })
+    end
+  end
+
   puts "\n"; print "Loading Continents: "
   seed_file = File.join(DATA_DIR, 'continents.yml')
   YAML::load_file(seed_file).each do |record|
