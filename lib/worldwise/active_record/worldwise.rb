@@ -3,7 +3,7 @@ module Worldwise
     module Worldwise
 
       def worldwise
-        extend ActsAsNeighbor, ClassMethods
+        extend ClassMethods
       end
 
     end

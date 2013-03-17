@@ -1,4 +1,5 @@
 require "globalize3"
+require "symmetry"
 
 require "worldwise/engine"
 

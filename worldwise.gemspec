@@ -24,4 +24,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", ">= 3.1.0"
   s.add_dependency "globalize3", ">= 0.3.0"
+  s.add_dependency "symmetry", ">= 0.0.1"
 end

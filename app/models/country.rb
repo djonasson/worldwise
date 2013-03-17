@@ -36,7 +36,7 @@ class Country < ActiveRecord::Base
 
   has_and_belongs_to_many :continents
 
-  acts_as_neighbor
+  symmetric_relation :neighbors, polymorphic_relation_name: :neighborships
 
   accepts_nested_attributes_for :translations
 end
