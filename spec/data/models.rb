@@ -1,5 +1,7 @@
 class TestWorldwise < ActiveRecord::Base
-  attr_accessible :name, :description
+  translates :name, fallbacks_for_empty_translations: true
+  attr_accessible :code, :name, :description, :translations_attributes
+  accepts_nested_attributes_for :translations
   worldwise
 end
 

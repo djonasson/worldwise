@@ -20,15 +20,16 @@ describe "Worldwise" do
   context "an instance of an ActiveRecord class calling worldwise" do
     context "create_or_update" do
       before :each do
-        @tw = TestWorldwise.create_or_update id: 1, name: "Name", description: "Description"
+        @tw = TestWorldwise.create_or_update id: 1, code: "Code", name: "Name", description: "Description"
         @count = TestWorldwise.count
-        TestWorldwise.create_or_update "id" => @tw.id, "name" => "New Name"
+        TestWorldwise.create_or_update "id" => @tw.id, "translations_attributes" => [{ "locale" => "en", "name" => "New Name" }]
         @tw.reload
       end
       after :each do
         TestWorldwise.delete_all
       end
       it "should update passed in fields an leave others alone" do
+        @tw.code.should == "Code"
         @tw.name.should == "New Name"
         @tw.description.should == "Description"
       end
