@@ -1,4 +1,5 @@
 class TestWorldwise < ActiveRecord::Base
+  attr_accessible :name, :description
   worldwise
 end
 

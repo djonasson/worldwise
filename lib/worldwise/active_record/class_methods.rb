@@ -2,6 +2,7 @@ module Worldwise
   module ActiveRecord
     module ClassMethods
 
+      ##
       # Given a hash of attributes including the ID, look up the record by ID.
       # If it exists, it is updated with the given options.
       # If it does not exist, it is created with the rest of the options.
@@ -11,14 +12,12 @@ module Worldwise
       #
       # Returns the record.
       #
-      # TODO: This method needs optimizing and better documentation
+      # TODO: This method needs optimizing, testing and better documentation
       def create_or_update(options = {})
         id = options.delete('id')
         translations_attributes = options.delete('translations_attributes') || {}
         record = find_by_id(id) || new
         record.id = id
-        #puts 'XXXXXXXXXXXXXXXX ' + record.attributes.inspect
-        #puts 'YYYYYYYYYYYYYYYY ' + options.inspect + ' --- ' + translations_attributes.inspect
         record.attributes = options
         translations_attributes.each do |ta|
           ta.delete("#{record.class.name.underscore}_id")

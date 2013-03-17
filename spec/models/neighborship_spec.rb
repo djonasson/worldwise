@@ -8,21 +8,6 @@ describe Neighborship do
 
   it { should validate_uniqueness_of(:owner_id).scoped_to(:owner_type, :neighbor_id, :neighbor_type) }
 
-  context "ActiveRecord::Base" do
-    it "should respond to :worldwise" do
-      ActiveRecord::Base.should respond_to :worldwise
-    end
-    it "should not respond to :acts_as_neighbor" do
-      ActiveRecord::Base.should_not respond_to :acts_as_neighbor
-    end
-  end
-
-  context "an ActiveRecord class calling worldwise" do
-    it "should respond to :acts_as_neighbor" do
-      TestWorldwise.should respond_to :acts_as_neighbor
-    end
-  end
-
   context "an instance of an ActiveRecord class calling worldwise and acts_as_neighbor" do
     let(:tn) { TestNeighborship.new }
     let(:tn2) { TestNeighborship.new }
