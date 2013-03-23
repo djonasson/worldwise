@@ -7,5 +7,5 @@ end
 
 class TestNeighborship < ActiveRecord::Base
   worldwise
-  symmetric_relation :neighbors, polymorphic_relation_name: :neighborships
+  symmetric_relationship :neighbors, polymorphic_relationship_name: :neighborships
 end

@@ -12,7 +12,7 @@ class Continent < ActiveRecord::Base
   has_and_belongs_to_many :continent_models
   has_and_belongs_to_many :countries
 
-  symmetric_relation :neighbors, polymorphic_relation_name: :neighborships
+  symmetric_relationship :neighbors, polymorphic_relationship_name: :neighborships
 
   accepts_nested_attributes_for :translations
 
