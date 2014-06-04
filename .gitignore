@@ -17,5 +17,6 @@ rerun.txt
 /spec/dummy/.sass-cache
 /spec/dummy/tmp/
 /spec/tmp/*
+tags
 /tmp/*
 /vendor/bundle
