@@ -3,7 +3,6 @@
 *STATUS*: In development - not ready to be used.
 
 {<img src="https://travis-ci.org/djonasson/worldwise.png?branch=master" alt="Build Status" />}[https://travis-ci.org/djonasson/worldwise]
-{<img src="https://gemnasium.com/djonasson/worldwise.png" alt="Dependency Status" />}[https://gemnasium.com/djonasson/worldwise]
 {<img src="https://codeclimate.com/github/djonasson/worldwise.png" alt="Code Climate" />}[https://codeclimate.com/github/djonasson/worldwise]
 {<img src="https://coveralls.io/repos/djonasson/worldwise/badge.png?branch=master" alt="Coverage Status" />}[https://coveralls.io/r/djonasson/worldwise]
 {<img src="https://badge.fury.io/rb/worldwise.png" alt="Gem Version" />}[http://badge.fury.io/rb/worldwise]
